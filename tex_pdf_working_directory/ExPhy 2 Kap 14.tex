@@ -1,0 +1,154 @@
+\documentclass[11pt]{article}
+
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage{mathabx}
+\usepackage{framed}
+\usepackage{booktabs}
+\usepackage{mathtools}
+\usepackage{hyperref}
+
+\hypersetup
+	{ 
+		colorlinks=true,       % false: boxed links; true: colored links
+%		hidelinks,
+		linkcolor=blue,          % color of internal links (change box color with linkbordercolor)
+		citecolor=green,        % color of links to bibliography
+		filecolor=magenta,      % color of file links
+		urlcolor=cyan,           % color of external links
+		linkbordercolor	= {1 0 0},
+		citebordercolor	= {0 1 0},	
+		urlbordercolor	= {0 1 1}
+	}
+
+
+\usepackage{fontspec}
+%\setmainfont{Clear Sans}
+\newfontfamily{\clearsans}{Clear Sans}
+
+\newcommand{\definition}{\\ \textbf{Definition:} \hspace{1cm} }
+
+\newcommand*{\QEDA}{\hfill\ensuremath{\blacksquare}}%
+\newcommand*{\QEDB}{\hfill\ensuremath{\square}}%
+
+
+\begin{document}
+	\title{Kapitel 14 - Statische elektrische Felder}
+		\author
+		{Johannes Bilk
+			\\
+			{\small 	\texttt{me@talachem.de}}
+		}
+		\date{\today}
+	\maketitle
+	\tableofcontents
+	\setcounter{section}{13} %Hier fängt die Nummerierung an.
+	
+	\newpage
+	
+\section{Statische Elektrische Felder}	
+	\subsection{ Elektrische Ladungen }	
+	
+	$\rightarrow$ Ab dem 17. Jahrhundert: Ursache für "elektrische Phänomene"; "neuartiger Stoff", elektrische Ladung
+	
+		\subsubsection{ Reibungselektrizizät }
+		
+			\begin{itemize}
+			\item Zwei Arten von "elektrischen Zuständen" sind erzeugbar:
+				\begin{itemize}
+				\item Gleichartige Zustände $\implies$ Abstoßung
+				\item Ungleichartige Zustände $\implies$ Anziehung
+			\end{itemize}
+			\item Carles Du Fay (1730): positiv/negativ elektrische Ladung
+			\item Benjamin Franklin (1750): Über-/Unterschuss an "elektrischen Fluiden"
+			\item Lichtenberg (1778): Zuordnung der Polariät
+			\end{itemize}
+			
+			\fbox{\begin{minipage}{19em}
+			Hargummi stab: reiben mit Pelz, Wolle: -\\
+			Glas, Plexiglas: reiben mit Seide: +
+			\end{minipage}}
+			\linebreak\\
+			Reibezeug: entgegengesetzte Polarität
+			$\implies$ Ladungstrennung, nicht etwa Ladungserzeugung.
+			\linebreak\\
+			Grundsätzliches Messprinzip: Elektroskop:
+			
+			\linebreak\\
+			$\rightarrow$ Elektrometer $\rightarrow$ quantitative Messung
+			\begin{itemize}
+				\item "Löffeln"; d.h. portionsweise Übertragung von Ladungen ist möglich
+				\item Elektropendel: $\implies$ periodisches Umladen eines "Kugelpendel"
+			\end{itemize}
+			
+			\subsubsection{Ladung ist eine skalare Größe } Einheit 1C = 1 Coulomb, SI
+				\begin{itemize}
+					\item Zu jedem geladenen Elementarteilchen gibt es ein Elementarteilchen mit entgegengesetzter Ladung ($\rightarrow$ Ladungssymmetrie)
+					\item Die Gesamtladung eines abgeschlossenen Systems bleibt erhalten ($\rightarrow$ Ladungserhaltung)
+					\item Beispiel: Produktion eines e^+e^--Paares; E_\gamma \geq 1,02 MeV
+				\end{itemize}
+				\linebreak\\
+				
+				\newpage
+				
+				Nachweis: Blasenkammer im Magnetfeld:
+				\linebreak\\
+				Umkehrung: "Zerstrahlung" von Positronen; $E=m\cdot c^2$
+				\begin{itemize}
+					\item Ladungträger haben stets eine Masse
+					\item Ladung kann nicht (im Gegensatz zur Masse) in Energie umgewandelt werden, bleibt auch bei Zerfallsprozessen erhalten.
+					\item Quantisierung der Ladung: Alle in der Natur vorkommenden Ladungen sind ganzzahlige Vielfache der Elementarladung: $e_0:=1,602\cdot10^{-19}C; 1C=1AS$
+				\end{itemize}
+				\subparagraph{Beispiele von Ladungen}
+				\begin{itemize}
+					\item Neutral: $\gamma, \nu, n$
+					\item einfach geladen: $e^-,e^+,p, \bar{p}$
+					\item zweifach geladen:: $He_2(2^+,Z:2)$
+				\end{itemize}					
+\newpage
+
+\subsubsection{ Quarks }	
+\paragraph{Seit 60er Jahre}
+Nukleonen bestehen aus Quarks, diese haben "drittelzahlige Ladungen"
+\\
+Up-Quarks:$u:+\frac{2}{3	}e_0$
+\\
+Down-Quarks:$d:-\frac{1}{3}e_0$
+\\
+Proton:$2u+d: 1\cdot e_0$
+\\
+Neutron:$u+2d: 0\cdot e_0$
+\\
+
+Quarks treten immer in 2er- oder 3er- Kombinationen auf.
+\\
+
+\subsubsection{Entdeckung und Bestimmung der Elementarladung}
+\\
+Robert Andrews Millikan(1868-1953): Öltröpfchenversuch ($\rightarrow$ Anfängerpraktikum)
+
+\subsection{Kräfte zwischen Ladungen und das Coulomb-Gesetz}
+\\
+Charles-Augustin de Coulomb (1736-1806)
+\\
+1785: Messung der Kraft zwischen zwei Ladungen als Funktion des Abstands mit Hilfe einer Torsionswaage
+\linebreak\\
+
+\boxed{\vec{F_{12}} = f\cdot\frac{Q_1\cdot Q_2}{r^2_{12}}\cdot\frac{\vec{r_{12}}}{|\vec{r_{12}}|} = f\cdot\frac{Q_1\cdot Q_2}{r^2_{12}}\cdot \hat{r}_{12}}
+
+\linebreak\\
+F ist definiert durch die Definition der Ladungseinheit:
+\\
+Internationales Messsystem (SI): $f=\frac{1}{4\pi\epsilon_0}$
+\\
+$\epsilon_0=8,854\cdot10^{-12}\frac{(As)^2}{Nm^2}$
+\\
+ist Dielektrizitätskonste des Vakuums oder elektrische Feldkonstante
+\\
+$Q_1\cdot Q_2 > 0:$ Abstoßung
+\\
+$Q_1\cdot Q_2 < 0:$ Anziehung
+
+\end{document}
