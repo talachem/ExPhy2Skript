@@ -1,15 +1,20 @@
 \documentclass[11pt]{article}
 
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
 \usepackage{amssymb}
 \usepackage{amsthm}
 \usepackage{amsmath}
 \usepackage{mathtools}
-\usepackage[utf8]{inputenc}
 \usepackage{mathabx}
 %\usepackage{framed}
 \usepackage{booktabs}
 \usepackage{hyperref}
 \usepackage{txfonts}
+\usepackage{siunitx}
+
+
 
 \hypersetup
 	{ 
@@ -83,7 +88,7 @@
 				\item Elektropendel: $\implies$ periodisches Umladen eines "Kugelpendel"
 			\end{itemize}
 			
-			\subsubsection{Ladung ist eine skalare Grße } Einheit 1C = 1 Coulomb, SI
+			\subsubsection{Ladung ist eine skalare Gr\"{o}\ss{}e } Einheit 1C = 1 Coulomb, SI
 				\begin{itemize}
 					\item Zu jedem geladenen Elementarteilchen gibt es ein Elementarteilchen mit entgegengesetzter Ladung ($\rightarrow$ Ladungssymmetrie)
 					\item Die Gesamtladung eines abgeschlossenen Systems bleibt erhalten ($\rightarrow$ Ladungserhaltung)
@@ -162,5 +167,48 @@ $Q_1\cdot Q_2 < 0:$ Anziehung
 					&=q_1 \underbrace{ \cdot \frac{1}{4\pi\epsilon_0} \cdot \frac{q_2}{ |\vec{r}_{12}|^2 } \cdot \hat{r_{12}}  }_{\text{Feld von }q_2} \\
 					&=q_1 \vec{E}(\vec{r})
 	\end{align*}
+	\begin{itemize}
+		\item Felder einer Punktladung sind Zentralfelder mit Kugelsymmetrie
+		\item Konvention: Feldlinien führen von positiver zu negativer Ladung
+	\end{itemize}
+	BILD \\
+	$ \Rightarrow $ \underline{Punktladungsfelder sind inhomogen!}
+	
+	\subsubsection{Feld einer Verteilung von Punktladungen}
+	N Ladungen bei $ \vec{r_i} $ 
+	$$ \vec{E_i}(\vec{r}) = \frac{1}{4\pi\epsilon_0} \cdot \frac{q_i}{ | \vec{r} - \vec{r_i} |^2 } \cdot \frac{ \vec{r} - \vec{r_i}  }{ | \vec{r} - \vec{r_i}| }  $$
+	Ungestörte Superposition:
+	$$  \vec{E}(\vec{r}) = \frac{1}{4\pi\epsilon_0} \cdot {\displaystyle \sum_{i=1}^{N} \frac{q_i}{ | \vec{r} - \vec{r_i} |^2 } } \cdot \frac{ \vec{r} - \vec{r_i}  }{ | \vec{r} - \vec{r_i}| } $$
+	2 Ladungen, q ; -q : Feld eines Dipols \\
+	BILD \\
+	2 Ladungen: q ; q \\
+	BILD \\
+	Beispiele für "natürliche Dipole": \\
+	\begin{enumerate}
+		\item Neutrales Atom im homogenen $ \vec{E} $-Feld  \\
+		BILD\\
+		\item Polare Molekühle mit permanentem Dipolmoment \\
+		BILD \\
+	\end{enumerate}
+	
+	\subsubsection{Leiter im el. Feld und Influenz}
+	Leiter: Ladungen sind \underline{frei} beweglich  \\
+	Isolator: Ladungen sind ortsfest
+	\begin{enumerate}
+		\item $ \vec{E} = 0 $ im Inneren des Leiters 
+		\begin{center}
+			\includegraphics[width=0.4\linewidth]{skizzen/14/14_4B6}
+		\end{center} 
+		falls $ \vec{E} \neq 0 $: $ \vec{F} = q\vec{E} $ verschiebt Ladung bis $ \vec{E} = 0 $ ! 
+		\item Es folgt, sich bei einem Leiter die (Netto-)Ladungen \underline{immer} an der Oberfläche befinden $ \Rightarrow $ Flächenladungsdichte $ \boxed{\sigma = \frac{dQ}{dA}} $
+		\item $ \vec{E} $ immer $ \perp $ auf Leiteroberfläche
+		\begin{center}
+			\includegraphics[width=0.4\linewidth]{skizzen/14/14_4B7}
+		\end{center}
+		(falls $ \vec{E}_{\shortparallel} \neq 0 $: Verschiebung der Ladung bis $ \vec{E}_{\shortparallel} = 0 $ !)
 
+	\end{enumerate}
+	\paragraph{\underline{Influenz}:} Räumliche Ladungstrennung in el. Leitern durch äußeres $ \vec{E} $-Feld (Kontaktlos!), so dass das Innere des Leiters Feldfrei ist!
+	
+	\subsection{Kontinuierliche Ladungsverteilung}
 \end{document}
