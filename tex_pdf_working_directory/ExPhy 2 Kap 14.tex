@@ -3,12 +3,13 @@
 \usepackage{amssymb}
 \usepackage{amsthm}
 \usepackage{amsmath}
+\usepackage{mathtools}
 \usepackage[utf8]{inputenc}
 \usepackage{mathabx}
-\usepackage{framed}
+%\usepackage{framed}
 \usepackage{booktabs}
-\usepackage{mathtools}
 \usepackage{hyperref}
+\usepackage{txfonts}
 
 \hypersetup
 	{ 
@@ -24,9 +25,9 @@
 	}
 
 
-\usepackage{fontspec}
+%\usepackage{fontspec}
 %\setmainfont{Clear Sans}
-\newfontfamily{\clearsans}{Clear Sans}
+%\newfontfamily{\clearsans}{Clear Sans}
 
 \newcommand{\definition}{\\ \textbf{Definition:} \hspace{1cm} }
 
@@ -44,26 +45,26 @@
 		\date{\today}
 	\maketitle
 	\tableofcontents
-	\setcounter{section}{13} %Hier fängt die Nummerierung an.
+	\setcounter{section}{13} %Hier f\"{a}ngt die Nummerierung an.
 	
 	\newpage
 	
 \section{Statische Elektrische Felder}	
 	\subsection{ Elektrische Ladungen }	
 	
-	$\rightarrow$ Ab dem 17. Jahrhundert: Ursache für "elektrische Phänomene"; "neuartiger Stoff", elektrische Ladung
+	$\rightarrow$ Ab dem 17. Jahrhundert: Ursache für "elektrische Ph\"{a}nomene"; "neuartiger Stoff", elektrische Ladung
 	
-		\subsubsection{ Reibungselektrizizät }
+		\subsubsection{ Reibungselektriziz\"{a}t }
 		
 			\begin{itemize}
-			\item Zwei Arten von "elektrischen Zuständen" sind erzeugbar:
+			\item Zwei Arten von "elektrischen Zust\"{a}nden" sind erzeugbar:
 				\begin{itemize}
-				\item Gleichartige Zustände $\implies$ Abstoßung
-				\item Ungleichartige Zustände $\implies$ Anziehung
+				\item Gleichartige Zust\"{a}nde $\implies$ Abstoßung
+				\item Ungleichartige Zust\"{a}nde $\implies$ Anziehung
 			\end{itemize}
 			\item Carles Du Fay (1730): positiv/negativ elektrische Ladung
 			\item Benjamin Franklin (1750): Über-/Unterschuss an "elektrischen Fluiden"
-			\item Lichtenberg (1778): Zuordnung der Polariät
+			\item Lichtenberg (1778): Zuordnung der Polari\"{a}t
 			\end{itemize}
 			
 			\fbox{\begin{minipage}{19em}
@@ -71,18 +72,18 @@
 			Glas, Plexiglas: reiben mit Seide: +
 			\end{minipage}}
 			\linebreak\\
-			Reibezeug: entgegengesetzte Polarität
+			Reibezeug: entgegengesetzte Polarit\"{a}t
 			$\implies$ Ladungstrennung, nicht etwa Ladungserzeugung.
 			\linebreak\\
-			Grundsätzliches Messprinzip: Elektroskop: \hfill \\
+			Grunds\"{a}tzliches Messprinzip: Elektroskop: \hfill \\
 			
 			$\rightarrow$ Elektrometer $\rightarrow$ quantitative Messung
 			\begin{itemize}
-				\item "Löffeln"; d.h. portionsweise Übertragung von Ladungen ist möglich
+				\item "L\"{o}ffeln"; d.h. portionsweise Übertragung von Ladungen ist mglich
 				\item Elektropendel: $\implies$ periodisches Umladen eines "Kugelpendel"
 			\end{itemize}
 			
-			\subsubsection{Ladung ist eine skalare Größe } Einheit 1C = 1 Coulomb, SI
+			\subsubsection{Ladung ist eine skalare Grße } Einheit 1C = 1 Coulomb, SI
 				\begin{itemize}
 					\item Zu jedem geladenen Elementarteilchen gibt es ein Elementarteilchen mit entgegengesetzter Ladung ($\rightarrow$ Ladungssymmetrie)
 					\item Die Gesamtladung eines abgeschlossenen Systems bleibt erhalten ($\rightarrow$ Ladungserhaltung)
@@ -91,11 +92,10 @@
 				
 				\newpage
 				
-				Nachweis: Blasenkammer im Magnetfeld:
-				\linebreak\\
+				\noindent Nachweis: Blasenkammer im Magnetfeld:  \hfill \\
 				Umkehrung: "Zerstrahlung" von Positronen; $E=m\cdot c^2$
 				\begin{itemize}
-					\item Ladungträger haben stets eine Masse
+					\item Ladungtr\"{a}ger haben stets eine Masse
 					\item Ladung kann nicht (im Gegensatz zur Masse) in Energie umgewandelt werden, bleibt auch bei Zerfallsprozessen erhalten.
 					\item Quantisierung der Ladung: Alle in der Natur vorkommenden Ladungen sind ganzzahlige Vielfache der Elementarladung: $e_0:=1,602\cdot10^{-19}C; 1C=1AS$
 				\end{itemize}
@@ -126,10 +126,10 @@ Quarks treten immer in 2er- oder 3er- Kombinationen auf.
 
 \subsubsection{Entdeckung und Bestimmung der Elementarladung}
 
-Robert Andrews Millikan(1868-1953): Öltröpfchenversuch ($\rightarrow$ Anfängerpraktikum)
+Robert Andrews Millikan(1868-1953): Öltrpfchenversuch ($\rightarrow$ Anf\"{a}ngerpraktikum)
 
 
-\subsection{Kräfte zwischen Ladungen und das Coulomb-Gesetz} 
+\subsection{Kr\"{a}fte zwischen Ladungen und das Coulomb-Gesetz} 
 
 Charles-Augustin de Coulomb (1736-1806)
 
@@ -143,10 +143,24 @@ Internationales Messsystem (SI): $f=\frac{1}{4\pi\epsilon_0}$
 \\
 $\epsilon_0=8,854\cdot10^{-12}\frac{(As)^2}{Nm^2}$
 \\
-ist Dielektrizitätskonste des Vakuums oder elektrische Feldkonstante
+ist Dielektrizit\"{a}tskonste des Vakuums oder elektrische Feldkonstante
 \\
 $Q_1\cdot Q_2 > 0:$ Abstoßung
 \\
 $Q_1\cdot Q_2 < 0:$ Anziehung
+
+\subsection{Potenzielle Energie einer Ladungsverteilung}
+
+...
+
+\subsection{Erzeugung el. Felder durch Ladungen}
+
+	\subsubsection{Feld einer Punktladung:}
+	
+	\begin{align*}
+		\vec{F} &= \frac{1}{4\pi\epsilon_0} \cdot \frac{q_1 q_2}{ |\vec{r}_{12}|^2 } \cdot \hat{r_{12}} \\
+					&=q_1 \underbrace{ \cdot \frac{1}{4\pi\epsilon_0} \cdot \frac{q_2}{ |\vec{r}_{12}|^2 } \cdot \hat{r_{12}}  }_{\text{Feld von }q_2} \\
+					&=q_1 \vec{E}(\vec{r})
+	\end{align*}
 
 \end{document}
