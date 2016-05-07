@@ -1,2 +1,4 @@
+Damit eine Datei hier landet sollte mindestens eine zweite Person sich diese durchgelesen haben bzw. "proofreading" sollte "abgesegnet" sein.
+
 PDFs_RC:
   ...
