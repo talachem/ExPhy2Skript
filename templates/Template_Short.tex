@@ -1,0 +1,74 @@
+\documentclass[11pt]{article}
+
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage{mathabx}
+\usepackage{framed}
+\usepackage{booktabs}
+\usepackage{mathtools}
+\usepackage{hyperref}
+\hypersetup
+	{ 
+		colorlinks=true,       % false: boxed links; true: colored links
+%		hidelinks,
+		linkcolor=blue,          % color of internal links (change box color with linkbordercolor)
+		citecolor=green,        % color of links to bibliography
+		filecolor=magenta,      % color of file links
+		urlcolor=cyan,           % color of external links
+		linkbordercolor	= {1 0 0},
+		citebordercolor	= {0 1 0},	
+		urlbordercolor	= {0 1 1}
+	}
+
+
+\usepackage{fontspec}
+%\setmainfont{Clear Sans}
+\newfontfamily{\clearsans}{Clear Sans}
+
+\newcommand{\definition}{\\ \textbf{Definition:} \hspace{1cm} }
+
+\newcommand*{\QEDA}{\hfill\ensuremath{\blacksquare}}%
+\newcommand*{\QEDB}{\hfill\ensuremath{\square}}%
+
+
+\begin{document}
+	\title{Titel}
+		\author
+		{
+			author\\
+			{\small 	\texttt{email}}
+		}
+		\date{\today}
+	\maketitle
+	\tableofcontents
+	\setcounter{section}{14} %Hier fängt die Nummerierung an.
+	
+	\newpage
+	
+\section{SECTION }	
+	\subsection{ subsection }	
+		\subsubsection{ subsubsection }
+			\paragraph{paragraph z.B. Definition/Exp/Beispiele/Anwendung }
+				\subparagraph{Beispiel 1/3, Exp 1/2, Fallunterscheidungen}	
+				
+\newpage	
+	
+% Unnummerierte Struktur:
+
+\phantomsection
+\addcontentsline{toc}{section}{Unnummerierte Section}
+\section*{SECTION}
+	\phantomsection
+	\addcontentsline{toc}{subsection}{Unnummerierte subsection}
+	\subsection*{ subsection }
+		\phantomsection
+		\addcontentsline{toc}{subsubsection}{Unnummerierte subsubsection}
+		\subsubsection*{ subsubsection }
+			\paragraph{paragraph z.B. Definition/Exp/Beispiele/Anwendung }
+				\subparagraph{Beispiel 1/3, Exp 1/2, Fallunterscheidungen}	
+
+	
+
+\end{document}
