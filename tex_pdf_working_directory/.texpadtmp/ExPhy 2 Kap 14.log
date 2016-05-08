@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.7)  8 MAY 2016 21:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.7)  8 MAY 2016 22:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1349,7 +1349,7 @@ File: t1txtt.fd 2000/12/15 v3.1
 
  [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] <skizzen/14/14_1B0.png, id=98, 426.59375pt x 119.44624pt>
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] <skizzen/14/14_1B0.png, id=103, 426.59375pt x 119.44624pt>
 File: skizzen/14/14_1B0.png Graphic file (type png)
  <use skizzen/14/14_1B0.png>
 Package pdftex.def Info: skizzen/14/14_1B0.png used on input line 61.
@@ -1400,7 +1400,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
-<skizzen/14/14_1B1.png, id=100, 90.3375pt x 183.68625pt>
+<skizzen/14/14_1B1.png, id=105, 90.3375pt x 183.68625pt>
 File: skizzen/14/14_1B1.png Graphic file (type png)
  <use skizzen/14/14_1B1.png>
 Package pdftex.def Info: skizzen/14/14_1B1.png used on input line 85.
@@ -1410,12 +1410,12 @@ Overfull \hbox (19.53471pt too wide) in paragraph at lines 96--97
 []\T1/txr/m/n/10.95 Die Gesamt-ladung eines abgeschlosse-nen Sys-tems bleibt er-hal-ten ($\U/matha/m/n/10.95 Ñ$ \T1/txr/m/n/10.95 Ladungser-
  []
 
-<skizzen/14/14_1B2.png, id=110, 306.14375pt x 101.37875pt>
+<skizzen/14/14_1B2.png, id=115, 306.14375pt x 101.37875pt>
 File: skizzen/14/14_1B2.png Graphic file (type png)
  <use skizzen/14/14_1B2.png>
 Package pdftex.def Info: skizzen/14/14_1B2.png used on input line 100.
 (pdftex.def)             Requested size: 306.14299pt x 101.3785pt.
- [3 <./skizzen/14/14_1B1.png> <./skizzen/14/14_1B2.png>] <skizzen/14/14_1B5.png, id=120, 359.3425pt x 164.615pt>
+ [3 <./skizzen/14/14_1B1.png> <./skizzen/14/14_1B2.png>] <skizzen/14/14_1B5.png, id=125, 359.3425pt x 164.615pt>
 File: skizzen/14/14_1B5.png Graphic file (type png)
  <use skizzen/14/14_1B5.png>
 Package pdftex.def Info: skizzen/14/14_1B5.png used on input line 123.
@@ -1445,7 +1445,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
-<skizzen/14/14_2B0.png, id=128, 217.81375pt x 129.48375pt>
+<skizzen/14/14_2B0.png, id=133, 217.81375pt x 129.48375pt>
 File: skizzen/14/14_2B0.png Graphic file (type png)
  <use skizzen/14/14_2B0.png>
 Package pdftex.def Info: skizzen/14/14_2B0.png used on input line 148.
@@ -1494,7 +1494,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 189--190
 
  []
 
-<skizzen/14/14_2B1.png, id=135, 303.1325pt x 196.735pt>
+<skizzen/14/14_2B1.png, id=140, 303.1325pt x 196.735pt>
 File: skizzen/14/14_2B1.png Graphic file (type png)
  <use skizzen/14/14_2B1.png>
 Package pdftex.def Info: skizzen/14/14_2B1.png used on input line 191.
@@ -1673,7 +1673,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 227--228
 
  []
 
-<skizzen/14/14_3B0.png, id=144, 367.3725pt x 228.855pt>
+<skizzen/14/14_3B0.png, id=149, 367.3725pt x 228.855pt>
 File: skizzen/14/14_3B0.png Graphic file (type png)
  <use skizzen/14/14_3B0.png>
 Package pdftex.def Info: skizzen/14/14_3B0.png used on input line 229.
@@ -1738,17 +1738,17 @@ l.251
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-<skizzen/14/14_4B0.png, id=152, 472.6458pt x 217.2918pt>
+<skizzen/14/14_4B0.png, id=157, 472.6458pt x 217.2918pt>
 File: skizzen/14/14_4B0.png Graphic file (type png)
  <use skizzen/14/14_4B0.png>
 Package pdftex.def Info: skizzen/14/14_4B0.png used on input line 266.
 (pdftex.def)             Requested size: 251.9989pt x 115.85042pt.
- [8 <./skizzen/14/14_4B0.png>] <skizzen/14/14_4B1.png, id=158, 530.4618pt x 456.7464pt>
+ [8 <./skizzen/14/14_4B0.png>] <skizzen/14/14_4B1.png, id=163, 530.4618pt x 456.7464pt>
 File: skizzen/14/14_4B1.png Graphic file (type png)
  <use skizzen/14/14_4B1.png>
 Package pdftex.def Info: skizzen/14/14_4B1.png used on input line 280.
 (pdftex.def)             Requested size: 143.9978pt x 123.98526pt.
- <skizzen/14/14_4B2.png, id=159, 358.941pt x 435.5472pt>
+ <skizzen/14/14_4B2.png, id=164, 358.941pt x 435.5472pt>
 File: skizzen/14/14_4B2.png Graphic file (type png)
  <use skizzen/14/14_4B2.png>
 Package pdftex.def Info: skizzen/14/14_4B2.png used on input line 285.
@@ -1758,12 +1758,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 292--293
 
  []
 
-<skizzen/14/14_4B3.png, id=160, 520.8258pt x 194.1654pt>
+<skizzen/14/14_4B3.png, id=165, 520.8258pt x 194.1654pt>
 File: skizzen/14/14_4B3.png Graphic file (type png)
  <use skizzen/14/14_4B3.png>
 Package pdftex.def Info: skizzen/14/14_4B3.png used on input line 296.
 (pdftex.def)             Requested size: 299.36041pt x 111.60275pt.
- <skizzen/14/14_4B4.png, id=161, 371.4678pt x 301.125pt>
+ <skizzen/14/14_4B4.png, id=166, 371.4678pt x 301.125pt>
 File: skizzen/14/14_4B4.png Graphic file (type png)
  <use skizzen/14/14_4B4.png>
 Package pdftex.def Info: skizzen/14/14_4B4.png used on input line 301.
@@ -1773,12 +1773,12 @@ Overfull \hbox (17.0pt too wide) in paragraph at lines 290--307
 []$[]$ 
  []
 
-[9 <./skizzen/14/14_4B1.png> <./skizzen/14/14_4B2.png>] <skizzen/14/14_4B6.png, id=168, 265.9536pt x 202.8378pt>
+[9 <./skizzen/14/14_4B1.png> <./skizzen/14/14_4B2.png>] <skizzen/14/14_4B6.png, id=174, 265.9536pt x 202.8378pt>
 File: skizzen/14/14_4B6.png Graphic file (type png)
  <use skizzen/14/14_4B6.png>
 Package pdftex.def Info: skizzen/14/14_4B6.png used on input line 314.
 (pdftex.def)             Requested size: 133.04794pt x 101.47745pt.
- [10 <./skizzen/14/14_4B3.png> <./skizzen/14/14_4B4.png> <./skizzen/14/14_4B6.png>] <skizzen/14/14_4B7.png, id=181, 353.6412pt x 331.9602pt>
+ [10 <./skizzen/14/14_4B3.png> <./skizzen/14/14_4B4.png> <./skizzen/14/14_4B6.png>] <skizzen/14/14_4B7.png, id=186, 353.6412pt x 331.9602pt>
 File: skizzen/14/14_4B7.png Graphic file (type png)
  <use skizzen/14/14_4B7.png>
 Package pdftex.def Info: skizzen/14/14_4B7.png used on input line 320.
@@ -1788,7 +1788,7 @@ Overfull \hbox (0.28723pt too wide) in paragraph at lines 325--326
  []$[]$\T1/txr/bx/n/10.95 :[] \T1/txr/m/n/10.95 Räum-liche Ladungstren-nung in el. Leit-ern durch äuÿeres $[]$-Feld (Kon-
  []
 
-<skizzen/14/14_5B0.png, id=182, 266.4354pt x 196.0926pt>
+<skizzen/14/14_5B0.png, id=187, 266.4354pt x 196.0926pt>
 File: skizzen/14/14_5B0.png Graphic file (type png)
  <use skizzen/14/14_5B0.png>
 Package pdftex.def Info: skizzen/14/14_5B0.png used on input line 334.
@@ -1803,7 +1803,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 351--352
 
  []
 
-<skizzen/14/14_5B1.png, id=195, 305.943pt x 328.5876pt>
+<skizzen/14/14_5B1.png, id=200, 305.943pt x 328.5876pt>
 File: skizzen/14/14_5B1.png Graphic file (type png)
  <use skizzen/14/14_5B1.png>
 Package pdftex.def Info: skizzen/14/14_5B1.png used on input line 353.
@@ -1831,7 +1831,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<skizzen/14/14_6B0.png, id=202, 103.38625pt x 88.33pt>
+<skizzen/14/14_6B0.png, id=207, 103.38625pt x 88.33pt>
 File: skizzen/14/14_6B0.png Graphic file (type png)
  <use skizzen/14/14_6B0.png>
 Package pdftex.def Info: skizzen/14/14_6B0.png used on input line 377.
@@ -1855,7 +1855,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 385--386
 
  []
 
-<skizzen/14/14_6B1.png, id=203, 135.50626pt x 124.465pt>
+<skizzen/14/14_6B1.png, id=208, 135.50626pt x 124.465pt>
 File: skizzen/14/14_6B1.png Graphic file (type png)
  <use skizzen/14/14_6B1.png>
 Package pdftex.def Info: skizzen/14/14_6B1.png used on input line 387.
@@ -2063,819 +2063,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 425--426
  []
 
 [14 <./skizzen/14/14_6B1.png>]
-./ExPhy 2 Kap 14.tex:430: Missing } inserted.
-<inserted text> 
-                }
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Missing $ inserted.
-<inserted text> 
-                $
-l.430 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:430: Missing { inserted.
-<inserted text> 
-                {
-l.430 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:430: Extra }, or forgotten $.
-<recently read> }
-                 
-l.430 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:430: Missing $ inserted.
-<inserted text> 
-                $
-l.430 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:430: Missing } inserted.
-<inserted text> 
-                }
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Missing } inserted.
-<inserted text> 
-                }
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Missing $ inserted.
-<inserted text> 
-                $
-l.430 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:430: Missing { inserted.
-<inserted text> 
-                {
-l.430 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:430: Extra }, or forgotten $.
-<recently read> }
-                 
-l.430 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:430: Missing $ inserted.
-<inserted text> 
-                $
-l.430 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:430: Missing } inserted.
-<inserted text> 
-                }
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Missing } inserted.
-<inserted text> 
-                }
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Missing $ inserted.
-<inserted text> 
-                $
-l.430 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:430: Missing { inserted.
-<inserted text> 
-                {
-l.430 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:430: Extra }, or forgotten $.
-<recently read> }
-                 
-l.430 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:430: Missing $ inserted.
-<inserted text> 
-                $
-l.430 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:430: Missing } inserted.
-<inserted text> 
-                }
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Missing } inserted.
-<inserted text> 
-                }
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Missing $ inserted.
-<inserted text> 
-                $
-l.430 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:430: Missing { inserted.
-<inserted text> 
-                {
-l.430 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:430: Extra }, or forgotten $.
-<recently read> }
-                 
-l.430 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:430: Missing $ inserted.
-<inserted text> 
-                $
-l.430 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:430: Missing } inserted.
-<inserted text> 
-                }
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Missing } inserted.
-<inserted text> 
-                }
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Missing $ inserted.
-<inserted text> 
-                $
-l.430 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:430: Missing { inserted.
-<inserted text> 
-                {
-l.430 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:430: Extra }, or forgotten $.
-<recently read> }
-                 
-l.430 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:430: Missing $ inserted.
-<inserted text> 
-                $
-l.430 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:430: Missing } inserted.
-<inserted text> 
-                }
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Missing } inserted.
-<inserted text> 
-                }
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Missing $ inserted.
-<inserted text> 
-                $
-l.430 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:430: Extra }, or forgotten $.
-<recently read> }
-                 
-l.430 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:430: Missing $ inserted.
-<inserted text> 
-                $
-l.430 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:430: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Missing } inserted.
-<inserted text> 
-                }
-l.430 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:430: Misplaced \omit.
-\math@cr@@@ ...@ \@ne \add@amps \maxfields@ \omit 
-                                                  \kern -\alignsep@ \iftag@ ...
-l.430 \end{align*}
-                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-./ExPhy 2 Kap 14.tex:430: Missing { inserted.
-<inserted text> 
-                {
-l.430 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 432--433
 
  []
-
-./ExPhy 2 Kap 14.tex:437: Missing } inserted.
-<inserted text> 
-                }
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Missing { inserted.
-<inserted text> 
-                {
-l.437 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:437: Extra }, or forgotten $.
-<recently read> }
-                 
-l.437 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Missing } inserted.
-<inserted text> 
-                }
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:437: Missing } inserted.
-<inserted text> 
-                }
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Extra }, or forgotten $.
-\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
-                                                 
-l.437 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:437: Extra }, or forgotten $.
-<recently read> }
-                 
-l.437 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Missing } inserted.
-<inserted text> 
-                }
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:437: Missing } inserted.
-<inserted text> 
-                }
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-./ExPhy 2 Kap 14.tex:437: Package amsmath Error: \vec allowed only in math mode.
-
-See the amsmath package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.437 \end{align*}
-                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./ExPhy 2 Kap 14.tex:437: Package amsmath Error: \vec allowed only in math mode.
-
-See the amsmath package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.437 \end{align*}
-                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Extra }, or forgotten $.
-\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
-                                                 
-l.437 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:437: Extra }, or forgotten $.
-<recently read> }
-                 
-l.437 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Missing } inserted.
-<inserted text> 
-                }
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:437: Missing } inserted.
-<inserted text> 
-                }
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Missing { inserted.
-<inserted text> 
-                {
-l.437 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:437: Extra }, or forgotten $.
-<recently read> }
-                 
-l.437 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Missing } inserted.
-<inserted text> 
-                }
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:437: Missing } inserted.
-<inserted text> 
-                }
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Extra }, or forgotten $.
-\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
-                                                 
-l.437 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:437: Extra }, or forgotten $.
-<recently read> }
-                 
-l.437 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Missing } inserted.
-<inserted text> 
-                }
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:437: Missing } inserted.
-<inserted text> 
-                }
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-./ExPhy 2 Kap 14.tex:437: Package amsmath Error: \vec allowed only in math mode.
-
-See the amsmath package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.437 \end{align*}
-                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./ExPhy 2 Kap 14.tex:437: Package amsmath Error: \vec allowed only in math mode.
-
-See the amsmath package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.437 \end{align*}
-                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Extra }, or forgotten $.
-\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
-                                                 
-l.437 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:437: Extra }, or forgotten $.
-<recently read> }
-                 
-l.437 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:437: Missing $ inserted.
-<inserted text> 
-                $
-l.437 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:437: Missing } inserted.
-<inserted text> 
-                }
-l.437 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 440--441
@@ -2895,7 +2085,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<skizzen/14/14_6B2.png, id=216, 207.77625pt x 201.75375pt>
+<skizzen/14/14_6B2.png, id=221, 207.77625pt x 201.75375pt>
 File: skizzen/14/14_6B2.png Graphic file (type png)
  <use skizzen/14/14_6B2.png>
 Package pdftex.def Info: skizzen/14/14_6B2.png used on input line 447.
@@ -2905,611 +2095,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 446--448
 
  []
 
-
+[15 <./skizzen/14/14_6B2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 454--455
 
  []
 
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
 
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing { inserted.
-<inserted text> 
-                {
-l.461 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:461: Extra }, or forgotten $.
-<recently read> }
-                 
-l.461 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing { inserted.
-<inserted text> 
-                {
-l.461 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:461: Extra }, or forgotten $.
-<recently read> }
-                 
-l.461 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing { inserted.
-<inserted text> 
-                {
-l.461 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:461: Extra }, or forgotten $.
-<recently read> }
-                 
-l.461 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing { inserted.
-<inserted text> 
-                {
-l.461 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:461: Extra }, or forgotten $.
-<recently read> }
-                 
-l.461 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing { inserted.
-<inserted text> 
-                {
-l.461 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:461: Extra }, or forgotten $.
-<recently read> }
-                 
-l.461 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing { inserted.
-<inserted text> 
-                {
-l.461 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:461: Extra }, or forgotten $.
-<recently read> }
-                 
-l.461 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing { inserted.
-<inserted text> 
-                {
-l.461 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:461: Extra }, or forgotten $.
-<recently read> }
-                 
-l.461 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing { inserted.
-<inserted text> 
-                {
-l.461 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:461: Extra }, or forgotten $.
-<recently read> }
-                 
-l.461 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing { inserted.
-<inserted text> 
-                {
-l.461 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:461: Extra }, or forgotten $.
-<recently read> }
-                 
-l.461 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Extra }, or forgotten $.
-<recently read> }
-                 
-l.461 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:461: Missing $ inserted.
-<inserted text> 
-                $
-l.461 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:461: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Missing } inserted.
-<inserted text> 
-                }
-l.461 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:461: Misplaced \omit.
-\math@cr@@@ ...@ \@ne \add@amps \maxfields@ \omit 
-                                                  \kern -\alignsep@ \iftag@ ...
-l.461 \end{align*}
-                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-./ExPhy 2 Kap 14.tex:461: Missing { inserted.
-<inserted text> 
-                {
-l.461 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-[15 <./skizzen/14/14_6B2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 463--464
 
  []
@@ -3524,7 +2115,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 471--472
 
  []
 
-<skizzen/14/14_6B3.png, id=223, 234.8775pt x 181.67876pt>
+<skizzen/14/14_6B3.png, id=228, 234.8775pt x 181.67876pt>
 File: skizzen/14/14_6B3.png Graphic file (type png)
  <use skizzen/14/14_6B3.png>
 Package pdftex.def Info: skizzen/14/14_6B3.png used on input line 473.
@@ -3534,7 +2125,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 475--476
 
  []
 
-
+[16 <./skizzen/14/14_6B3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 479--480
 
  []
@@ -3544,12 +2135,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 483--484
 
  []
 
-<skizzen/14/14_6B4.png, id=224, 188.705pt x 194.7275pt>
+<skizzen/14/14_6B4.png, id=234, 188.705pt x 194.7275pt>
 File: skizzen/14/14_6B4.png Graphic file (type png)
  <use skizzen/14/14_6B4.png>
 Package pdftex.def Info: skizzen/14/14_6B4.png used on input line 485.
 (pdftex.def)             Requested size: 188.70453pt x 194.727pt.
- [16 <./skizzen/14/14_6B3.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 487--488
 
  []
@@ -3559,12 +2150,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 499--500
 
  []
 
-<skizzen/14/14_6B5.png, id=230, 308.15125pt x 171.64125pt>
+<skizzen/14/14_6B5.png, id=235, 308.15125pt x 171.64125pt>
 File: skizzen/14/14_6B5.png Graphic file (type png)
  <use skizzen/14/14_6B5.png>
 Package pdftex.def Info: skizzen/14/14_6B5.png used on input line 501.
 (pdftex.def)             Requested size: 308.15048pt x 171.64081pt.
-
+ [17 <./skizzen/14/14_6B4.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 503--504
 
  []
@@ -3574,7 +2165,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 507--508
 
  []
 
-[17 <./skizzen/14/14_6B4.png> <./skizzen/14/14_6B5.png>] <skizzen/14/14_6B6.png, id=237, 188.705pt x 180.675pt>
+<skizzen/14/14_6B6.png, id=241, 188.705pt x 180.675pt>
 File: skizzen/14/14_6B6.png Graphic file (type png)
  <use skizzen/14/14_6B6.png>
 Package pdftex.def Info: skizzen/14/14_6B6.png used on input line 509.
@@ -3627,7 +2218,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 524--525
 
  []
 
-<skizzen/14/14_6B7.png, id=238, 311.1625pt x 182.6825pt>
+[18 <./skizzen/14/14_6B5.png> <./skizzen/14/14_6B6.png>] <skizzen/14/14_6B7.png, id=248, 311.1625pt x 182.6825pt>
 File: skizzen/14/14_6B7.png Graphic file (type png)
  <use skizzen/14/14_6B7.png>
 Package pdftex.def Info: skizzen/14/14_6B7.png used on input line 526.
@@ -3637,7 +2228,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 528--529
 
  []
 
-[18 <./skizzen/14/14_6B6.png> <./skizzen/14/14_6B7.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 532--533
 
  []
@@ -3647,12 +2238,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 536--537
 
  []
 
-<skizzen/14/14_6B8.png, id=245, 237.88875pt x 210.7875pt>
+<skizzen/14/14_6B8.png, id=249, 237.88875pt x 210.7875pt>
 File: skizzen/14/14_6B8.png Graphic file (type png)
  <use skizzen/14/14_6B8.png>
 Package pdftex.def Info: skizzen/14/14_6B8.png used on input line 538.
 (pdftex.def)             Requested size: 237.88815pt x 210.78699pt.
-
+ [19 <./skizzen/14/14_6B7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 540--541
 
  []
@@ -3672,12 +2263,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 560--561
 
  []
 
-<skizzen/14/14_6B9.png, id=246, 285.065pt x 156.585pt>
+<skizzen/14/14_6B9.png, id=256, 285.065pt x 156.585pt>
 File: skizzen/14/14_6B9.png Graphic file (type png)
  <use skizzen/14/14_6B9.png>
 Package pdftex.def Info: skizzen/14/14_6B9.png used on input line 562.
 (pdftex.def)             Requested size: 285.0643pt x 156.58461pt.
- [19 <./skizzen/14/14_6B8.png>]
+ [20 <./skizzen/14/14_6B8.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 564--565
 
  []
@@ -3687,7 +2278,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 568--569
 
  []
 
-<skizzen/14/14_6BA.png, id=253, 310.15875pt x 164.615pt>
+<skizzen/14/14_6BA.png, id=262, 310.15875pt x 164.615pt>
 File: skizzen/14/14_6BA.png Graphic file (type png)
  <use skizzen/14/14_6BA.png>
 Package pdftex.def Info: skizzen/14/14_6BA.png used on input line 570.
@@ -3697,29 +2288,484 @@ Underfull \hbox (badness 10000) in paragraph at lines 572--573
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 617.
-[20 <./skizzen/14/14_6B9.png> <./skizzen/14/14_6BA.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 617.
+
+./ExPhy 2 Kap 14.tex:588: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.588 C
+       oulombkraft: Zentralkraft, konservativ
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./ExPhy 2 Kap 14.tex:594: Missing $ inserted.
+<inserted text> 
+                $
+l.594 ...\vec{r}} \vec{E}(\vec{r})\cdot d\vec{r}$}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./ExPhy 2 Kap 14.tex:594: Extra }, or forgotten $.
+<recently read> }
+                 
+l.594 ...\vec{r}} \vec{E}(\vec{r})\cdot d\vec{r}$}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./ExPhy 2 Kap 14.tex:594: Missing $ inserted.
+<inserted text> 
+                $
+l.594 ...\vec{r}} \vec{E}(\vec{r})\cdot d\vec{r}$}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./ExPhy 2 Kap 14.tex:594: Missing } inserted.
+<inserted text> 
+                }
+l.594 ...\vec{r}} \vec{E}(\vec{r})\cdot d\vec{r}$}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:598: Missing $ inserted.
+<inserted text> 
+                $
+l.598 ...} = \frac{1}{q_0}E_{pot}\cdot (\vec{r})$}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./ExPhy 2 Kap 14.tex:598: Extra }, or forgotten $.
+<recently read> }
+                 
+l.598 ...} = \frac{1}{q_0}E_{pot}\cdot (\vec{r})$}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./ExPhy 2 Kap 14.tex:598: Missing $ inserted.
+<inserted text> 
+                $
+l.598 ...} = \frac{1}{q_0}E_{pot}\cdot (\vec{r})$}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./ExPhy 2 Kap 14.tex:598: Missing } inserted.
+<inserted text> 
+                }
+l.598 ...} = \frac{1}{q_0}E_{pot}\cdot (\vec{r})$}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[21 <./skizzen/14/14_6B9.png> <./skizzen/14/14_6BA.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 604--605
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--609
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--616
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 617--619
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--623
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--631
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--635
+
+ []
+
+[22]
+./ExPhy 2 Kap 14.tex:642: Missing } inserted.
+<inserted text> 
+                }
+l.642 \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:642: Missing { inserted.
+<inserted text> 
+                {
+l.642 \end{align*}
+                  
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+./ExPhy 2 Kap 14.tex:642: Missing } inserted.
+<inserted text> 
+                }
+l.642 \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:642: Missing { inserted.
+<inserted text> 
+                {
+l.642 \end{align*}
+                  
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+Missing character: There is no Ü in font txr!
+./ExPhy 2 Kap 14.tex:642: Missing } inserted.
+<inserted text> 
+                }
+l.642 \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:642: Missing { inserted.
+<inserted text> 
+                {
+l.642 \end{align*}
+                  
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+./ExPhy 2 Kap 14.tex:642: Missing } inserted.
+<inserted text> 
+                }
+l.642 \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:642: Missing { inserted.
+<inserted text> 
+                {
+l.642 \end{align*}
+                  
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+./ExPhy 2 Kap 14.tex:642: Missing } inserted.
+<inserted text> 
+                }
+l.642 \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:642: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.642 \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:642: Misplaced \omit.
+\math@cr@@@ ...@ \@ne \add@amps \maxfields@ \omit 
+                                                  \kern -\alignsep@ \iftag@ ...
+l.642 \end{align*}
+                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./ExPhy 2 Kap 14.tex:642: Missing { inserted.
+<inserted text> 
+                {
+l.642 \end{align*}
+                  
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+./ExPhy 2 Kap 14.tex:642: Missing } inserted.
+<inserted text> 
+                }
+l.642 \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:642: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.642 \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:642: Misplaced \omit.
+\math@cr@@@ ...@ \@ne \add@amps \maxfields@ \omit 
+                                                  \kern -\alignsep@ \iftag@ ...
+l.642 \end{align*}
+                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./ExPhy 2 Kap 14.tex:642: Missing { inserted.
+<inserted text> 
+                {
+l.642 \end{align*}
+                  
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+Missing character: There is no Ü in font txr!
+./ExPhy 2 Kap 14.tex:642: Missing } inserted.
+<inserted text> 
+                }
+l.642 \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:642: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.642 \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:642: Misplaced \omit.
+\math@cr@@@ ...@ \@ne \add@amps \maxfields@ \omit 
+                                                  \kern -\alignsep@ \iftag@ ...
+l.642 \end{align*}
+                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./ExPhy 2 Kap 14.tex:642: Missing { inserted.
+<inserted text> 
+                {
+l.642 \end{align*}
+                  
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+./ExPhy 2 Kap 14.tex:642: Missing } inserted.
+<inserted text> 
+                }
+l.642 \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:642: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.642 \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:642: Misplaced \omit.
+\math@cr@@@ ...@ \@ne \add@amps \maxfields@ \omit 
+                                                  \kern -\alignsep@ \iftag@ ...
+l.642 \end{align*}
+                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./ExPhy 2 Kap 14.tex:642: Missing { inserted.
+<inserted text> 
+                {
+l.642 \end{align*}
+                  
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--647
+
+ []
+
+./ExPhy 2 Kap 14.tex:650: Argument of \align* has an extra }.
+<inserted text> 
+                \par 
+l.650 \begin{align*}}
+                     
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+./ExPhy 2 Kap 14.tex:650: Paragraph ended before \align* was complete.
+<to be read again> 
+                   \par 
+l.650 \begin{align*}}
+                     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./ExPhy 2 Kap 14.tex:650: Missing $ inserted.
+<inserted text> 
+                $
+l.650 \begin{align*}}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./ExPhy 2 Kap 14.tex:650: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.650 \begin{align*}}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./ExPhy 2 Kap 14.tex:650: Display math should end with $$.
+<to be read again> 
+                   \par 
+l.650 \begin{align*}}
+                     
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+./ExPhy 2 Kap 14.tex:650: Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.650 \begin{align*}}
+                     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+./ExPhy 2 Kap 14.tex:675: LaTeX Error: \begin{align*} on input line 650 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.675 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 675.
+[23]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 675.
  (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/ExPhy 2 Kap 14.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 617.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 617.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 675.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 675.
 Package rerunfilecheck Info: File `"ExPhy 2 Kap 14".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 617.
- ) 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 675.
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 650 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 16573 strings out of 493089
- 316547 string characters out of 6134843
+ 16580 strings out of 493089
+ 316622 string characters out of 6134843
  337361 words of memory out of 5000000
- 19762 multiletter control sequences out of 15000+600000
+ 19763 multiletter control sequences out of 15000+600000
  57713 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,17n,39p,10383b,802s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/matha10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/matha8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/mathx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/ExPhy 2 Kap 14.pdf" (20 pages, 427666 bytes).
+Output written on "/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/ExPhy 2 Kap 14.pdf" (23 pages, 426826 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
- 225 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 500000)
- 272 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 336 PDF objects out of 1000 (max. 8388607)
+ 242 compressed objects within 3 object streams
+ 62 named destinations out of 1000 (max. 500000)
+ 280 words of extra memory for PDF output out of 10000 (max. 10000000)
 

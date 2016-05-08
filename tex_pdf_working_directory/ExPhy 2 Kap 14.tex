@@ -425,15 +425,15 @@ Der elektrische Fluss durch einer belieben geschlossenen Oberfläche hängt wede
 \hfill\\
 
 \begin{align*}
-	$\oint_{A}\vec{E}\cdot d\vec{A}$&$=\int_{V} div\cdot \vec{E}\cdot dV$
-	&$=\int_{V}\vec{\nabla}\cdot\vec{E}\cdot dV$
+	\oint_{A}\vec{E}\cdot d\vec{A}&=\int_{V} div\cdot \vec{E}\cdot dV\\
+	&=\int_{V}\vec{\nabla}\cdot\vec{E}\cdot dV
 \end{align*}
 
 \hfill\\
 
 \begin{align*}
-	$\implies \int_{V}\vec{\nabla}\vec{E}dV$&$=\frac{1}{\epsilon_0}\int_{V}\varrho(\vec{r})dV$
-	&$=\vec{\nabla}\vec{E}=\frac{\varrho(\vec{r})}{\epsilon_0}$
+	\implies \int_{V}\vec{\nabla}\vec{E}dV & =\frac{1}{\epsilon_0}\int_{V}\varrho(\vec{r})dV\\
+	&=\vec{\nabla}\vec{E}=\frac{\varrho(\vec{r})}{\epsilon_0}
 \end{align*}
 
 
@@ -454,10 +454,10 @@ Die Ladungsverteilung im Raum ist die lokale Quelle ($\varrho(\vec{r})>0$) bzw. 
 \hfill\\
 
 \begin{align*}
-	$\phi=\oint_{A}\vec{E}(\vec{r})\cdot\mathrm{d}\vec{A}$&$= \oint_{A}E(r)\cdot\hat{e}_r\cdot\mathrm{d}\vec{A}$
-	&$=\oint_{A}E(r)\cdot\mathrm{dA}$
-	&$= E(r)\cdot\oint_{A}\mathrm{dA}$
-	&$= E(r)\cdot4\pi r^2$
+	\phi=\oint_{A}\vec{E}(\vec{r})\cdot\mathrm{d}\vec{A} & = \oint_{A}E(r)\cdot\hat{e}_r\cdot\mathrm{d}\vec{A}\\
+	&=\oint_{A}E(r)\cdot\mathrm{dA}\\
+	&= E(r)\cdot\oint_{A}\mathrm{dA}\\
+	&= E(r)\cdot4\pi r^2
 \end{align*}
 
 \hfill\\
@@ -583,13 +583,71 @@ $ \phi=\oint_{A} \vec{E}d\vec{A}=2\cdot E\cdot A_{stirn}\overset{G.S.}{=}\frac{Q
 
 $ \underline{\implies E=\frac{\sigma}{2\epsilon_0}} $
 
+\subsection{Das elektrische Potenzial}
+\\
+Coulombkraft: Zentralkraft, konservativ
+\hfill\\
+$\implies \exists$ potentielle Energie (s.14.3)
+\hfill\\
+für Ladungen $q_0$ im $\vec{E}$-Feld gilt:
+\hfill\\
+\boxed{$\displaystyle E_{pot}(\vec{r})=-q_0\cdot\int_{\infty}^{\vec{r}} \vec{E}(\vec{r})\cdot d\vec{r}$}
+\hfill\\
+Für das elektrische Potenzial $ \varrho(\vec{r}) $ gilt:
+\hfill\\
+\boxed{$\displaystyle\varphi=-\int_{\infty}^{\vec{r}} \vec{E}(\vec{r})\cdot d\vec{r} = \frac{1}{q_0}E_{pot}\cdot (\vec{r})$}
 
+\hfill\\
 
+$\rightarrow$ Beachte: Arbeit ist unabhängig vom Weg!
 
+\hfill\\
 
+Verschiebe $q_0$ von $\vec{r}_1$ nach $\vec{r}_2$; die benötigte Arbeit ist:
 
+\hfill\\
 
+\begin{align*}
+	\displaystyle W_{12}= \int_{\vec{r}_1}^{\vec{r}_2} \vec{F}(\vec{r})\cdot d\vec{r} & = q_0\int_{\vec{r}_1}^{\vec{r}_2} \vec{E}(\vec{r})\cdot d\vec{r} \\
+	&\underline{ =q_0\cdot(\varphi(\vec{r}_1)-\varphi(\vec{r}_2))}
+\end{align*}
 
+\hfill\\
+
+$ \varrho(\vec{r}) $ nur bis auf Integrationskonste bestimmt!\\
+Die Potentialdifferenz zwischen zwei Punkten:\\
+
+$ U = \varphi(\vec{r}_1)-\varphi(\vec{r}_2) = \frac{W_{12}}{q_0}$ heißt elektrische Spannung!
+
+\hfill\\
+
+$q_0\cdot U$ ist die Arbeit, die man braucht um $q_0$ von $ \vec{r}_1 $ nach $ \vec{r}_2 $ zu bringen!
+
+\hfill\\
+
+$[U]= 1Volt = 1V = 1\frac{I}{C}$
+
+\hfill\\
+
+\paragraph{Beachte:} $ \varphi(\vec{r}_1)-\varphi(\vec{r}_2) = -\oint \vec{E}(\vec{r})\cdot d\vec{r}= 0$!!
+
+\hfill\\
+
+Typische Spannungen:
+\begin{align*}
+	Batterie&$: 1,5V$\\
+	Stadtnetz&$: 220V$\\
+	Überlandleitung&$: 250kV$\\
+	Blitz&$: 10-15MV$
+\end{align*}
+
+\subparagraph{Beispiele:}
+
+\hfill\\
+
+(i) Punktladung:
+
+\begin{align*}}
 
 
 
