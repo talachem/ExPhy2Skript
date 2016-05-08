@@ -156,7 +156,52 @@ $Q_1\cdot Q_2 < 0:$ Anziehung
 
 \subsection{Potenzielle Energie einer Ladungsverteilung}
 
-...
+\begin{align*}
+\displaystyle W_{12} &= -\frac{1}{4\pi\epsilon_0}\cdot\int_{\infty}^{r} \frac{Q_1\cdot Q_2}{V^2}  \mathrm{d}V\\
+&=\frac{1}{4\pi\epsilon_0} \big[\frac{Q_1\cdot Q_2}{V}\big]^{12}_\infty = \frac{1}{4\pi\epsilon_0}\cdot \frac{Q_1\cdot Q_2}{V_{12}}
+\hfill\\
+W_{1,2,3} &= \frac{1}{4\pi\epsilon_0}(\frac{Q_1\cdot Q_3}{r_{13}}+\frac{Q_1\cdot Q_2}{r_{12}}+\frac{Q_2\cdot Q_3}{r_{23}})
+\end{align*}
+
+\newline\\
+\newline\\
+\linebreak\\
+\hfill\\
+Anzahl an Summanden = Anzahl an Paaren
+\newline\\
+
+\boxed{W = \bigg[\frac{1}{2}\sum_{i=1}^{N} \sum_{j≠i=1}^{N} \frac{Q_i\cdot Q_j}{r_{ij}}\bigg]\cdot \frac{1}{4\pi\epsilon_0}}
+
+\newline\\
+\linebreak\\
+\hfill\\
+
+$\implies$ Aufsummieren auch unendlicher Ensembles möglich, wenn die Reihe konvergiert. 
+
+\paragraph{Betrachte Kraf auf Probeladung in homogen geladener Kugel}
+
+\newline\\
+\linebreak\\
+\hfill\\
+
+Für beliebe Räumlichelemente (und damit auch Flächenelemente) gilt:
+
+$q_1 \propto \mathrm{d}A_1 \propto r_1^2$
+
+$q_1 \propto \mathrm{d}A_1 \propto r_1^2$
+
+Geometrie $\implies \frac{q_1}{q_2} = \frac{r_1^2}{r_2^2}$
+
+Annahme: Kraft \propto \frac{1}{r^n}
+
+$\vert\vec{F}_1\vert = \frac{1}{4\pi\epsilon_0}\cdot\frac{q\cdot q_1}{r_1^n}\\
+\vert\vec{F}_2\vert = \frac{1}{4\pi\epsilon_0}\cdot\frac{q\cdot q_2}{r_2^n}$\\
+
+Geometrie einsetzen: 
+
+$\frac{|\vec{F}_1|}{|\vec{F}_2|} = \frac{q_1}{r_1^n}\cdot \frac{r_2^n}{q_2} \overset{!}{=} 1 \implies n = 2$
+
+Gesamtkraft verschwindet nur wenn |\vec{F}| \propto \frac{1}{r^2}
 
 \subsection{Erzeugung el. Felder durch Ladungen}
 
@@ -279,7 +324,7 @@ $Q_1\cdot Q_2 < 0:$ Anziehung
 
 		
 	
-
+\subsection{Elektrischer Fluss und Satz von Gauß}
 	
 	
 \end{document}
