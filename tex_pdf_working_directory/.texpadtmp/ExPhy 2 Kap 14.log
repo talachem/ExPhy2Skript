@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.7)  8 MAY 2016 19:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.7)  8 MAY 2016 19:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1669,210 +1669,174 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--222
  []
 
 
-./ExPhy 2 Kap 14.tex:227: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.227 \newline
-              \\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./ExPhy 2 Kap 14.tex:228: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.228 \linebreak
-                \\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./ExPhy 2 Kap 14.tex:228: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.228 \linebreak\\
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./ExPhy 2 Kap 14.tex:229: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.229 \hfill
-            \\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
 
  []
 
-./ExPhy 2 Kap 14.tex:239: Missing $ inserted.
+<skizzen/14/14_3B0.png, id=129, 367.3725pt x 228.855pt>
+File: skizzen/14/14_3B0.png Graphic file (type png)
+ <use skizzen/14/14_3B0.png>
+Package pdftex.def Info: skizzen/14/14_3B0.png used on input line 229.
+(pdftex.def)             Requested size: 367.37158pt x 228.85443pt.
+
+Overfull \hbox (24.37158pt too wide) in paragraph at lines 229--230
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+[7 <./skizzen/14/14_3B0.png>]
+./ExPhy 2 Kap 14.tex:241: Missing $ inserted.
 <inserted text> 
                 $
-l.239 Annahme: Kraft \propto
+l.241 Annahme: Kraft \propto
                              \frac{1}{r^n}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./ExPhy 2 Kap 14.tex:240: Missing $ inserted.
+./ExPhy 2 Kap 14.tex:242: Missing $ inserted.
 <inserted text> 
                 $
-l.240 
+l.242 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--243
+Underfull \hbox (badness 10000) in paragraph at lines 243--245
 
  []
 
 
-./ExPhy 2 Kap 14.tex:248: Package amsmath Error: \vec allowed only in math mode.
+./ExPhy 2 Kap 14.tex:250: Package amsmath Error: \vec allowed only in math mode.
 
 See the amsmath package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.248 Gesamtkraft verschwindet nur wenn |\vec{F}
+l.250 Gesamtkraft verschwindet nur wenn |\vec{F}
                                                 | \propto \frac{1}{r^2}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./ExPhy 2 Kap 14.tex:248: Missing $ inserted.
+./ExPhy 2 Kap 14.tex:250: Missing $ inserted.
 <inserted text> 
                 $
-l.248 ...t verschwindet nur wenn |\vec{F}| \propto
+l.250 ...t verschwindet nur wenn |\vec{F}| \propto
                                                    \frac{1}{r^2}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./ExPhy 2 Kap 14.tex:249: Missing $ inserted.
+./ExPhy 2 Kap 14.tex:251: Missing $ inserted.
 <inserted text> 
                 $
-l.249 
+l.251 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[7] <skizzen/14/14_4B0.png, id=135, 472.6458pt x 217.2918pt>
+<skizzen/14/14_4B0.png, id=137, 472.6458pt x 217.2918pt>
 File: skizzen/14/14_4B0.png Graphic file (type png)
  <use skizzen/14/14_4B0.png>
-Package pdftex.def Info: skizzen/14/14_4B0.png used on input line 264.
+Package pdftex.def Info: skizzen/14/14_4B0.png used on input line 266.
 (pdftex.def)             Requested size: 251.9989pt x 115.85042pt.
- <skizzen/14/14_4B1.png, id=136, 530.4618pt x 456.7464pt>
+ [8 <./skizzen/14/14_4B0.png>] <skizzen/14/14_4B1.png, id=143, 530.4618pt x 456.7464pt>
 File: skizzen/14/14_4B1.png Graphic file (type png)
  <use skizzen/14/14_4B1.png>
-Package pdftex.def Info: skizzen/14/14_4B1.png used on input line 278.
+Package pdftex.def Info: skizzen/14/14_4B1.png used on input line 280.
 (pdftex.def)             Requested size: 143.9978pt x 123.98526pt.
- <skizzen/14/14_4B2.png, id=137, 358.941pt x 435.5472pt>
+ <skizzen/14/14_4B2.png, id=144, 358.941pt x 435.5472pt>
 File: skizzen/14/14_4B2.png Graphic file (type png)
  <use skizzen/14/14_4B2.png>
-Package pdftex.def Info: skizzen/14/14_4B2.png used on input line 283.
+Package pdftex.def Info: skizzen/14/14_4B2.png used on input line 285.
 (pdftex.def)             Requested size: 143.9978pt x 174.72751pt.
- [8 <./skizzen/14/14_4B0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 
  []
 
-<skizzen/14/14_4B3.png, id=143, 520.8258pt x 194.1654pt>
+<skizzen/14/14_4B3.png, id=145, 520.8258pt x 194.1654pt>
 File: skizzen/14/14_4B3.png Graphic file (type png)
  <use skizzen/14/14_4B3.png>
-Package pdftex.def Info: skizzen/14/14_4B3.png used on input line 294.
+Package pdftex.def Info: skizzen/14/14_4B3.png used on input line 296.
 (pdftex.def)             Requested size: 299.36041pt x 111.60275pt.
- <skizzen/14/14_4B4.png, id=144, 371.4678pt x 301.125pt>
+ <skizzen/14/14_4B4.png, id=146, 371.4678pt x 301.125pt>
 File: skizzen/14/14_4B4.png Graphic file (type png)
  <use skizzen/14/14_4B4.png>
-Package pdftex.def Info: skizzen/14/14_4B4.png used on input line 299.
+Package pdftex.def Info: skizzen/14/14_4B4.png used on input line 301.
 (pdftex.def)             Requested size: 133.04794pt x 107.85353pt.
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 288--305
+Overfull \hbox (17.0pt too wide) in paragraph at lines 290--307
 []$[]$ 
  []
 
-[9 <./skizzen/14/14_4B1.png> <./skizzen/14/14_4B2.png>] <skizzen/14/14_4B6.png, id=151, 265.9536pt x 202.8378pt>
+[9 <./skizzen/14/14_4B1.png> <./skizzen/14/14_4B2.png>] <skizzen/14/14_4B6.png, id=153, 265.9536pt x 202.8378pt>
 File: skizzen/14/14_4B6.png Graphic file (type png)
  <use skizzen/14/14_4B6.png>
-Package pdftex.def Info: skizzen/14/14_4B6.png used on input line 312.
+Package pdftex.def Info: skizzen/14/14_4B6.png used on input line 314.
 (pdftex.def)             Requested size: 133.04794pt x 101.47745pt.
- [10 <./skizzen/14/14_4B3.png> <./skizzen/14/14_4B4.png> <./skizzen/14/14_4B6.png>] <skizzen/14/14_4B7.png, id=163, 353.6412pt x 331.9602pt>
+ [10 <./skizzen/14/14_4B3.png> <./skizzen/14/14_4B4.png> <./skizzen/14/14_4B6.png>] <skizzen/14/14_4B7.png, id=165, 353.6412pt x 331.9602pt>
 File: skizzen/14/14_4B7.png Graphic file (type png)
  <use skizzen/14/14_4B7.png>
-Package pdftex.def Info: skizzen/14/14_4B7.png used on input line 318.
+Package pdftex.def Info: skizzen/14/14_4B7.png used on input line 320.
 (pdftex.def)             Requested size: 133.04794pt x 124.89505pt.
 
-Overfull \hbox (0.28723pt too wide) in paragraph at lines 323--324
+Overfull \hbox (0.28723pt too wide) in paragraph at lines 325--326
  []$[]$\T1/txr/bx/n/10.95 :[] \T1/txr/m/n/10.95 Räum-liche Ladungstren-nung in el. Leit-ern durch äuÿeres $[]$-Feld (Kon-
  []
 
-<skizzen/14/14_5B0.png, id=164, 266.4354pt x 196.0926pt>
+<skizzen/14/14_5B0.png, id=166, 266.4354pt x 196.0926pt>
 File: skizzen/14/14_5B0.png Graphic file (type png)
  <use skizzen/14/14_5B0.png>
-Package pdftex.def Info: skizzen/14/14_5B0.png used on input line 332.
+Package pdftex.def Info: skizzen/14/14_5B0.png used on input line 334.
 (pdftex.def)             Requested size: 180.0pt x 132.48245pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--338
+Underfull \hbox (badness 10000) in paragraph at lines 337--340
 
  []
 
 [11 <./skizzen/14/14_4B7.png> <./skizzen/14/14_5B0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
 
  []
 
-<skizzen/14/14_5B1.png, id=178, 305.943pt x 328.5876pt>
+<skizzen/14/14_5B1.png, id=180, 305.943pt x 328.5876pt>
 File: skizzen/14/14_5B1.png Graphic file (type png)
  <use skizzen/14/14_5B1.png>
-Package pdftex.def Info: skizzen/14/14_5B1.png used on input line 351.
+Package pdftex.def Info: skizzen/14/14_5B1.png used on input line 353.
 (pdftex.def)             Requested size: 180.0pt x 193.3235pt.
 
-Overfull \hbox (81.90741pt too wide) in paragraph at lines 362--362
+Overfull \hbox (81.90741pt too wide) in paragraph at lines 364--364
 [] 
  []
 
 [12 <./skizzen/14/14_5B1.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 376.
  [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 376.
  (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/ExPhy 2 Kap 14.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 376.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 376.
 Package rerunfilecheck Info: File `"ExPhy 2 Kap 14".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 374.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 376.
  ) 
 Here is how much of TeX's memory you used:
- 16494 strings out of 493089
- 314946 string characters out of 6134843
+ 16499 strings out of 493089
+ 315059 string characters out of 6134843
  337358 words of memory out of 5000000
- 19707 multiletter control sequences out of 15000+600000
+ 19711 multiletter control sequences out of 15000+600000
  57713 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,17n,39p,10383b,802s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/matha10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/matha8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/mathx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/ExPhy 2 Kap 14.pdf" (13 pages, 325470 bytes).
+Output written on "/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/ExPhy 2 Kap 14.pdf" (13 pages, 337275 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
+ 245 PDF objects out of 1000 (max. 8388607)
  184 compressed objects within 2 object streams
  44 named destinations out of 1000 (max. 500000)
- 188 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
