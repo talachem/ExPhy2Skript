@@ -233,5 +233,53 @@ $Q_1\cdot Q_2 < 0:$ Anziehung
 	\end{enumerate}
 	\paragraph{\underline{Influenz}:} Räumliche Ladungstrennung in el. Leitern durch äu\ss{}eres $ \vec{E} $-Feld (Kontaktlos!), so dass das Innere des Leiters Feldfrei ist! 
 	
+
+		
 	\subsection{Kontinuierliche Ladungsverteilung}
+	
+		Betrachte Ladungsverteilung über endliches Volumen $ V = {\displaystyle \int_V dV} $
+		\begin{center}
+			\hypertarget{ref1}{}
+			\includegraphics[width=0.5\linewidth]{skizzen/14/14_5B0}
+			(\textasteriskcentered)
+		\end{center}
+		Ladungsdichte: $ \rho(\vec{r}) = \frac{dq(\vec{r})}{dV} $ \\
+		Gesamtladung: $ Q = {\displaystyle\int_V dq} = {\displaystyle\int_V} \rho(\vec{r}) dV  $ \\
+		Flächenladungsdichte: $ \sigma = \frac{dq}{dA} $ \\
+		
+		Integral über geschlossene Oberfläche: $ A = {\displaystyle\oint_A} dA $ \\
+		1-dim Ladungsdichte: $ \lambda = \frac{dq}{dl} $ \\
+		Länge $ l = {\displaystyle\int_l dl'} $ \\
+		für \hyperlink{ref1}{(\textasteriskcentered)} :
+		\begin{align*}
+		d\vec{E}(\vec{r}) &= \frac{dq}{| \vec{r}-\vec{r}' |^3} \cdot (\vec{r}-\vec{r}') \cdot \frac{1}{4\pi\epsilon_0} \\
+		\vec{E}(\vec{r}) &= \frac{1}{4\pi\epsilon_0} {\displaystyle\int_V dV} \left\{ \frac{dq}{dV} \cdot \frac{(\vec{r}-\vec{r}')}{| \vec{r}-\vec{r}' |^3} \right\} \\
+		&=\underline{\frac{1}{4\pi\epsilon_0} {\displaystyle\int_V dV} \left\{ \frac{ \rho(\vec{r}) }{| \vec{r}-\vec{r}' |^3} \cdot (\vec{r}-\vec{r}') \right\}}
+		\end{align*}
+		
+		\paragraph{Beispiel:} unendlich langer geladener Draht \\
+		\begin{center}
+			\includegraphics[width=0.5\linewidth]{skizzen/14/14_5B1}
+		\end{center}
+		\begin{align*}
+		\frac{dq}{dx} = \lambda \text{ (lin. Ladungsdichte) } \\
+		\text{Symmetrie: } E_x = E_z = 0 \\
+		E_y = E \cdot \cos(\theta) \\
+		dE_y& = | d\vec{E} | \cdot \cos (\theta) \\
+		dE_y &= \frac{1}{4\pi\epsilon_0} \cdot 2 \cdot \frac{\lambda \cdot dx}{r^2 (\theta)} \cdot \cos (\theta) \hspace{1cm} ; \cos (\theta) = \frac{a}{r}&& \\
+		&= \frac{1}{2\pi\epsilon_0} \cdot \lambda \cdot dx  \cdot \underline{\cos^2\theta} \cdot \cos\theta \\
+		\hfill \\
+		\tan\theta = \frac{x}{a} \Rightarrow \frac{dx}{d\theta} = \frac{a}{\cos^2\theta} \hspace{1cm} \Rightarrow dx = \underline{\frac{a}{\cos^2\theta} d\theta}
+		\end{align*}
+		
+		\begin{align*}
+		\Rightarrow dE_y &= \frac{1}{2\pi\epsilon_0} \cdot \lambda \cdot \frac{\cos\theta}{a} \cdot d\theta \\
+		E_y &= \frac{1}{2\pi\epsilon_0} \cdot \frac{\lambda}{a} \cdot { \displaystyle\int_{0}^{\pi/2} \cos\theta d\theta } = \underline{\underline{\frac{1}{2\pi\epsilon_0} \cdot  \frac{\lambda}{a} }}
+		\end{align*}
+
+		
+	
+
+	
+	
 \end{document}
