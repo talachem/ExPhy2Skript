@@ -326,7 +326,75 @@
 	\end{itemize}
 %	\includegraphics[width=0.7\linewidth]{Skizzen/VL07/8}
 
-\subsection{}
+	\subsection{15.4 Leistungsumsetzung beim Ladungstransport}
+	\begin{itemize}
+		\item Elektrolyte: Ladungstransport durch Ionen.
+		\item Ladungstransport durch Elektronen: Stöße mit Gitterionen
+	\end{itemize}
+	Elektrische Energie $ \longrightarrow $ $ E_{kin} $ + Wärmeenergie.\\
+	Leistung im Ohmschen Widerstand \emph{R} :\\
+	\begin{center}
+		\includegraphics[width=0.4\linewidth]{skizzen/15/15_4-6/15_4B0}
+	\end{center}
+
+	\begin{align*}
+	U = \varphi_2-\varphi_1,\hspace{5mm} W&=\int \vec{F} \cdot d\vec{r} = q \int\vec{E}d\vec{r} = \int q dU = U\cdot q  \\
+	\text{Bei \emph{N} Ladungen: } W&=NUq=UQ  \\
+	\end{align*}
+	
+	\begin{align*}
+	\text{Leistung } &\text{ }P = \frac{dW}{dt} = \frac{dQ}{dt}U = I \cdot U \hspace{1cm} | (U=R\cdot I) \\
+	\Rightarrow &\boxed{P = I^2R=\frac{1}{R} U^2 } \hspace{2mm} \text{[$ P $]}=\si{\watt}=\si{\volt\ampere}
+	\end{align*}
+	\paragraph{Anwendung:}
+	- Elektrisch Betriebene Heizung \\
+	Exp: $ \longrightarrow $ Hitzdrahtmesswerk 
+	
+	\subsection{Widerstandnetzwerke und Kirchhoffsche Regeln}
+	
+	\begin{itemize}
+		\item Netzwerk: Leitsystem, in das Bauelemente eingefügt sind
+		\item Hier nur Verbindungen von Widerständen und Stromquellen
+		\item Alle Elemente: 2 Pole $ \longrightarrow $ 2 Anschlüsse \\
+		Widerstände: passive 2 Pole, Stromquellen: aktive 2 Pole
+		\item Richtungen/Vorzeichen: Strompfeile: geben formal Richtung positiver Ladungsträger an. \\
+		passiv: $ + \longrightarrow - $ \hspace{1cm} aktiv: $ - \longrightarrow + $ \\
+		Spannungspfeile: $ + \longrightarrow - $
+	\end{itemize}
+	\begin{center}
+		\includegraphics[width=1\linewidth]{skizzen/15/15_4-6/15_5B0}
+	\end{center}
+
+	$ \longrightarrow $ Ersetzen durch 1 Ersatzwiderstand
+	
+	\subsubsection{Kirchhoffsche Regeln}
+	$ \longrightarrow $ Verallgemeinerung des Ohmschen Gesetzes, dass zu Gleichungssystem führt, mit dem immer alle unbekannten Ströme und Spannungen berechnet werden können. (G.R. Kirchhoff: 1845 (1824-1887))
+	\begin{enumerate}
+		\item Kontenregeln \\
+		In einem Knoten kann keine Ladung gespeichert werden. \\
+		$ \sum $Zufließende Ströme = $ \sum $Abfließende Ströme\\
+		$ \sum_j I_j=0$ \hspace{1cm} ($ \forall $Knoten und "folgt" aus der Ladungserhaltung)
+		\item Maschenregel \\
+		Spannungen sind Potenzialdifferenzen. Für Maschen ohne elektromotorische Kraft gilt: \\
+		In Masche: $ 0=\sum_j uj = \sum_j R_jU_j  $ (Umlaufspannung $ =0 $!)\\
+	\end{enumerate}
+	
+	\paragraph{Beispiel:} \hfill \\
+	BILD
+	\begin{align*}
+	&U_1 = \phi_b - \phi_a \hspace{1cm} & U_3 = \phi_d - \phi_c \\
+	&U_1 = \phi_c - \phi_d \hspace{1cm} & U_1 = \phi_a - \phi_d \\
+	&{\displaystyle\sum_{j=1}^{4} Uj} = 0
+	\end{align*}
+	Mit diesen Regeln lassen sich die Ströme  I Spannungen in einem beliebigen Netzwerk durch ein Gleichungssystem berechnen.
+	
+	\subsubsection{Serien-(Reihen)schaltung von Widerständen}
+	
+	\subsubsection{Parallelschaltung}
+	
+	\subsubsection{Beispiel}
+	
+	\subsection{Stromquellen, elektromotorische Kraft, Urspannung, Klemmspannung}
 				
 
 \end{document}
