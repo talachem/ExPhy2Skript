@@ -8,13 +8,16 @@
 \contentsline {paragraph}{Seit 60er Jahre}{4}{section*.4}
 \contentsline {subsubsection}{\numberline {14.1.4}Entdeckung und Bestimmung der Elementarladung}{5}{subsubsection.14.1.4}
 \contentsline {subsection}{\numberline {14.2}Kr\"{a}fte zwischen Ladungen und das Coulomb-Gesetz}{5}{subsection.14.2}
-\contentsline {subsection}{\numberline {14.3}Potenzielle Energie einer Ladungsverteilung}{6}{subsection.14.3}
-\contentsline {paragraph}{Betrachte Kraf auf Probeladung in homogen geladener Kugel}{6}{section*.5}
-\contentsline {subsection}{\numberline {14.4}Erzeugung el. Felder durch Ladungen}{7}{subsection.14.4}
-\contentsline {subsubsection}{\numberline {14.4.1}Feld einer Punktladung:}{7}{subsubsection.14.4.1}
-\contentsline {subsubsection}{\numberline {14.4.2}Feld einer Verteilung von Punktladungen}{7}{subsubsection.14.4.2}
-\contentsline {subsubsection}{\numberline {14.4.3}Leiter im el. Feld und Influenz}{9}{subsubsection.14.4.3}
-\contentsline {paragraph}{\relax $\@@underline {\hbox {Influenz}}\mathsurround \z@ $\relax :}{10}{section*.6}
-\contentsline {subsection}{\numberline {14.5}Kontinuierliche Ladungsverteilung}{10}{subsection.14.5}
-\contentsline {paragraph}{Beispiel:}{11}{section*.7}
-\contentsline {subsection}{\numberline {14.6}Elektrischer Fluss und Satz von Gau\IeC {\ss }}{12}{subsection.14.6}
+\contentsline {subparagraph}{Coulomb-Kraft}{5}{section*.5}
+\contentsline {subparagraph}{Analogie Gravitation}{6}{section*.6}
+\contentsline {subparagraph}{Wechselwirkung zwischen mehreren Ladungen}{6}{section*.7}
+\contentsline {subsection}{\numberline {14.3}Potenzielle Energie einer Ladungsverteilung}{7}{subsection.14.3}
+\contentsline {paragraph}{Betrachte Kraft auf Probeladung in homogen geladener Kugel}{7}{section*.8}
+\contentsline {subsection}{\numberline {14.4}Erzeugung el. Felder durch Ladungen}{8}{subsection.14.4}
+\contentsline {subsubsection}{\numberline {14.4.1}Feld einer Punktladung:}{8}{subsubsection.14.4.1}
+\contentsline {subsubsection}{\numberline {14.4.2}Feld einer Verteilung von Punktladungen}{8}{subsubsection.14.4.2}
+\contentsline {subsubsection}{\numberline {14.4.3}Leiter im el. Feld und Influenz}{10}{subsubsection.14.4.3}
+\contentsline {paragraph}{\relax $\@@underline {\hbox {Influenz}}\mathsurround \z@ $\relax :}{11}{section*.9}
+\contentsline {subsection}{\numberline {14.5}Kontinuierliche Ladungsverteilung}{11}{subsection.14.5}
+\contentsline {paragraph}{Beispiel:}{12}{section*.10}
+\contentsline {subsection}{\numberline {14.6}Elektrischer Fluss und Satz von Gau\IeC {\ss }}{13}{subsection.14.6}

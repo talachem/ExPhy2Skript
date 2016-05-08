@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.7)  8 MAY 2016 18:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.7)  8 MAY 2016 19:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1415,13 +1415,13 @@ File: skizzen/14/14_1B2.png Graphic file (type png)
  <use skizzen/14/14_1B2.png>
 Package pdftex.def Info: skizzen/14/14_1B2.png used on input line 100.
 (pdftex.def)             Requested size: 306.14299pt x 101.3785pt.
- [3 <./skizzen/14/14_1B1.png> <./skizzen/14/14_1B2.png>] <skizzen/14/14_1B5.png, id=105, 399.4925pt x 182.6825pt>
+ [3 <./skizzen/14/14_1B1.png> <./skizzen/14/14_1B2.png>] <skizzen/14/14_1B5.png, id=105, 359.3425pt x 164.615pt>
 File: skizzen/14/14_1B5.png Graphic file (type png)
  <use skizzen/14/14_1B5.png>
 Package pdftex.def Info: skizzen/14/14_1B5.png used on input line 123.
-(pdftex.def)             Requested size: 399.49152pt x 182.68204pt.
+(pdftex.def)             Requested size: 359.34161pt x 164.6146pt.
 
-Overfull \hbox (56.49152pt too wide) in paragraph at lines 123--133
+Overfull \hbox (16.34161pt too wide) in paragraph at lines 123--133
 [][] 
  []
 
@@ -1435,12 +1435,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--136
 
  []
 
-[4 <./skizzen/14/14_1B5.png>]
+
 Overfull \hbox (1.44528pt too wide) in paragraph at lines 139--140
 \T1/txr/m/n/10.95 Robert An-drews Millikan(1868-1953): Öl-trpfchen-ver-such ($\U/matha/m/n/10.95 Ñ$ \T1/txr/m/n/10.95 An-fänger-prak-tikum) 
  []
 
-
+[4 <./skizzen/14/14_1B5.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
@@ -1450,370 +1450,429 @@ File: skizzen/14/14_2B0.png Graphic file (type png)
  <use skizzen/14/14_2B0.png>
 Package pdftex.def Info: skizzen/14/14_2B0.png used on input line 148.
 (pdftex.def)             Requested size: 217.8132pt x 129.48341pt.
- [5 <./skizzen/14/14_2B0.png>]
 
-./ExPhy 2 Kap 14.tex:173: LaTeX Error: There's no line here to end.
+Underfull \hbox (badness 10000) in paragraph at lines 152--164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 172--177
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+[5 <./skizzen/14/14_2B0.png>]
+
+./ExPhy 2 Kap 14.tex:188: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.173 \newline
+l.188 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+<skizzen/14/14_2B1.png, id=120, 303.1325pt x 196.735pt>
+File: skizzen/14/14_2B1.png Graphic file (type png)
+ <use skizzen/14/14_2B1.png>
+Package pdftex.def Info: skizzen/14/14_2B1.png used on input line 191.
+(pdftex.def)             Requested size: 303.13176pt x 196.7345pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+[6 <./skizzen/14/14_2B1.png>]
+
+./ExPhy 2 Kap 14.tex:210: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \newline
               \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./ExPhy 2 Kap 14.tex:174: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:211: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 \newline
+l.211 \newline
               \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./ExPhy 2 Kap 14.tex:174: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:211: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 \newline
+l.211 \newline
               \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./ExPhy 2 Kap 14.tex:175: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:212: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.175 \linebreak
+l.212 \linebreak
                 \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./ExPhy 2 Kap 14.tex:175: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:212: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.175 \linebreak\\
+l.212 \linebreak\\
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./ExPhy 2 Kap 14.tex:176: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:213: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.176 \hfill
+l.213 \hfill
             \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--179
+Underfull \hbox (badness 10000) in paragraph at lines 213--216
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--179
+Underfull \hbox (badness 10000) in paragraph at lines 213--216
 
  []
 
 
-./ExPhy 2 Kap 14.tex:180: Package inputenc Error: Unicode char \u8:â‰  not set up for use with LaTeX.
+./ExPhy 2 Kap 14.tex:217: Package inputenc Error: Unicode char \u8:â‰  not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.180 ...ij}}\bigg]\cdot \frac{1}{4\pi\epsilon_0}}
+l.217 ...ij}}\bigg]\cdot \frac{1}{4\pi\epsilon_0}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./ExPhy 2 Kap 14.tex:182: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:219: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.182 \newline
+l.219 \newline
               \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./ExPhy 2 Kap 14.tex:183: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:220: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.183 \linebreak
+l.220 \linebreak
                 \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./ExPhy 2 Kap 14.tex:183: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:220: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.183 \linebreak\\
+l.220 \linebreak\\
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./ExPhy 2 Kap 14.tex:184: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:221: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.184 \hfill
+l.221 \hfill
             \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
 
-./ExPhy 2 Kap 14.tex:190: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:227: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.190 \newline
+l.227 \newline
               \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./ExPhy 2 Kap 14.tex:191: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:228: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.191 \linebreak
+l.228 \linebreak
                 \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./ExPhy 2 Kap 14.tex:191: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:228: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.191 \linebreak\\
+l.228 \linebreak\\
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./ExPhy 2 Kap 14.tex:192: LaTeX Error: There's no line here to end.
+./ExPhy 2 Kap 14.tex:229: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.192 \hfill
+l.229 \hfill
             \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
 
  []
 
-./ExPhy 2 Kap 14.tex:202: Missing $ inserted.
+./ExPhy 2 Kap 14.tex:239: Missing $ inserted.
 <inserted text> 
                 $
-l.202 Annahme: Kraft \propto
+l.239 Annahme: Kraft \propto
                              \frac{1}{r^n}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./ExPhy 2 Kap 14.tex:203: Missing $ inserted.
+./ExPhy 2 Kap 14.tex:240: Missing $ inserted.
 <inserted text> 
                 $
-l.203 
+l.240 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--206
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
 
  []
 
 
-./ExPhy 2 Kap 14.tex:211: Package amsmath Error: \vec allowed only in math mode.
+./ExPhy 2 Kap 14.tex:248: Package amsmath Error: \vec allowed only in math mode.
 
 See the amsmath package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.211 Gesamtkraft verschwindet nur wenn |\vec{F}
+l.248 Gesamtkraft verschwindet nur wenn |\vec{F}
                                                 | \propto \frac{1}{r^2}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./ExPhy 2 Kap 14.tex:211: Missing $ inserted.
+./ExPhy 2 Kap 14.tex:248: Missing $ inserted.
 <inserted text> 
                 $
-l.211 ...t verschwindet nur wenn |\vec{F}| \propto
+l.248 ...t verschwindet nur wenn |\vec{F}| \propto
                                                    \frac{1}{r^2}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./ExPhy 2 Kap 14.tex:212: Missing $ inserted.
+./ExPhy 2 Kap 14.tex:249: Missing $ inserted.
 <inserted text> 
                 $
-l.212 
+l.249 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[6] <skizzen/14/14_4B0.png, id=125, 472.6458pt x 217.2918pt>
+[7] <skizzen/14/14_4B0.png, id=135, 472.6458pt x 217.2918pt>
 File: skizzen/14/14_4B0.png Graphic file (type png)
  <use skizzen/14/14_4B0.png>
-Package pdftex.def Info: skizzen/14/14_4B0.png used on input line 227.
+Package pdftex.def Info: skizzen/14/14_4B0.png used on input line 264.
 (pdftex.def)             Requested size: 251.9989pt x 115.85042pt.
- <skizzen/14/14_4B1.png, id=126, 530.4618pt x 456.7464pt>
+ <skizzen/14/14_4B1.png, id=136, 530.4618pt x 456.7464pt>
 File: skizzen/14/14_4B1.png Graphic file (type png)
  <use skizzen/14/14_4B1.png>
-Package pdftex.def Info: skizzen/14/14_4B1.png used on input line 241.
+Package pdftex.def Info: skizzen/14/14_4B1.png used on input line 278.
 (pdftex.def)             Requested size: 143.9978pt x 123.98526pt.
- <skizzen/14/14_4B2.png, id=127, 358.941pt x 435.5472pt>
+ <skizzen/14/14_4B2.png, id=137, 358.941pt x 435.5472pt>
 File: skizzen/14/14_4B2.png Graphic file (type png)
  <use skizzen/14/14_4B2.png>
-Package pdftex.def Info: skizzen/14/14_4B2.png used on input line 246.
+Package pdftex.def Info: skizzen/14/14_4B2.png used on input line 283.
 (pdftex.def)             Requested size: 143.9978pt x 174.72751pt.
- [7 <./skizzen/14/14_4B0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
+ [8 <./skizzen/14/14_4B0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
 
  []
 
-<skizzen/14/14_4B3.png, id=134, 520.8258pt x 194.1654pt>
+<skizzen/14/14_4B3.png, id=143, 520.8258pt x 194.1654pt>
 File: skizzen/14/14_4B3.png Graphic file (type png)
  <use skizzen/14/14_4B3.png>
-Package pdftex.def Info: skizzen/14/14_4B3.png used on input line 257.
+Package pdftex.def Info: skizzen/14/14_4B3.png used on input line 294.
 (pdftex.def)             Requested size: 299.36041pt x 111.60275pt.
- <skizzen/14/14_4B4.png, id=135, 371.4678pt x 301.125pt>
+ <skizzen/14/14_4B4.png, id=144, 371.4678pt x 301.125pt>
 File: skizzen/14/14_4B4.png Graphic file (type png)
  <use skizzen/14/14_4B4.png>
-Package pdftex.def Info: skizzen/14/14_4B4.png used on input line 262.
+Package pdftex.def Info: skizzen/14/14_4B4.png used on input line 299.
 (pdftex.def)             Requested size: 133.04794pt x 107.85353pt.
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 251--268
+Overfull \hbox (17.0pt too wide) in paragraph at lines 288--305
 []$[]$ 
  []
 
-[8 <./skizzen/14/14_4B1.png> <./skizzen/14/14_4B2.png>] <skizzen/14/14_4B6.png, id=142, 265.9536pt x 202.8378pt>
+[9 <./skizzen/14/14_4B1.png> <./skizzen/14/14_4B2.png>] <skizzen/14/14_4B6.png, id=151, 265.9536pt x 202.8378pt>
 File: skizzen/14/14_4B6.png Graphic file (type png)
  <use skizzen/14/14_4B6.png>
-Package pdftex.def Info: skizzen/14/14_4B6.png used on input line 275.
+Package pdftex.def Info: skizzen/14/14_4B6.png used on input line 312.
 (pdftex.def)             Requested size: 133.04794pt x 101.47745pt.
- [9 <./skizzen/14/14_4B3.png> <./skizzen/14/14_4B4.png> <./skizzen/14/14_4B6.png>] <skizzen/14/14_4B7.png, id=154, 353.6412pt x 331.9602pt>
+ [10 <./skizzen/14/14_4B3.png> <./skizzen/14/14_4B4.png> <./skizzen/14/14_4B6.png>] <skizzen/14/14_4B7.png, id=163, 353.6412pt x 331.9602pt>
 File: skizzen/14/14_4B7.png Graphic file (type png)
  <use skizzen/14/14_4B7.png>
-Package pdftex.def Info: skizzen/14/14_4B7.png used on input line 281.
+Package pdftex.def Info: skizzen/14/14_4B7.png used on input line 318.
 (pdftex.def)             Requested size: 133.04794pt x 124.89505pt.
 
-Overfull \hbox (0.28723pt too wide) in paragraph at lines 286--287
+Overfull \hbox (0.28723pt too wide) in paragraph at lines 323--324
  []$[]$\T1/txr/bx/n/10.95 :[] \T1/txr/m/n/10.95 Räum-liche Ladungstren-nung in el. Leit-ern durch äuÿeres $[]$-Feld (Kon-
  []
 
-<skizzen/14/14_5B0.png, id=155, 266.4354pt x 196.0926pt>
+<skizzen/14/14_5B0.png, id=164, 266.4354pt x 196.0926pt>
 File: skizzen/14/14_5B0.png Graphic file (type png)
  <use skizzen/14/14_5B0.png>
-Package pdftex.def Info: skizzen/14/14_5B0.png used on input line 295.
+Package pdftex.def Info: skizzen/14/14_5B0.png used on input line 332.
 (pdftex.def)             Requested size: 180.0pt x 132.48245pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--301
+Underfull \hbox (badness 10000) in paragraph at lines 335--338
 
  []
 
-[10 <./skizzen/14/14_4B7.png> <./skizzen/14/14_5B0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+[11 <./skizzen/14/14_4B7.png> <./skizzen/14/14_5B0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 
  []
 
-<skizzen/14/14_5B1.png, id=168, 305.943pt x 328.5876pt>
+<skizzen/14/14_5B1.png, id=178, 305.943pt x 328.5876pt>
 File: skizzen/14/14_5B1.png Graphic file (type png)
  <use skizzen/14/14_5B1.png>
-Package pdftex.def Info: skizzen/14/14_5B1.png used on input line 314.
+Package pdftex.def Info: skizzen/14/14_5B1.png used on input line 351.
 (pdftex.def)             Requested size: 180.0pt x 193.3235pt.
 
-Overfull \hbox (81.90741pt too wide) in paragraph at lines 325--325
+Overfull \hbox (81.90741pt too wide) in paragraph at lines 362--362
 [] 
  []
 
-[11 <./skizzen/14/14_5B1.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
- [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 337.
+[12 <./skizzen/14/14_5B1.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
+ [13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
  (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/ExPhy 2 Kap 14.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 337.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 337.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
 Package rerunfilecheck Info: File `"ExPhy 2 Kap 14".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 337.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 374.
  ) 
 Here is how much of TeX's memory you used:
- 16485 strings out of 493089
- 314795 string characters out of 6134843
+ 16494 strings out of 493089
+ 314946 string characters out of 6134843
  337358 words of memory out of 5000000
- 19703 multiletter control sequences out of 15000+600000
+ 19707 multiletter control sequences out of 15000+600000
  57713 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,17n,39p,10383b,802s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/matha10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/matha8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/mathx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/ExPhy 2 Kap 14.pdf" (12 pages, 309428 bytes).
+Output written on "/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/ExPhy 2 Kap 14.pdf" (13 pages, 325470 bytes).
 PDF statistics:
- 232 PDF objects out of 1000 (max. 8388607)
- 176 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
- 183 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 243 PDF objects out of 1000 (max. 8388607)
+ 184 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 188 words of extra memory for PDF output out of 10000 (max. 10000000)
 
