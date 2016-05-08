@@ -21,3 +21,8 @@
 \contentsline {subsection}{\numberline {14.5}Kontinuierliche Ladungsverteilung}{11}{subsection.14.5}
 \contentsline {paragraph}{Beispiel:}{12}{section*.10}
 \contentsline {subsection}{\numberline {14.6}Elektrischer Fluss und Satz von Gau\IeC {\ss }}{13}{subsection.14.6}
+\contentsline {subsubsection}{\numberline {14.6.1}Definition:}{13}{subsubsection.14.6.1}
+\contentsline {subparagraph}{Spezialf\IeC {\"a}lle}{14}{section*.11}
+\contentsline {subsubsection}{\numberline {14.6.2}Gau\IeC {\ss }'scher Satz}{14}{subsubsection.14.6.2}
+\contentsline {subparagraph}{Mathematisch gilt:}{15}{section*.12}
+\contentsline {subsubsection}{\numberline {14.6.3}Beispiele}{15}{subsubsection.14.6.3}

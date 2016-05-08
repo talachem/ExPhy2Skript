@@ -372,5 +372,246 @@ Gesamtkraft verschwindet nur wenn |\vec{F}| \propto \frac{1}{r^2}
 	
 \subsection{Elektrischer Fluss und Satz von Gauß}
 	
-	
+\hfill\\
+
+\begin{wrapfigure}\centering\includegraphics{skizzen/14/14_6B0}\end{wrapfigure}
+		
+Zusammenhang zwischen "Elektrischem Fluss" (Feldliniendurchsatz) durch eine Oberfläche und der eingeschlossenen Ladung.
+
+$\implies$ Allgemeinere Formulierung des Coulomb-Gesetzes
+
+\subsubsection{Definition:} Fluss $\phi$ eines Vektorfeldes $\vec{E}$ durch einen Fläche A:
+
+\hfill\\
+
+\includegraphics{skizzen/14/14_6B1}
+
+\\
+
+$\phi= \int_A \vec{E}\cdot d\vec{A}$
+
+\hfill\\
+
+\begin{align*}
+	$d\vec{A}$:&Richtung \perp Fläche (nach Außen)\\
+	&Richtung der Flächennormale
+\end{align*}
+Betrag dA: Größe der Fläche
+
+\subparagraph{Spezialfälle}
+
+\hfill\\
+
+$\vec{E}-homogen$
+$\vec{E}\cdot d\vec{A}= E\cdot dA\cdot \cos\alpha$
+
+\begin{itemize}
+	\item $\alpha=0°: \vec{E}\parallel d\vec{A}: \vec{E}\cdot d\vec{A}=E\cdot dA$\\
+	\item $\alpha=90°: \vec{E}\perp d\vec{A}: \vec{E}\cdot d\vec{A}=0$
+\end{itemize}
+
+\subsubsection{Gauß'scher Satz}
+
+\boxed{$\displaystyle\phi=\oint_{\underset{geschlossen}{A}}\vec{E}\cdot d\vec{A}=\frac{Q_{eingeschlossen}}{\epsilon_0}$}
+
+\hfill\\
+
+Der elektrische Fluss durch einer belieben geschlossenen Oberfläche hängt weder von der Form der Oberfläche, noch von der Ladungsverteilung $\varrho(\vec{r})$ ab, sondern nur von der eingeschlossenen Gesamtladung Q.
+
+\hfill\\
+
+\subparagraph{Mathematisch gilt:}
+
+\hfill\\
+
+\begin{align*}
+	$\oint_{A}\vec{E}\cdot d\vec{A}$&$=\int_{V} div\cdot \vec{E}\cdot dV$
+	&$=\int_{V}\vec{\nabla}\cdot\vec{E}\cdot dV$
+\end{align*}
+
+\hfill\\
+
+\begin{align*}
+	$\implies \int_{V}\vec{\nabla}\vec{E}dV$&$=\frac{1}{\epsilon_0}\int_{V}\varrho(\vec{r})dV$
+	&$=\vec{\nabla}\vec{E}=\frac{\varrho(\vec{r})}{\epsilon_0}$
+\end{align*}
+
+
+\hfill\\
+
+Die Ladungsverteilung im Raum ist die lokale Quelle ($\varrho(\vec{r})>0$) bzw. Senke ($\varrho(\vec{r})<0$) des elektrischen Feldes.
+
+\subsubsection{Beispiele}\\
+
+(i)Feld einer Punktladung\\
+\includegraphics{skizzen/14/14_6B2}\\
+\begin{itemize}
+	\item Geeignete Wahl von A: Kugeloberfläche
+	\item Symmetrie: $\vec{E}(\vec{r})=E(r)\cdot\hat e_r$
+	\item $\implies \vec{E}\parallel d\vec{A}$
+\end{itemize}
+
+\hfill\\
+
+\begin{align*}
+	$\phi=\oint_{A}\vec{E}(\vec{r})\cdot\mathrm{d}\vec{A}$&$= \oint_{A}E(r)\cdot\hat{e}_r\cdot\mathrm{d}\vec{A}$
+	&$=\oint_{A}E(r)\cdot\mathrm{dA}$
+	&$= E(r)\cdot\oint_{A}\mathrm{dA}$
+	&$= E(r)\cdot4\pi r^2$
+\end{align*}
+
+\hfill\\
+
+Gauß: $\phi\overset{!}{=} \frac{Q}{\epsilon_0}=E(r)\cdot4\pi r^2 \implies \underline{E(r)=\frac{1}{4\pi\epsilon_0}\cdot\frac{Q}{r^2}}$
+
+\hfill\\
+
+(ii) Ladung auf beliebig geformten \underline{Leitern}
+
+\hfill\\
+
+\includegraphics{skizzen/14/14_6B3}
+
+\hfill\\
+
+$\phi=\oint_{A}\vec{E}d\vec{A}=\frac{Q}{\epsilon_0}=0$
+
+\hfill\\
+
+(iii) Feld einer \underline{leitenden} Kugel mit Ladung Q: (Ladung auf der Oberfläche)
+
+\hfill\\
+
+\includegraphics{skizzen/14/14_6B4}
+
+\hfill\\
+
+$ \vec{E}(\vec{r})= E(\vec{r})\cdot\hat{e}_r $
+
+$ r<R: E=0 $
+
+$ r>R: \phi=\oint_{A}E(r)\mathrm{dA}=E(r)\cdot4\pi r^2 $
+
+$ \phi=\frac{Q}{\epsilon_0} $
+
+$ \implies \underline{E(r)= \frac{1}{4\pi\epsilon_0}\cdot\frac{Q}{r^2}} $
+
+\hfill\\
+
+\includegraphics{skizzen/14/14_6B5}
+
+\hfill\\
+
+(iv) Feld einer homogen geladenen Kugel
+
+\hfill\\
+
+\includegraphics{skizzen/14/14_6B6}
+
+\hfill\\
+
+$ \rho =\frac{Q}{\frac{4}{3}\pi R^3} \text{ für }r<R $
+$ \rho=0 \text{ für }r>R$
+
+\underline{$r<R$}:
+
+$ \phi=\oint_{A}\vec{E}\cdot\mathrm{d}\vec{A} = E(r)\cdot4\pi r^2=\frac{Q_{in}}{\epsilon_0}$
+
+$ Q_{in} = Q\cdot\frac{r^3}{R^3} $
+
+\boxed{$ \implies E(r)=\frac{1}{4\pi\epsilon_0}\cdot\frac{Q}{R^3}\cdot r $}
+
+\hfill\\
+
+\includegraphics{skizzen/14/14_6B7}
+
+\hfill\\
+
+$\implies$ Von Außen ist nicht feststellbar, ob die geladene Kugel massiv oder hohl ist (Leiter oder homogen geladener Isolator)!
+
+\hfill\\
+
+(v) Unendlich lnager homogen geladener Draht
+
+\hfill\\
+
+\includegraphics{skizzen/14/14_6B8}
+
+\hfill\\
+
+Zylinderkoordinaten:
+
+\hfill\\
+
+$ \lambda=\frac{dq}{dL}=(\frac{Q}{R})\leftarrow $ als endliche lange l
+
+$ \vec{E}(\vec{r})=\vec{E}(r)=E(r)\cdot\hat{e}_r $
+
+$ \phi=\oint_{A}\vec{E}\cdot d\vec{A}=\oint_{A}E(r)dA=E(r)\oint_{A}da= E(r)\cdot 2\pi r l $
+
+$ \phi=\frac{Q_{ges}}{\epsilon_0}\implies E(r)= \frac{Q_{ges}}{2\pi\epsilon_0\cdot rl} $
+
+$ E(r)= \underline{ \frac{\lambda}{2\pi\epsilon_0}\cdot\frac{1}{r}}$
+
+\hfill\\
+
+(vi) Unendlich langer, homogen geladener leitender Zylinder
+
+\hfill\\
+
+\includegraphics{skizzen/14/14_6B9}
+
+\hfill\\
+
+(vii) Feld einer homogen geladener unendliche leitenden Ebene
+
+\hfill\\
+
+\includegraphics{skizzen/14/14_6BA}
+
+\hfill\\
+
+$ \sigma=\frac{Q}{A} $
+
+$ \displaystyle\phi = \oint_{A}\vec{E}\cdot d\vec{A}=\int_{A, stirn}^{} \vec{E}\cdot d\vec{A}+\int_{A, mantel}^{} \vec{E}\cdot d\vec{A}   $
+
+$ \vec{E} $-Ebene
+
+$ \implies $ Beitrag Über Mantelfläche verschwindet $ (d\vec{A}\perp\vec{E}) $
+
+$ \phi=\oint_{A} \vec{E}d\vec{A}=2\cdot E\cdot A_{stirn}\overset{G.S.}{=}\frac{Q}{\epsilon_0}$ 
+
+$ \underline{\implies E=\frac{\sigma}{2\epsilon_0}} $
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 \end{document}
