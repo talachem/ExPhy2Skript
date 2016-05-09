@@ -388,7 +388,7 @@
 
 	\begin{align*}
 	&U_1 = \phi_b - \phi_a \hspace{1cm} & U_3 = \phi_d - \phi_c \\
-	&U_1 = \phi_c - \phi_d \hspace{1cm} & U_1 = \phi_a - \phi_d \\
+	&U_2 = \phi_c - \phi_d \hspace{1cm} & U_4 = \phi_a - \phi_d \\
 	&{\displaystyle\sum_{j=1}^{4} Uj} = 0
 	\end{align*}
 	\end{minipage}
@@ -397,10 +397,50 @@
 	\noindent Mit diesen Regeln lassen sich die Ströme  I Spannungen in einem beliebigen Netzwerk durch ein Gleichungssystem berechnen.
 	
 	\subsubsection{Serien-(Reihen)schaltung von Widerständen}
-	
+	\begin{center}
+		\includegraphics[width=0.5\linewidth]{skizzen/15/15_4-6/15_5B2}
+	\end{center}
+	 \noindent
+	\begin{align*}
+		&U_{ges} = U_1 + U_2 \\
+		&I_1R_1+I_2R_2=I_{ges}R_{ges} \\
+		&I_1=I_2=I_{ges} \Rightarrow \boxed{R_1+R_2=R_{ges}}
+	\end{align*}
+
 	\subsubsection{Parallelschaltung}
+	\begin{center}
+		\includegraphics[width=0.5\linewidth]{skizzen/15/15_4-6/15_5B3}
+	\end{center}
+	\noindent
+	\begin{align*}
+		&U_{ges} = U_1 = U_2 && \\
+		&I_{ges} = I_1 + I_2 &&\Rightarrow \frac{U_{ges}}{R_{ges}} = \frac{U_1}{R_1} + \frac{U_2}{R_2} \hspace{5mm} |\cdot U_{ges}^{-1} \\
+		& &&\Rightarrow \boxed{\frac{1}{R_{ges}} = \frac{1}{R_1} + \frac{1}{R_2} } 
+	\end{align*}
 	
-	\subsubsection{Beispiel}
+	\subsubsection{Beispiel} : Wheatstonesche Messbrücke
+	\begin{center}
+		\includegraphics[width=0.5\linewidth]{skizzen/15/15_4-6/15_5B4}
+	\end{center}
+	\begin{math}
+		\text{KR:} \\
+		\text{(1): } I_0 = I_1 + I_2 \hspace{1cm} \text{(3): } I_4 = I_2 + I_5\\
+		\text{(2): } I_1 = I_3 + I_5 \\
+		\hfill \\
+		\text{MR: } \\
+		\text{\emph{l}: } I_1R_1+I_5R_5-I_2R_2=0 \\
+		\text{\emph{r}: } I_3R_3+I_4R_4-I_5R_5=0 
+	\end{math}
+	$ \Rightarrow $ 5 Bestimmungsgleichungen für $ I_1,...,I_5 $ \\
+	Bei Vorgabe von $ I_0 $ ist dieses Problem lösbar \\
+	"$ \Rightarrow $" Durch Veränderung von $ R_2 $ und $ R_4 $ kann erreicht werden, dass $ I_5=0 $.\\
+	Dies kann genutzt werden um Widerstände zu Messen.\\
+	\begin{math}
+		I_5 \overset{!}{=} 0 \Rightarrow I_1 = I_3,\hspace{2mm} I_2 = I_4 \\
+		\overset{MR}{\Rightarrow} I_1 R_1 = I_2 R_2,\hspace{2mm} I_3 R_3 = I_4 R_4 \Rightarrow I_1 R_3 = I_2 R_4 \\
+		\Rightarrow \frac{R_1}{R_3} = \frac{R_2}{R_4} \Rightarrow \text{ermittel } R_1
+	\end{math}
+
 	
 	\subsection{Stromquellen, elektromotorische Kraft, Urspannung, Klemmspannung}
 				
