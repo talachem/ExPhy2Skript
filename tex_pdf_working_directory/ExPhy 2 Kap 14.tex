@@ -453,20 +453,21 @@ Gauß: $\phi\overset{!}{=} \frac{Q}{\epsilon_0}=E(r)\cdot4\pi r^2 \implies \unde
 \includegraphics{skizzen/14/14_6B3}\\
 
 $\phi=\oint_{A}\vec{E}d\vec{A}=\frac{Q}{\epsilon_0}=0$\\
+\newpage
 
 (iii) Feld einer \underline{leitenden} Kugel mit Ladung Q: (Ladung auf der Oberfläche)\\
 
-\includegraphics{skizzen/14/14_6B4}\\
-
-$ \vec{E}(\vec{r})= E(\vec{r})\cdot\hat{e}_r $
-
-$ r<R: E=0 $
-
-$ r>R: \phi=\oint_{A}E(r)\mathrm{dA}=E(r)\cdot4\pi r^2 $
-
-$ \phi=\frac{Q}{\epsilon_0} $
-
-$ \implies \underline{E(r)= \frac{1}{4\pi\epsilon_0}\cdot\frac{Q}{r^2}} $
+Aus der Symmetrie des Problems ist ersichtlich:
+$ \vec{E}(\vec{r})= E(\vec{r})\cdot\hat{e}_r $\\
+\\
+Im \underline{Inneren}, also für $r<R$, gilt nach der vorherigen Überlegung: $E=0$\\
+\underline{Außerhalb}, also $r>R$, wird als Gaußfläche wieder eine Kugel mit Radius $r$ gewählt. Dan  gilt nach Gauß:
+$$\frac{Q}{\epsilon_0}=\phi=\oint_AE(r)dA=E(r)4\pi r^2\ \Rightarrow\ E(r)=\frac{1}{4\pi\epsilon_0}\frac{Q}{r^2}$$
+Zusammen kann $E(r)$ also abschnittsweise angegeben werden:
+\[
+     E(r)=\left\{\begin{array}{ll} 0 & ,r<R \\
+         \frac{1}{4\pi\epsilon_0}\frac{Q}{r^2} & ,r>R\end{array}\right.
+  \]
 
 \hfill\\
 
