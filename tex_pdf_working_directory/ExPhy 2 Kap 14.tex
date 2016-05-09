@@ -183,9 +183,10 @@ $Q_1\cdot Q_2 < 0:$ Anziehung
 
 Vergleiche Gravitation und Coulombkraft zwischen Elektron und Proton:
 
-$$ |\vec{F}_C| = \frac{1}{4\pi\epsilon_0}\cdot\frac{|q_p|\cdot|q_e|}{r^2}= 2,3\cdot10^{ -28 } \frac{N}{r[m]^2} $$
-$$ |\vec{F}_G|= \gamma\cdot m_e\cdot m_p  = 9,71\cdot10^{-68} \frac{N}{r[m]^2}$$
-
+\begin{align*}
+|\vec{F}_C| &= \frac{1}{4\pi\epsilon_0}\cdot\frac{|q_p|\cdot|q_e|}{r^2}= 2,3\cdot10^{ -28 } \frac{N}{r[m]^2}\\
+|\vec{F}_G| &= \gamma\cdot m_e\cdot m_p  = 9,71\cdot10^{-68} \frac{N}{r[m]^2}\\
+\end{align*}
 $$ \implies \frac{|F_G|}{|F_C|} = 4,2\cdot10^{-40} $$
 
 \subparagraph{Wechselwirkung zwischen mehreren Ladungen}
@@ -205,12 +206,13 @@ Kraft auf $$ Q_3: \vec{F}_3 = \bigg[\frac{Q_1\cdot Q_3}{r^2_{13}}\cdot\hat{r}_{1
 
 
 \begin{align*}
-\displaystyle W_{12} &= -\frac{1}{4\pi\epsilon_0}\cdot\int_{\infty}^{r} \frac{Q_1\cdot Q_2}{V^2}  \mathrm{d}V\\
-&=\frac{1}{4\pi\epsilon_0} \big[\frac{Q_1\cdot Q_2}{V}\big]^{12}_\infty = \frac{1}{4\pi\epsilon_0}\cdot \frac{Q_1\cdot Q_2}{V_{12}}\\
+\displaystyle W_{12} &= -\frac{1}{4\pi\epsilon_0}\cdot\int_{\infty}^{r_{12}} \frac{Q_1\cdot Q_2}{\rho^2}  \mathrm{d}\rho\\
+&=\frac{1}{4\pi\epsilon_0} \big[\frac{Q_1\cdot Q_2}{\rho}\big]^{r_{12}}_\infty = \frac{1}{4\pi\epsilon_0}\cdot \frac{Q_1\cdot Q_2}{r_{12}}\\
 W_{1,2,3} &= \frac{1}{4\pi\epsilon_0}(\frac{Q_1\cdot Q_3}{r_{13}}+\frac{Q_1\cdot Q_2}{r_{12}}+\frac{Q_2\cdot Q_3}{r_{23}})
 \end{align*}\\
 
-Anzahl an Summanden = Anzahl an Paaren\\
+Anzahl an Summanden = Anzahl an Paaren.\\
+Da aber jedes Paar doppelt gezählt wird, muss noch mit $\frac{1}{2}$ multiplitziert werden\\
 
 $\boxed{W = \bigg[\frac{1}{2}\sum_{i=1}^{N} \sum_{j≠i=1}^{N} \frac{Q_i\cdot Q_j}{r_{ij}}\bigg]\cdot \frac{1}{4\pi\epsilon_0}}\\$
 \\
@@ -239,9 +241,9 @@ Annahme: Kraft $\propto \frac{1}{r^n}$\\
 	\vert\vec{F}_2\vert &= \frac{1}{4\pi\epsilon_0}\cdot\frac{q\cdot q_2}{r_2^n}
 \end{align*}\\
 
-Geometrie einsetzen: 
-
-$\frac{|\vec{F}_1|}{|\vec{F}_2|} = \frac{q_1}{r_1^n}\cdot \frac{r_2^n}{q_2} \overset{!}{=} 1 \implies n = 2$
+$$\frac{|\vec{F}_1|}{|\vec{F}_2|} = \frac{q_1}{r_1^n}\cdot \frac{r_2^n}{q_2} \overset{!}{=} 1 \implies \frac{q_1}{q2}=\frac{r_1^n}{r_2^n}$$
+Nun kann das mit dem Geometrieausdruck gleichgesetzt werden:
+$$\frac{r_1^n}{r_2^n}=\frac{q_1}{q2}=\frac{r_1^2}{r_2^2}\Rightarrow n=2$$
 
 Gesamtkraft verschwindet nur wenn $|\vec{F}| \propto \frac{1}{r^2}$
 
@@ -309,13 +311,13 @@ Gesamtkraft verschwindet nur wenn $|\vec{F}| \propto \frac{1}{r^2}$
 		\begin{center}
 			\includegraphics[width=0.4\linewidth]{skizzen/14/14_4B6}
 		\end{center} 
-		falls $ \vec{E} \neq 0 $: $ \vec{F} = q\vec{E} $ verschiebt Ladung bis $ \vec{E} = 0 $ ! 
+		Denn falls $ \vec{E} \neq 0 $: $ \vec{F} = q\vec{E} $ verschiebt Ladung bis $ \vec{E} = 0 $ ! 
 		\item Es folgt, sich bei einem Leiter die (Netto-)Ladungen \underline{immer} an der Oberfläche befinden $ \Rightarrow $ Flächenladungsdichte $ \boxed{\sigma = \frac{dQ}{dA}} $
 		\item $ \vec{E} $ immer $ \perp $ auf Leiteroberfläche
 		\begin{center}
 			\includegraphics[width=0.4\linewidth]{skizzen/14/14_4B7}
 		\end{center}
-		(falls $ \vec{E}_{\shortparallel} \neq 0 $: Verschiebung der Ladung bis $ \vec{E}_{\shortparallel} = 0 $ !)
+		(Denn falls $ \vec{E}_{\shortparallel} \neq 0 $: Verschiebung der Ladung bis $ \vec{E}_{\shortparallel} = 0 $ !)
 
 	\end{enumerate}
 	\paragraph{\underline{Influenz}:} Räumliche Ladungstrennung in el. Leitern durch äu\ss{}eres $ \vec{E} $-Feld (Kontaktlos!), so dass das Innere des Leiters Feldfrei ist! 
@@ -348,21 +350,30 @@ Gesamtkraft verschwindet nur wenn $|\vec{F}| \propto \frac{1}{r^2}$
 		\begin{center}
 			\includegraphics[width=0.5\linewidth]{skizzen/14/14_5B1}
 		\end{center}
-		\begin{align*}
-		\frac{dq}{dx} = \lambda \text{ (lin. Ladungsdichte) } \\
-		\text{Symmetrie: } E_x = E_z = 0 \\
-		E_y = E \cdot \cos(\theta) \\
-		dE_y& = | d\vec{E} | \cdot \cos (\theta) \\
-		dE_y &= \frac{1}{4\pi\epsilon_0} \cdot 2 \cdot \frac{\lambda \cdot dx}{r^2 (\theta)} \cdot \cos (\theta) \hspace{1cm} ; \cos (\theta) = \frac{a}{r}&& \\
-		&= \frac{1}{2\pi\epsilon_0} \cdot \lambda \cdot dx  \cdot \underline{\cos^2\theta} \cdot \cos\theta \\
-		\hfill \\
-		\tan\theta = \frac{x}{a} \Rightarrow \frac{dx}{d\theta} = \frac{a}{\cos^2\theta} \hspace{1cm} \Rightarrow dx = \underline{\frac{a}{\cos^2\theta} d\theta}
-		\end{align*}
 		
-		\begin{align*}
-		\Rightarrow dE_y &= \frac{1}{2\pi\epsilon_0} \cdot \lambda \cdot \frac{\cos\theta}{a} \cdot d\theta \\
-		E_y &= \frac{1}{2\pi\epsilon_0} \cdot \frac{\lambda}{a} \cdot { \displaystyle\int_{0}^{\pi/2} \cos\theta d\theta } = \underline{\underline{\frac{1}{2\pi\epsilon_0} \cdot  \frac{\lambda}{a} }}
-		\end{align*}
+		\underline{Ziel}: Berechnung des $\vec E$-Feldes im Punkt P.\\
+Betrachte einen kleinen Abschnitt des Drahtes der Länge $dx$. Dieser hat dann die Ladung $dq$ mit:
+$$dq=\lambda dx$$
+wobei $\lambda=\frac{dq}{dx}$ die lineare Ladungsdichte ist.\\
+Die Symmetrie des Problems implitziert außerdem: $E_x=E_z=0$.\\
+Für die y-Komponente beachte, dass:
+$$\frac{dE_y}{|d\vec E|}=\frac{a}{r}=\cos\theta\ \Rightarrow\ dE_y=|d\vec E|\cos\theta$$
+Nun kann aber das Drahtstück mit der infinitesimalen Länge dx als Punktladung angesehen werden. Das heißt:
+$$|d\vec E|=\frac{1}{4\pi\epsilon_0}\frac{dq}{r^2(\theta)}=\frac{1}{4\pi\epsilon_0}\frac{\lambda dx}{r^2(\theta)}$$
+Nun muss $r(\theta)$ ermittelt werden. Dafür benutzen wir nochmal:
+$$\cos\theta=\frac{a}{r}=\frac{a}{r(\theta)}\Rightarrow r(\theta)=\frac{a}{\cos\theta}$$
+Damit wird $dE_y$ dann:
+$$dE_y=|d\vec E|\cos\theta=\frac{1}{4\pi\epsilon_0}\frac{\lambda dx}{r^2(\theta)}\frac{a}{r(\theta)}=
+\frac{1}{4\pi\epsilon_0}\frac{a\lambda dx}{r^3(\theta)}=\frac{1}{4\pi\epsilon_0}\frac{a\lambda dx}{a^3}cos^3\theta$$
+Um jetzt aufzuintegrieren muss zuletzt noch die Abhängigkeit von $x$ und $\theta$ berücksichtigt werden:
+$$\tan\theta=\frac{x}{a}\ \Rightarrow\ \frac{d\theta}{\cos^2\theta}=\frac{dx}{a}\ \Rightarrow\ dx=\frac{ad\theta}{\cos^2\theta}$$
+Das in den Ausdruck für $dE_y$ liefert dann:
+$$dE_y=\frac{1}{4\pi\epsilon_0}\frac{a\lambda dx}{a^3}cos^3\theta=\frac{1}{4\pi\epsilon_0}\frac{a^2\lambda d\theta}{a^3\cos^2}cos^3\theta=\frac{1}{4\pi\epsilon_0}\frac{\lambda d\theta}{a}\cos\theta=\frac{\lambda}{4a\pi\epsilon_0}cos\theta d\theta$$
+Nun muss über den ganzen Stab integriert werden, sprich von $x=-\infty$ bis $x=\infty$. 
+Nun ist ja $\theta=\arctan\left(\frac{x}{a}\right)$ und $a>0$. Also:
+$$x=\pm\infty\ \Rightarrow \theta=\arctan(\pm\infty)=\pm\frac{\pi}{2}$$
+Damit gilt nun:
+$$E_y=\int_{\text{Draht}}dE_y=\int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}\frac{\lambda}{4a\pi\epsilon_0}cos\theta d\theta=\frac{2\lambda}{4a\pi\epsilon_0}\int_{0}^{\frac{\pi}{2}}cos\theta d\theta=\frac{\lambda}{2a\pi\epsilon_0}\sin\theta\bigg|_0^\frac{\pi}{2}=\frac{1}{2\pi\epsilon_0}\frac{\lambda}{a}$$
 
 		
 	
