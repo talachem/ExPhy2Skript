@@ -744,16 +744,96 @@ Erinnerung: homogen geladene Platte: $E=\frac{\sigma}{2\epsilon_0}$\\
 Im Außenraum: Kompensation\\
 Im Innenraum: Addition\\
 
-Im Innenraum: $\vert\vec{E}\vert=\frac{\sigma}{\epsilon_0}$
+Im Innenraum: $\vert\vec{E}\vert=\frac{\sigma}{\epsilon_0}$\\
+
+\subsubsection{Feldstärke im Inneres eines Plattenkondensator:}
+
+\hfill\\
+\includegraphics{skizzen/14/14_8B7}
+\hfill\\
+
+Seicherung von Ladungen auf voneinander isolierten leitenden Platten, Aufladung über Spannungsquelle oder Batterie.\\
+
+Spannungspotenzialdifferenz: $ U_{21}=p_2-p_1=\int \vec{F}d\vec{r}=E\cdot d $\\
+$ U = Ed=\frac{\sigma}{\epsilon_0}\cdot d = \frac{Q}{\epsilon_0\cdot A}\cdot d $\\
+mit $Q=C\cdot U$ folgt $ \underline{C=\frac{\epsilon_0 A}{d}} $\\
+
+$\boxed{\vert\vec{E}\vert=\frac{Q}{\epsilon_0\cdot A}}$ ist unabhängig von d\\
+
+$\boxed{C=\epsilon_0\cdot \frac{A}{d}}$ ist eine rein geometrische Größe\\
+
+$d\uparrow \implies C\downarrow \implies U\uparrow$\\
+
+$d\downarrow \implies C\uparrow \implies U \downarrow$\\
 
 
+\subsubsection{Realisierung von Kondensatoren:}\\
 
+Großes C: A groß, d klein\\
+Beidseitiges Bedampfte dünne Kunststofffläche, dann aufrollen, $\implies$ Kunststofffolienkondensator.\\
 
+Größenordnung: $\begin{equation} \left. \begin{aligned} d=1mm\\ A=1cm^2\end{aligned}\right\}C=\epsilon_0\frac{A}{d}\end{equation}\\
+	 \begin{align*}&=8,8\cdot 10^{-12}\frac{C^2}{Nm^2}\frac{10^{-4}m^2}{10^{-3}m}\\
+	 &=0,9\cdot 10^{-12}F\\
+	 &\approx \underline{1pF} \times \text{ Anzahl der Lagen}
+	 \end{align*}$
 
+\subsubsection{Energie eines aufgeladenen Kondensators}\\
 
+Kondensator C sie mit Ladung q aufgeladen: $U=\frac{q}{c}$\\
+Die Arbeit, die zum Aufbringen einer weiteren Ladung benötigt wird, hängt vom aktuellen Ladungszustand ab:\\
 
+\begin{align*}
+	dW&=dq\cdot U(q)\\
+	&=dq\cdot\frac{q\cdot d}{A\cdot \epsilon_0}
+\end{align*}\\
 
+$W=\int_0^Q dW= \frac{d}{A\epsilon_0}\int_0^Q q/cdot d\cdot q= \frac{1}{2}\frac{1}{C}Q^2=\underline{\frac{1}{2}\cdot C\cdot U^2} $\\
 
+Energiedichte: $ \underbrace{\frac{W}{V}}_{A\cdot d}=\frac{1}{2}\frac{\epsilon_0A}{d}\frac{1}{Ad}E^2d^2=\underline{\frac{1}{2}\epsilon_0E^2}$\\
+
+(Dieses Ergebnis gilt auch für andere Feldverteilungen, nicht nur im Plattenkondensator)\\
+$\rightarrow$ Feldenergie $\propto E^2$ (später wichtig!)\\
+
+$\implies$ wichtige Anwendung: Schnelle Entladung eines langsam aufgeladenen Kondensators $\implies$ Kurzzeitig hohe Leistung!\\
+\subparagraph{Beispiele}: Defibrilator, Blitzlicht…\\
+
+\subsubsection{Entladen eines Kondensators}\\
+
+$C=8\cdot 20\mu F; U=500V\\ W=\frac{1}{2}\cdot CU^2=\frac{1}{2}\cdot 16\cdot 10^{-5}F\cdot 25\cdot 10^4V^2\\ =\underline{20J}$\\
+Entladung in \undertline{1ms} $\rightarrow$ \underline{20kW}\\
+
+Defibrilator: $~ 100 - 800 kW$\\
+
+\subparagraph{Fusionsanlage:}\\
+Kondensatorbatteri ermöglichen W ~ $10^6$J\\
+Entladung in 3ns\\
+$\implies P = 3\cdot 10^{14}W$\\
+
+\subsubsection{Kraft zwischen Zwei Kondensatorplatten}
+\hfill\\
+\includegraphics{skizzen/14/14_8B8}
+\hfill\\
+Anziehungskraft zwischen entgegengesetzt geladenen Kondensatorplatten\\
+$\implies$ Arbeit gegen Kraft F, um Abstand um $\Delta d$ zu erhöhen.\\
+
+Volumenänderung: \begin{align*}
+	&\Delta V= A\cdot \Delta d\\
+	&\Delta W= \frac{1}{2}\cdot \epsilon_0\vert\vec{E}\vert^2\cdot A\cdot \Delta d\\
+	&\Delta W= F\cdot \Delta d \implies \underline{F}=\frac{\epsilon_0}{2}\cdot\vert\vec{E}\vert^2\cdot A=\underline{\frac{\epsilon_0}{2}\bigg(\frac{V}{d}\bigg)^2\cdot A\propto V^2}
+\end{align*}\\
+
+\subsubsection{Kraft zwischen Kondensatorplatten}\\
+
+$U=2000V; d=10mm; ⌀=30cm \implies A=0,071m^2\\ F=\frac{\epsilon_0}{2}\bigg(\frac{V}{d}\bigg)^2\cdot A\=…=0,0197N$\\
+
+Die äquivalente Masse wird von der Waage angezeigt:\\
+
+$M=\frac{F}{g}=1m29g (\text{ gemessen}:m=1,33g)$\\
+
+Verdopplung von U auf $4000V \implies 4-$Fache Masse. (gemessen: $m\approx 5,22g$)\\
+
+\subsection{Isolatoren (Dielektrikum) im elektrischen Feld}
 
 
 
