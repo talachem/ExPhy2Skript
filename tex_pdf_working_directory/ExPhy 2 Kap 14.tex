@@ -411,22 +411,20 @@ $\vec{E}\cdot d\vec{A}= E\cdot dA\cdot \cos\alpha$
 
 \subsubsection{Gauß'scher Satz}
 
-$\boxed{\displaystyle\phi=\oint_{\underset{geschlossen}{A}}\vec{E}\cdot d\vec{A}=\frac{Q_{eingeschlossen}}{\epsilon_0}}$\\
+$$\boxed{\displaystyle\phi=\oint_{\underset{geschlossen}{A}}\vec{E}\cdot d\vec{A}=\frac{Q_{eingeschlossen}}{\epsilon_0}}$$\\
 
 Der elektrische Fluss durch einer belieben geschlossenen Oberfläche hängt weder von der Form der Oberfläche, noch von der Ladungsverteilung $\varrho(\vec{r})$ ab, sondern nur von der eingeschlossenen Gesamtladung Q.\\
 
 \subparagraph{Mathematisch gilt:}
 
-\begin{align*}
-	\oint_{A}\vec{E}\cdot d\vec{A}&=\int_{V} div\cdot \vec{E}\cdot dV\\
-	&=\int_{V}\vec{\nabla}\cdot\vec{E}\cdot dV
-\end{align*}
+$$\oint_{A}\vec{E}\cdot d\vec{A}=\int_{V} div\cdot \vec{E}\cdot dV=\int_{V}\vec{\nabla}\cdot\vec{E}\cdot dV$$
+Nach Gauß aber auch:
+$$\oint_{A}\vec{E}\cdot d\vec{A}=\frac{Q}{\epsilon_0}=\frac{1}{\epsilon_0}\int_VdQ=\int_V\varrho(\vec r)dV$$
 
-\begin{align*}
-	\implies \int_{V}\vec{\nabla}\vec{E}dV & =\frac{1}{\epsilon_0}\int_{V}\varrho(\vec{r})dV\\
-	&=\vec{\nabla}\vec{E}=\frac{\varrho(\vec{r})}{\epsilon_0}
-\end{align*}
+Zusammen also:
 
+$$\int_{V}\vec{\nabla}\vec{E}dV=\oint_{A}\vec{E}\cdot d\vec{A}=\int_{V}\frac{\varrho(\vec{r})}{\epsilon_0}dV
+\Rightarrow\boxed{\ \vec{\nabla}\vec{E}=\frac{\varrho(\vec{r})}{\epsilon_0}}$$
 Die Ladungsverteilung im Raum ist die lokale Quelle ($\varrho(\vec{r})>0$) bzw. Senke ($\varrho(\vec{r})<0$) des elektrischen Feldes.
 
 \subsubsection{Beispiele}
