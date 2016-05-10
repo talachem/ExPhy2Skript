@@ -235,12 +235,12 @@ $q_1 \propto \mathrm{d}A_1 \propto r_1^2$
 
 Geometrie $\implies \frac{q_1}{q_2} = \frac{r_1^2}{r_2^2}$
 
-Annahme: Kraft $\propto \frac{1}{r^n}$\\
+Annahme: Kraft $\propto \frac{1}{r^n}$
 
 \begin{align*}
 	\vert\vec{F}_1\vert &= \frac{1}{4\pi\epsilon_0}\cdot\frac{q\cdot q_1}{r_1^n}\\
 	\vert\vec{F}_2\vert &= \frac{1}{4\pi\epsilon_0}\cdot\frac{q\cdot q_2}{r_2^n}
-\end{align*}\\
+\end{align*}
 
 $$\frac{|\vec{F}_1|}{|\vec{F}_2|} = \frac{q_1}{r_1^n}\cdot \frac{r_2^n}{q_2} \overset{!}{=} 1 \implies \frac{q_1}{q2}=\frac{r_1^n}{r_2^n}$$
 Nun kann das mit dem Geometrieausdruck gleichgesetzt werden:
@@ -440,15 +440,16 @@ Die Ladungsverteilung im Raum ist die lokale Quelle ($\varrho(\vec{r})>0$) bzw. 
 	\item $\implies \vec{E}\parallel d\vec{A}$
 \end{itemize}
 
-\begin{align*}
-	\phi=\oint_{A}\vec{E}(\vec{r})\cdot\mathrm{d}\vec{A} & = \oint_{A}E(r)\cdot\hat{e}_r\cdot\mathrm{d}\vec{A}\\
-	&=\oint_{A}E(r)\cdot\mathrm{dA}\\
-	&= E(r)\cdot\oint_{A}\mathrm{dA}\\
-	&= E(r)\cdot4\pi r^2
-\end{align*}
+	Der elektrische Fluss ist:
+$$\phi=\oint_{A}\vec{E}(\vec{r})\cdot\mathrm{d}\vec{A}  = \oint_{A}E(r)\hat{e}_r\cdot\mathrm{d}\vec{A}=\oint_{A}E(r)\mathrm{dA}$$
+Nun ist aber $E$ nur von $r$ abhängig und im Integral sit $r=const$. Damit also:
 
-Gau\ss{}: $\phi\overset{!}{=} \frac{Q}{\epsilon_0}=E(r)\cdot4\pi r^2 \implies \underline{E(r)=\frac{1}{4\pi\epsilon_0}\cdot\frac{Q}{r^2}}$\\
+$$\phi	= E(r)\oint_{A}\mathrm{dA}= 4\pi r^2 E(r)$$
 
+Der Satz von Gauß liefert nun:
+
+$$E(r)\cdot4\pi r^2=\phi\overset{!}{=} \frac{Q}{\epsilon_0} \Rightarrow \boxed{{E(r)=\frac{1}{4\pi\epsilon_0}\cdot\frac{Q}{r^2}}}$$
+\newpage
 (ii) Ladung auf beliebig geformten \underline{Leitern}\\
 
 \includegraphics{skizzen/14/14_6B3}\\
@@ -474,28 +475,52 @@ Zusammen kann $E(r)$ also abschnittsweise angegeben werden:
 
 \includegraphics{skizzen/14/14_6B5}\\
 
+\newpage
+
 (iv) Feld einer homogen geladenen Kugel\\
 
 \includegraphics{skizzen/14/14_6B6}\\
 
-$ \rho =\frac{Q}{\frac{4}{3}\pi R^3} \text{ für }r<R $
-$ \rho=0 \text{ für }r>R$
+Für die Ladungsdichte $\varrho$ als Funktion vom Abstand $r$ vom Kugelmittelpunkt heißt das:
+\[
+     \varrho=\left\{\begin{array}{ll} 0 & ,r>R \\
+         \frac{Q}{\frac{4}{3}\pi R^3} & ,r<R\end{array}\right.
+  \]
+Als Gaußoberfläche wird wieder eine Kugel genommen. Auch wird wieder eine Fallunterscheidung gemacht:\\
+\underline{Innerhlab} der Kugel und \underline{außerhalb} der Kugel
 
-\underline{$r<R$}:
+Zunächst wird analog zu vorher der Elektrische Fluss ausgrechnet und der Satz von Gauß benutzt:
 
-$ \phi=\oint_{A}\vec{E}\cdot\mathrm{d}\vec{A} = E(r)\cdot4\pi r^2=\frac{Q_{in}}{\epsilon_0}$
+$$ \phi=\oint_{A}\vec{E}\cdot\mathrm{d}\vec{A} = E(r)\cdot4\pi r^2=\frac{Q_{in}}{\epsilon_0}\ \Rightarrow\ E(r)=\frac{1}{4\pi\epsilon_0}\frac{Q_{in}}{r^2}$$
 
-$ Q_{in} = Q\cdot\frac{r^3}{R^3} $
-
-\hfill\\
-
-$\boxed{ \implies E(r)=\frac{1}{4\pi\epsilon_0}\cdot\frac{Q}{R^3}\cdot r }$
+Um auf $Q_{in}$ zu schließen müssen wir nur die Ladungsdichte über das Volumen des Gaußvolumens integrieren:
+\begin{enumerate}
+\item $r>R$.
+     $$Q_{in}=\int_{V_{Gauß}}\varrho(\tilde{r}) dV=\int_{0\leq \tilde{r}\leq R}\varrho(\tilde{r}) dV+\int_{R\leq \tilde{r}\leq r}\varrho(\tilde{r}) dV$$
+    Aber im zweiten Integral ist $\varrho=0$ und somit fällt dieses Integral raus.
+    $$\Rightarrow Q_{in}=\int_{0\leq \tilde{r}\leq R}\varrho(\tilde{r}) dV=\int_{0\leq \tilde{r}\leq R}\frac{Q}{\frac{4}{3}\pi R^3} dV=\frac{Q}{\frac{4}{3}\pi R^3}\int_{0\leq r\leq R}dV=\frac{Q}{\frac{4}{3}\pi R^3}\frac{4}{3}\pi R^3=Q$$
+    Das ist auch vollkommen klar, denn die gesamte Ladung ist ja in der Kugel verteilt und die Gaußkugel enthält diese.
+\item
+    Falls $r<R$:\\
+    Da hier nur innerhalb der Kugel integriert wird, ist $\rho$ konstant und es reicht ein Integral:
+    $$Q_{in}=\int_{V_{Gauß}}\varrho(\tilde{r}) dV=\int_{V_{Gauß}}\frac{Q}{\frac{4}{3}\pi R^3}dV=\frac{Q}{\frac{4}{3}\pi R^3}\int_{V_{Gauß}}dV=\frac{Q}{\frac{4}{3}\pi R^3}\frac{4}{3}\pi r^3=Q\frac{r^3}{R^3}$$
+\end{enumerate}
+Nun kann dies in den Satz von Gauß eingesetzt werden:
+\[
+     E(r)=\left\{\begin{array}{ll} \frac{1}{4\pi\epsilon_0}\frac{Q}{r^2} & ,r>R \\
+         \frac{1}{4\pi\epsilon_0}\frac{1}{r^2}Q\frac{r^3}{R^3} & ,r<R\end{array}\right.
+  \]
+  Oder zusammengefasst:
+  \[
+     \boxed{E(r)=\frac{1}{4\pi\epsilon_0}\left\{\begin{array}{ll} \frac{Q}{r^2} & ,r>R \\
+        \frac{Q}{R^3}r & ,r<R\end{array}\right.}
+  \]
 
 \hfill\\
 
 \includegraphics{skizzen/14/14_6B7}\\
 
-$\implies$ Von Au\ss{}en ist nicht feststellbar, ob die geladene Kugel massiv oder hohl ist (Leiter oder homogen geladener Isolator)!\\
+Es gilt also, dass man Von Au\ss{}en  nicht feststellen kann, ob die geladene Kugel massiv oder hohl ist (Leiter oder homogen geladener Isolator)!\\
 
 (v) Unendlich lnager homogen geladener Draht\\
 
