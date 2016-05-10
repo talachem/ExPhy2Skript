@@ -885,13 +885,95 @@ Verdopplung von U auf $4000V \implies 4-$Fache Masse.
 \end{flushright}
 
 \subsection{Isolatoren (Dielektrikum) im elektrischen Feld}
+\begin{itemize}
+	\item Isolator $\hat{=}$ Nichtleiter
+	\item Ladungen nicht frei beweglich, sondern nur lokal gegeneinander verschiebar (polarisierbar)
+\end{itemize
+
+\paragraph{Experiment:} Dielektrikum im Kondensator
+
+$ Q=C_0\cdot U_0,\hfil U_0=250V\\ Q'=Q=C_{diel}\cdot U_{diel},\hfil U_{diel}=65V$\\
+
+$\implies \frac{U_0}{U_{diel}}=\frac{C_{diel}}{C_0}:=\epsilon=\frac{\vert \vec{E_0\vert}}{\vert\vec{E}_{diel}\vert}$\\
+
+\subparagraph{Definition:} Relative Dielektrizitätskontante $\epsilon:=\frac{C_{diel}}{C_0}>1$\\
+
+[Im Skript steht "Tabelle"]
+
+\subsubsection{Mikroskopische Deutung und elektrische Suszeptibilität}
+
+Reduzierung des elektrischen Feldes bei Einführung eins Dielektrikums. Grund: Dielektrium wird polarisiert!\\
+
+Gesamtfeld zwischen den Platten:\\
+$\vec{E}=\vec{E}_0+\vec{E}_{pol} \leftarrow$ entgegengesetzte Orientierung\\
 
 
+\paragraph{Verschiebungspolarisation:}\\
+Q_p: Polarisationsladung\\
+$F=K\cdot x \implies E=\frac{F}{q}=\frac{K}{q}\cdot x \implies x=\frac{q}{K}\cdot E$\\
 
+Dipolmoment: $\vec{p}=q\cdot\vec{x}=\frac{q^2}{K}\cdot\vec{E}=\alpha\cdot\vec{E}$ (Polarisierbarkeit)\\
 
+Markroskopisch: Polarisation: $\vec{P}=\underbrace{\frac{N}{V}}_{Teilchendichte}\vec{p}=n\cdot\alpha\cdot\vec{E}$(mikroskopisch)\\
 
+\begin{align*}
+	$\vec{p}&=(\epsilon-1)\cdot\epsilon_0\cdot\vec{E}$ (makrsokopisch)\\
+	$&=\chi_e\cdot\epsilon_0\cdot\vec{E}$
+\end{align*}
 
+\chi_e: elektrische Suszeptibilität: $\underline{\chi_e=\epsilon-1}$\\
 
+\paragraph{Orientierungspolarisation}\\
+
+\begin{itemize}
+	\item triff auf, wenn Dielektrikum schon aus Dipolen bestehen (permaente Dipole)
+	\item Orientierungspolarisation ist temperaturabhängig (Ausrichtung nimmt bei hohentemperaturen ab)
+\end{itemize}
+
+\paragraph{Dielektrische Verschiebungsdichte}\\
+
+\begin{align*}
+	$\vec{D}:=\epsilon_0\cdot\vec{E}+\vec{P}&=\epsilon_0\cdot\vec{E}+\underbrace{(\epsilon-1)}_{\chi}\cdot\epsilon_0\cdot\vec{E}$\\
+	$&=\epsilon\cdot\epsilon_0\cdot\vec{E}$
+\end{align*}
+
+$[D]=1\frac{C}{m^2}$\\
+
+$\oint\vec{E}d\vec{A}=\frac{Q_{frei}+Q_p}{\epsilon_0}=\frac{Q_{frei}}{\epsilon\epsilon_0}\\
+\implies \oint\epsilon\epsilon_0\vec{E}d\vec{A}=Q_{frei}\\
+=\int_V div\underbrace{(\epsilon\epsilon_0\vec{E})}_{\vec{D}}dV=\int \varrho_{frei}dV\\
+\implies div \vec{D}=\varrho_{frei}$\\
+
+vergleiche: $div \vec{E}=\frac{\varrho_{ges}}{\epsilon_0}$
+
+\subsubsection{Nachtrag: Schaltungen mit Kapazitäten}
+
+Verschaltung mehrer Kapazitäten C_i.\\
+Wie groß ist dann die Gesamtkapazität?\\
+
+\subparagraph{Beispiele:}\\
+
+a) Parallelschaltung: Gleiche Spannung an beiden Kapazitäten.\\
+
+\begin{align*}
+	Q_{ges}=Q_1+Q_2&=C_1U+C_2U\\
+	&=(C_1+C_2)U\\
+	&=C_{ges}U
+\end{align*}
+
+$\boxed{C=\sum_{i=1}^{n}C_i}$\\
+
+b) Reihenschaltung\\
+
+Anschauung: Nur die äußeren Platten werden durch Verbindung unt Spannungsquelle aufgeladen, die anderen Platten erhalten ihre Ladung durch Influenz $\implies$ alle Ladungen sind … gleich groß.\\
+$\implies Q_1=Q_2=Q$\\
+
+Spannungen verteilen sich auf die Kapazitäten gemäß:\\
+$U_=\frac{Q}{C_i}, U_1+U_2=U$\\
+
+$U=\frac{Q}{C_{ges}}=\frac{Q}{C_1}+\frac{Q}{C_2}=Q\cdot(\frac{1}{C_1}+\frac{1}{C_2})$\\
+
+$\implies \boxed{\frac{1}{C_{ges}}=\frac{1}{C_1}+\frac{1}{C_2}}, \hfil \boxed{C_{ges}=\frac{C_1\cdot C_2}{C_1+C_2}}
 
 
 
