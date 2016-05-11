@@ -567,7 +567,7 @@ $\implies \exists$ potentielle Energie (siehe 14.3)\\
 für Ladungen $q_0$ im $\vec{E}$-Feld gilt:\\
 
 \hfill\\
-$${\displaystyle \boxed{ E_{pot}(\vec{r})=\int_{\infty}^{\vec{r}} \vec{F}(\vec{r})\cdot d\vec{r} }=-q_0\cdot\int_{\infty}^{\vec{r}} \vec{E}(\vec{r})\cdot d\vec{r}  }$$
+$${\displaystyle \boxed{ E_{pot}(\vec{r})=\int_{\infty}^{\vec{r}} \vec{F}(\vec{r})\cdot d\vec{r} =-q_0\cdot\int_{\infty}^{\vec{r}} \vec{E}(\vec{r})\cdot d\vec{r}  }}$$
 \hfill\\
 
 Das elektrische Potenzial $ \varphi(\vec{r}) $ ist definiert als potentielle Energie pro Ladung:
@@ -584,7 +584,7 @@ Verschiebe $q_0$ von $\vec{r}_1$ nach $\vec{r}_2$; die benötigte Arbeit ist:\\
 	&\underline{ =q_0\cdot(\varphi(\vec{r}_1)-\varphi(\vec{r}_2))}
 \end{align*}
 
-$ \varrho(\vec{r}) $ nur bis auf Integrationskonste bestimmt!\\
+$ \varphi(\vec{r}) $ nur bis auf Integrationskonste bestimmt!\\
 Die Potentialdifferenz zwischen zwei Punkten:\\
 
 $ U = \varphi(\vec{r}_1)-\varphi(\vec{r}_2) = \frac{W_{12}}{q_0}$ hei\ss{}t elektrische Spannung!\\
@@ -641,25 +641,74 @@ $ \varphi(\vec{r})=\varphi(r)=\frac{q\cdot d\cdot \cos\theta}{4\pi\epsilon_0\cdo
 \\
 (iii) Kontinuierliche Ladungsverteilung:\\
 
-$ \displaystyle\varphi(\vec{r})=\frac{1}{4\pi\epsilon_0}\cdot\int_{\tilde{V}} \frac{dQ}{|\vec{r}-\tilde{\vec{r}}|} = \frac{1}{4\pi\epsilon_0}\cdot\int_{\tilde{V}} d\tilde{V}\bigg\{\frac{\varphi(\vec{r})}{|\vec{r}-\tilde{\vec{r}}|}\bigg\}$\\
+$ \displaystyle\varphi(\vec{r})=\frac{1}{4\pi\epsilon_0}\cdot\int_{\tilde{V}} \frac{dQ}{|\vec{r}-\tilde{\vec{r}}|} = \frac{1}{4\pi\epsilon_0}\cdot\int_{\tilde{V}} d\tilde{V}\bigg\{\frac{\varrho(\vec{r})}{|\vec{r}-\tilde{\vec{r}}|}\bigg\}$\\
 
 \subsubsection{Elektrisches Feld und Potenzial}
 
-$ \varphi(\vec{r}): $ Skalare Grö\ss{}e, manchmal einfache zu berechen als $ \vec{E}(\vec{r}) $\\
+Das Potential $ \varphi(\vec{r}) $ ist eine Skalare Grö\ss{}e und manchmal einfacher zu berechen als $ \vec{E}(\vec{r}) $.\\
+Daher soll nun $\vec{E}(\vec{r}) $ aus $ \varphi(\vec{r}) $ bestimmt werden:\\
+Dafür erinnert man sich zunächst Mal an die Definition von $\varphi$:
 
-$\implies \vec{E}(\vec{r}) $ aus $ \varphi(\vec{r}) $ bestimmen?\\
+$$\varphi(\vec{r})=-\int_{\infty}^{\vec{r}} \vec{E}(\vec{x})\cdot d\vec{x}$$
 
-\begin{align*}
-	\varphi=\varphi(\vec{r}) &= \varphi(x,y,z); \vec{E}= \vec{E}(\vec{r})=\begin{pmatrix}E_x\\ E_y\\ E_z\end{pmatrix}\\
-	d\vec{r}&= \begin{pmatrix}dx\\ dy\\ dz\end{pmatrix}
-\end{align*}
+Nun wird auf beide Seiten der Nabla Operator $\nabla$ angewendet und mit $-1$ multiplitziert:
 
-$ \underbrace{d\varphi}_{\text{vollständiges Differential}}= -\vec{E}d\vec{r} = - (E_xdx+E_ydy+E_zdz)$ (*) \\
+$$-\nabla\varphi(\vec{r})=\nabla\int_{\infty}^{\vec{r}} \vec{E}(\vec{x})\cdot d\vec{x}\ \ \ (*)$$
 
-$ d\varphi=\frac{\partial\varphi}{\partial x}\cdot dx +\frac{\partial\varphi}{\partial y}\cdot dy+\frac{\partial\varphi}{\partial z}\cdot dz $ (**)\\
+Die linke Seite kann nicht mehr vereinfacht werden, die rechte aber schon, denn:
 
-(*),(**): \begin{math}
-\left\{ E_x= -\frac{\partial\varphi}{\partial x}\\ E_x= -\frac{\partial\varphi}{\partial x}\\ E_x= -\frac{\partial\varphi}{\partial x}  \right\} \implies \underline{\vec{E}=-grad\varphi}\\ \end{math}  
+$$\nabla\int_{\infty}^{\vec{r}} \vec{E}(\vec{x})\cdot d\vec{x}=\nabla\int_{\infty}^{\vec{r}}\begin{pmatrix}E_x\\ E_y\\ E_z\end{pmatrix}\cdot\begin{pmatrix}dx\\ dy\\ dz\end{pmatrix}=\nabla\int_{\infty}^{\vec{r}}E_xdx+E_ydy+E_zdz$$
+
+Das letzte Integral kann als Summe von 3 Integralen geschreiben werden. In diesen wird dann jeweils von $\infty$ bis $x$ bzw. $y$ bzw. $z$ integriert:
+
+$$\int_{\infty}^{\vec{r}}E_xdx+E_ydy+E_zdz=\int_{\infty}^{x}E_xdx+\int_{\infty}^{y}E_ydy+\int_{\infty}^{z}E_zdz$$
+
+das heißt das erste Integral ist eine Funktion $\underline{\text{nur}}$ von x, das zweite $\underline{\text{nur}}$ von y und das dritte $\underline{\text{nur}}$ von z.\\
+Das heißt aber grade, dass:
+
+$$\partial_x\int_{\infty}^{x}E_xdx=E_x,\ \partial_y\int_{\infty}^{x}E_xdx=0,\ \partial_z\int_{\infty}^{x}E_xdx=0$$
+
+Und vollkommen analog für $y$ und $z$. Damit kann man dann schreiben:
+
+$$\nabla\int_{\infty}^{x}E_xdx=\left(\partial_x\int_{\infty}^{x}E_xdx,\ \partial_y\int_{\infty}^{x}E_xdx,\ \partial_z\int_{\infty}^{x}E_xdx\right)^t=(E_x,0,0)^t\ \ \ (**)$$
+
+Das gilt natürlich auch wieder analog für $y$ und $z$.\\
+Damit ist man jetzt fast fertig, denn wenn man die Linearität von $\nabla$ ausnutzt bekommt man:
+
+$$\nabla\int_{\infty}^{\vec{r}} \vec{E}(\vec{x})\cdot d\vec{x}=\nabla\int_{\infty}^{\vec{r}}E_xdx+E_ydy+E_zdz=\nabla\int_{\infty}^{x}E_xdx+\nabla\int_{\infty}^{y}E_ydy+\nabla\int_{\infty}^{z}E_zdz$$
+
+Nun wird noch die Gleichung $(**)$ benutzt:
+
+$$\nabla\int_{\infty}^{\vec{r}} \vec{E}(\vec{x})\cdot d\vec{x}=\nabla\int_{\infty}^{x}E_xdx+\nabla\int_{\infty}^{y}E_ydy+\nabla\int_{\infty}^{z}E_zdz=\begin{pmatrix}E_x\\ 0\\ 0\end{pmatrix}+\begin{pmatrix}0\\ E_y\\ 0\end{pmatrix}+\begin{pmatrix}0\\ 0\\ E_z\end{pmatrix}=\begin{pmatrix}E_x\\ E_y\\ E_z\end{pmatrix}=\vec{E}$$
+
+Damit wurde die rechte Seite von $(*)$ erfolgreich vereinfacht und einsetzten liefert:
+
+$$\boxed{-\nabla\varphi=\vec{E}}$$
+
+Das ist die streng mathematische Herleitung eines viel allgemeineren Satzes, nämlich:
+
+$$\nabla\int_{\vec{c}}^{\vec{r}}\vec{F}(\vec{x})\cdot d\vec{x}=\vec{F}(\vec{r})$$
+
+Es gibr aber auch eine leichtere Herleitung, die dafür nicht ganz rigoros ist:\\
+Beginne dafür mit folgender Beobachtung:
+
+$$\vec{E}\cdot d\vec{r} = E_xdx+E_ydy+E_zdz$$
+
+Warum macht man das? Ganz einfach, weil $\varphi$ gradie wie folgt definiert war:
+
+$$d\varphi=-\vec{E}\cdot d\vec{r}=-(E_xdx+E_ydy+E_zdz)=-E_xdx-E_ydy-E_zdz$$
+
+Auf der anderen Seite kann man diese totale Differential ja auch mit der Kettenregel ausrechnen:
+
+$$d\varphi=\frac{\partial\varphi}{\partial x} dx +\frac{\partial\varphi}{\partial y} dy+\frac{\partial\varphi}{\partial z} dz $$
+
+Wenn man nun die beiden Ausdrücke vergleicht und die Eindeutigkeit des totalen Differentials ausnutzt erhält man die 3 Gleichungen:
+
+$$-E_x=\frac{\partial\varphi}{\partial x},\ -E_y=\frac{\partial\varphi}{\partial y},\ -E_z=\frac{\partial\varphi}{\partial z}$$
+
+Wenn man jede Gleichung mit $(-1)$ multiplitziert und dies in Vektorform schreibt erhält man:
+
+$$-\nabla\varphi=\begin{pmatrix}-\partial_x\varphi\\ -\partial_y\varphi\\ -\partial_z\varphi\end{pmatrix}=\begin{pmatrix}E_x\\ E_y\\ E_z\end{pmatrix}=\vec{E}$$
 
 $\vec{E}$ zeigt in Richtung des betragsmä\ss{}ig grö\ss{}ten Anstiegs von $\varphi$, allerdiings in abnehmende Richtung.\\
 
@@ -687,7 +736,7 @@ $ \Delta\varphi=\big(\frac{\partial^2}{\partial x^2}+\frac{\partial^2}{\partial 
 
 \subparagraph{Spezialfall:}
 
-$ \varphi=0
+$ \varrho=0
 \implies \text{Laplace-Gleich}= \underline{\Delta\varphi=0} $
 
 \hfill\\
