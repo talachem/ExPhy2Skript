@@ -446,7 +446,7 @@ Nun ist aber $E$ nur von $r$ abhängig und im Integral sit $r=const$. Damit also
 
 $$\phi	= E(r)\oint_{A}\mathrm{dA}= 4\pi r^2 E(r)$$
 
-Der Satz von Gauß liefert nun:
+Der Satz von Gau\ss{} liefert nun:
 
 $$E(r)\cdot4\pi r^2=\phi\overset{!}{=} \frac{Q}{\epsilon_0} \Rightarrow \boxed{{E(r)=\frac{1}{4\pi\epsilon_0}\cdot\frac{Q}{r^2}}}$$
 \newpage
@@ -481,31 +481,31 @@ Zusammen kann $E(r)$ also abschnittsweise angegeben werden:
 
 \includegraphics{skizzen/14/14_6B6}\\
 
-Für die Ladungsdichte $\varrho$ als Funktion vom Abstand $r$ vom Kugelmittelpunkt heißt das:
+Für die Ladungsdichte $\varrho$ als Funktion vom Abstand $r$ vom Kugelmittelpunkt hei\ss{}t das:
 \[
      \varrho=\left\{\begin{array}{ll} 0 & ,r>R \\
          \frac{Q}{\frac{4}{3}\pi R^3} & ,r<R\end{array}\right.
   \]
-Als Gaußoberfläche wird wieder eine Kugel genommen. Auch wird wieder eine Fallunterscheidung gemacht:\\
-\underline{Innerhlab} der Kugel und \underline{außerhalb} der Kugel
+Als Gau\ss{}oberfläche wird wieder eine Kugel genommen. Auch wird wieder eine Fallunterscheidung gemacht:\\
+\underline{Innerhlab} der Kugel und \underline{au\ss{}erhalb} der Kugel
 
-Zunächst wird analog zu vorher der Elektrische Fluss ausgrechnet und der Satz von Gauß benutzt:
+Zunächst wird analog zu vorher der Elektrische Fluss ausgrechnet und der Satz von Gau\ss{} benutzt:
 
 $$ \phi=\oint_{A}\vec{E}\cdot\mathrm{d}\vec{A} = E(r)\cdot4\pi r^2=\frac{Q_{in}}{\epsilon_0}\ \Rightarrow\ E(r)=\frac{1}{4\pi\epsilon_0}\frac{Q_{in}}{r^2}$$
 
-Um auf $Q_{in}$ zu schließen müssen wir nur die Ladungsdichte über das Volumen des Gaußvolumens integrieren:
+Um auf $Q_{in}$ zu schlie\ss{}en müssen wir nur die Ladungsdichte über das Volumen des Gau\ss{}volumens integrieren:
 \begin{enumerate}
 \item $r>R$.
-     $$Q_{in}=\int_{V_{Gauß}}\varrho(\tilde{r}) dV=\int_{0\leq \tilde{r}\leq R}\varrho(\tilde{r}) dV+\int_{R\leq \tilde{r}\leq r}\varrho(\tilde{r}) dV$$
+     $$Q_{in}=\int_{V_{Gau\ss{}}}\varrho(\tilde{r}) dV=\int_{0\leq \tilde{r}\leq R}\varrho(\tilde{r}) dV+\int_{R\leq \tilde{r}\leq r}\varrho(\tilde{r}) dV$$
     Aber im zweiten Integral ist $\varrho=0$ und somit fällt dieses Integral raus.
     $$\Rightarrow Q_{in}=\int_{0\leq \tilde{r}\leq R}\varrho(\tilde{r}) dV=\int_{0\leq \tilde{r}\leq R}\frac{Q}{\frac{4}{3}\pi R^3} dV=\frac{Q}{\frac{4}{3}\pi R^3}\int_{0\leq r\leq R}dV=\frac{Q}{\frac{4}{3}\pi R^3}\frac{4}{3}\pi R^3=Q$$
-    Das ist auch vollkommen klar, denn die gesamte Ladung ist ja in der Kugel verteilt und die Gaußkugel enthält diese.
+    Das ist auch vollkommen klar, denn die gesamte Ladung ist ja in der Kugel verteilt und die Gau\ss{}kugel enthält diese.
 \item
     Falls $r<R$:\\
     Da hier nur innerhalb der Kugel integriert wird, ist $\rho$ konstant und es reicht ein Integral:
-    $$Q_{in}=\int_{V_{Gauß}}\varrho(\tilde{r}) dV=\int_{V_{Gauß}}\frac{Q}{\frac{4}{3}\pi R^3}dV=\frac{Q}{\frac{4}{3}\pi R^3}\int_{V_{Gauß}}dV=\frac{Q}{\frac{4}{3}\pi R^3}\frac{4}{3}\pi r^3=Q\frac{r^3}{R^3}$$
+    $$Q_{in}=\int_{V_{Gau\ss{}}}\varrho(\tilde{r}) dV=\int_{V_{Gau\ss{}}}\frac{Q}{\frac{4}{3}\pi R^3}dV=\frac{Q}{\frac{4}{3}\pi R^3}\int_{V_{Gau\ss{}}}dV=\frac{Q}{\frac{4}{3}\pi R^3}\frac{4}{3}\pi r^3=Q\frac{r^3}{R^3}$$
 \end{enumerate}
-Nun kann dies in den Satz von Gauß eingesetzt werden:
+Nun kann dies in den Satz von Gau\ss{} eingesetzt werden:
 \[
      E(r)=\left\{\begin{array}{ll} \frac{1}{4\pi\epsilon_0}\frac{Q}{r^2} & ,r>R \\
          \frac{1}{4\pi\epsilon_0}\frac{1}{r^2}Q\frac{r^3}{R^3} & ,r<R\end{array}\right.
@@ -892,6 +892,11 @@ Verdopplung von U auf $4000V \implies 4-$Fache Masse.
 
 \paragraph{Experiment:} Dielektrikum im Kondensator
 
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{skizzen/14/14_9B0}
+\end{center}
+
+
 $ Q=C_0\cdot U_0,\hfil U_0=250V\\ Q'=Q=C_{diel}\cdot U_{diel},\hfil U_{diel}=65V$\\
 
 $\implies \frac{U_0}{U_{diel}}=\frac{C_{diel}}{C_0}:=\epsilon=\frac{\vert \vec{E_0\vert}}{\vert\vec{E}_{diel}\vert}$\\
@@ -903,13 +908,21 @@ $\implies \frac{U_0}{U_{diel}}=\frac{C_{diel}}{C_0}:=\epsilon=\frac{\vert \vec{E
 \subsubsection{Mikroskopische Deutung und elektrische Suszeptibilität}
 
 Reduzierung des elektrischen Feldes bei Einführung eins Dielektrikums. Grund: Dielektrium wird polarisiert!\\
+\begin{center}
+\includegraphics[width=0.3\linewidth]{skizzen/14/14_9B1}
+\end{center}
 
 Gesamtfeld zwischen den Platten:\\
 $\vec{E}=\vec{E}_0+\vec{E}_{pol} \leftarrow$ entgegengesetzte Orientierung\\
 
 
 \paragraph{Verschiebungspolarisation:}
-\hfill \\
+
+\begin{center}
+\includegraphics[width=0.5\linewidth]{skizzen/14/14_9B2}
+\end{center}
+
+
 $ Q_p $: Polarisationsladung\\
 $F=K\cdot x \implies E=\frac{F}{q}=\frac{K}{q}\cdot x \implies x=\frac{q}{K}\cdot E$\\
 
@@ -928,6 +941,10 @@ $ \chi_e $: elektrische Suszeptibilität: $\underline{\chi_e=\epsilon-1}$\\
 
 \begin{itemize}
 	\item triff auf, wenn Dielektrikum schon aus Dipolen bestehen (permaente Dipole)
+	\begin{center}
+\includegraphics[width=0.6\linewidth]{skizzen/14/14_9B3}
+\end{center}
+
 	\item Orientierungspolarisation ist temperaturabhängig (Ausrichtung nimmt bei hohentemperaturen ab)
 \end{itemize}
 
@@ -940,6 +957,11 @@ $ \chi_e $: elektrische Suszeptibilität: $\underline{\chi_e=\epsilon-1}$\\
 
 $[D]=1\frac{C}{m^2}$\\
 
+\begin{center}
+\includegraphics[width=0.2\linewidth]{skizzen/14/14_9B4}
+\end{center}
+
+
 $\oint\vec{E}d\vec{A}=\frac{Q_{frei}+Q_p}{\epsilon_0}=\frac{Q_{frei}}{\epsilon\epsilon_0}\\
 \implies \oint\epsilon\epsilon_0\vec{E}d\vec{A}=Q_{frei}\\
 =\int_V div\underbrace{(\epsilon\epsilon_0\vec{E})}_{\vec{D}}dV=\int \varrho_{frei}dV\\
@@ -950,11 +972,16 @@ vergleiche: $div \vec{E}=\frac{\varrho_{ges}}{\epsilon_0}$
 \subsubsection{Nachtrag: Schaltungen mit Kapazitäten}
 
 Verschaltung mehrer Kapazitäten $ C_i $.\\
-Wie groß ist dann die Gesamtkapazität?\\
+Wie gro\ss{} ist dann die Gesamtkapazität?\\
 
 \subparagraph{Beispiele:}
 \hfill \\
 a) Parallelschaltung: Gleiche Spannung an beiden Kapazitäten.\\
+
+\begin{center}
+\includegraphics[width=0.6\linewidth]{skizzen/14/14_9B5}
+\end{center}
+
 
 \begin{align*}
 	Q_{ges}=Q_1+Q_2&=C_1U+C_2U\\
@@ -966,10 +993,15 @@ $\boxed{C=\sum_{i=1}^{n}C_i}$\\
 
 b) Reihenschaltung\\
 
-Anschauung: Nur die äußeren Platten werden durch Verbindung unt Spannungsquelle aufgeladen, die anderen Platten erhalten ihre Ladung durch Influenz $\implies$ alle Ladungen sind … gleich groß.\\
+\begin{center}
+\includegraphics[width=0.6\linewidth]{skizzen/14/14_9B6}
+\end{center}
+
+
+Anschauung: Nur die äu\ss{}eren Platten werden durch Verbindung unt Spannungsquelle aufgeladen, die anderen Platten erhalten ihre Ladung durch Influenz $\implies$ alle Ladungen sind … gleich gro\ss{}.\\
 $\implies Q_1=Q_2=Q$\\
 
-Spannungen verteilen sich auf die Kapazitäten gemäß:\\
+Spannungen verteilen sich auf die Kapazitäten gemä\ss{}:\\
 $U_=\frac{Q}{C_i}, U_1+U_2=U$\\
 
 $U=\frac{Q}{C_{ges}}=\frac{Q}{C_1}+\frac{Q}{C_2}=Q\cdot(\frac{1}{C_1}+\frac{1}{C_2})$\\
