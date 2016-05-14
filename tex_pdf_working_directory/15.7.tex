@@ -36,5 +36,31 @@ S schließen bei $ t=0 $
 	("\emph{RC-Konstante}") \\
 	\hfill \\
 	Spannung am Kondensator:
-
+	\begin{flalign*}
+	U_C(t) &= U_0 - U_R = U_0 - R \cdot I (t) = I_0 \cdot R - R \cdot I(t)\\
+	&=U_0(1-\exp(-t/RC)) \hspace{5mm} \text{mit } U_0=I_0 \cdot R\\
+	\hfill \\
+	t=0 &: U_C=0\\
+	t=\tau &: U_C(t) = (1-e^{-1}) \cdot U_0 \\
+	t\rightarrow\infty &: U_C \rightarrow U_0
+	\end{flalign*}
+	
+	BILD
+	
+	BILD
+	
+	$ C=\underset{100\si{\micro\farad}}{200\si{\micro\farad}} $ ; $ R=2,6\si{\kilo\ohm} $ ; $ \tau \approx \underset{0,25\si{\second}}{0,5\si{\second}} $ \\
+	
+\paragraph{b.) Entladen} \hfill \\
+	$ I(t) $? : $ U_C(t) $? \\
+	BILD
+	2.KG: \\
+	$ U_R + U_C = 0 $ (Keine EMK!)\\
+	$ \underbracket{I(t)}_{\frac{dQ}{dt}} \cdot R = -\frac{Q(t)}{C} $ \\
+	$ \frac{dQ(t)}{Q(t)} = -\frac{1}{RC} dt $ \\
+	Lösung: \\
+	$\Rightarrow  Q(t) = Q_0 \cdot \exp(-t(RC)^{-1}) $ \\
+	$ \Rightarrow I(t) = \frac{dQ(t)}{dt} = -\frac{Q_0}{RC} \cdot \exp(-t(RC)^{-1}) $\\
+	$ U_C(t) = -U_R(t) = \frac{Q_0}{C} \cdot \exp(-t(RC)^{-1}) $ \\
+	BILD
 		
