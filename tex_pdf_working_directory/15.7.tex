@@ -1,0 +1,40 @@
+\subsection{Langsam zeitlich veränderliche Ströme}
+
+Auf- und Entladen eines Kondensators
+
+\paragraph{a.) Aufladen} \hfill \\
+
+$ I(t) $? : $ U_C(t) $?
+
+BILD
+
+S schließen bei $ t=0 $
+
+	\subparagraph{Maschenregel:}
+		\begin{align*}
+			U_0& = U_R+U_C = I(t) \cdot R + C^{-1} \cdot Q(t)  \hspace{5mm} | \cdot \frac{d}{dt} \\
+			\frac{d}{dt} U_0 &=R \cdot \dot{I}(t) + C^{-1} \frac{dQ(t)}{dt} \\
+			\iff 0 &= C^{-1} \cdot I(t) + R \cdot \dot{I}(t) 
+		\end{align*}
+		DGL für I(t): $ \boxed{\dot{I}(t) + \frac{1}{RC} I(t) = 0} $ \\
+		
+	\subparagraph{Lösung der DGL durch Separation der Variabeln:}\hfill \\
+		\begin{align*}
+		\frac{dI(t)}{dt} &= - \frac{1}{RC} I(t)\\
+		\frac{dI(t)}{I(t)} &= - \frac{1}{RC} \cdot dt \\
+		\Rightarrow \int \frac{dI(t)}{I} &= - \frac{1}{RC} \int dt \\
+		\ln I(t) &= - \frac{1}{RC} \cdot t + \underline{const} \\
+		&= - \frac{t}{RC} + \underline{\ln I_0} \\
+		\end{align*}
+		$$\ln\frac{I(t)}{I_0} = -\frac{t}{RC}$$ \\ 
+		$$\underline{\underline{\Rightarrow I(t) = I_0 \cdot \exp(-\frac{t}{RC})}}$$
+		
+	Anfangsbedingungen: $ t=0 $ : $ U_C = 0 $ ; $ U_0 = I_0 \cdot R $ \\
+	$$ I(t=0) = I_0 = \frac{U_0}{R}  $$ \\
+	außerdem $ I (t\rightarrow\infty) = 0 $ (Kondensator aufgeladen) \\
+	$ \tau=RC $: Relaxationszeit: [$ \tau $] $ = \frac{V}{A} \cdot \frac{As}{V} = s $ \\
+	("\emph{RC-Konstante}") \\
+	\hfill \\
+	Spannung am Kondensator:
+
+		
