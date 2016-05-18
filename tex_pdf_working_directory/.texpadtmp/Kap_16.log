@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.5.7)  16 MAY 2016 10:55
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.5.7)  18 MAY 2016 21:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -7,40 +7,6 @@ entering extended mode
 (./Kap_16.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-
-./Kap_16.tex:1: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 <
-     <<<<<< Updated upstream
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no < in font nullfont!
-Missing character: There is no < in font nullfont!
-Missing character: There is no < in font nullfont!
-Missing character: There is no < in font nullfont!
-Missing character: There is no < in font nullfont!
-Missing character: There is no < in font nullfont!
-Missing character: There is no < in font nullfont!
-Missing character: There is no U in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/size11.clo
@@ -52,17 +18,12 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \c@subsubsection=\count82
 \c@paragraph=\count83
 \c@subparagraph=\count84
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 1--289
-[]
- []
-
 \c@figure=\count85
 \c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-[1]) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
@@ -1145,50 +1106,50 @@ LaTeX Info: Redefining \slshape on input line 2237.
 LaTeX Info: Redefining \scshape on input line 2242.
 LaTeX Info: Redefining \upshape on input line 2247.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-Package hyperref Info: Option `colorlinks' set `true' on input line 20.
- (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/Kap_16.aux)
+Package hyperref Info: Option `colorlinks' set `true' on input line 19.
+ (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/Kap_16.aux (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/Kap_16_1.aux))
 \openout1 = `Kap_16.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 28.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 28.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 27.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 27.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 28.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 28.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 27.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 28.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 28.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 27.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 27.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 28.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 28.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 27.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 27.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 28.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 28.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 27.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 27.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    ... okay on input line 27.
 \AtBeginShipoutBox=\box51
  (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
@@ -1197,7 +1158,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: xetex.def on input line 142.
 )
-Package hyperref Info: Link coloring ON on input line 28.
+Package hyperref Info: Link coloring ON on input line 27.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
  (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -1205,9 +1166,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count172
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
  (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/Kap_16.out) (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/Kap_16.out)
 \@outlinefile=\write3
 \openout3 = `Kap_16.out'.
@@ -1227,79 +1188,79 @@ File: siunitx-abbreviations.cfg 2015/01/21 v2.6e siunitx: Abbreviated units
 .................................................
 \symlegacymaths=\mathgroup13
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 28.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 28.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 28.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 28.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 28.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 28.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 28.
-LaTeX Font Info:    Redeclaring math accent \check on input line 28.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 28.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 28.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 28.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 27.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 27.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 27.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 27.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 27.
+LaTeX Font Info:    Redeclaring math accent \check on input line 27.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 27.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 27.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 27.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 28.
+(Font)              `operators' in the math version `normal' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/txr/m/n --> EU1/lmr/m/n on input line 28.
+(Font)                  OT1/txr/m/n --> EU1/lmr/m/n on input line 27.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 28.
+(Font)              `operators' in the math version `bold' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/txr/bx/n --> EU1/lmr/m/n on input line 28.
+(Font)                  OT1/txr/bx/n --> EU1/lmr/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 28.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/txr/m/it --> EU1/lmr/m/it on input line 28.
+(Font)                  OT1/txr/m/it --> EU1/lmr/m/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/txr/bx/n --> EU1/lmr/bx/n on input line 28.
+(Font)                  OT1/txr/bx/n --> EU1/lmr/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/txss/m/n --> EU1/lmss/m/n on input line 28.
+(Font)                  OT1/txss/m/n --> EU1/lmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/txtt/m/n --> EU1/lmtt/m/n on input line 28.
+(Font)                  OT1/txtt/m/n --> EU1/lmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 28.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/txr/bx/it --> EU1/lmr/bx/it on input line 28.
+(Font)                  OT1/txr/bx/it --> EU1/lmr/bx/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/txss/b/n --> EU1/lmss/bx/n on input line 28.
+(Font)                  OT1/txss/b/n --> EU1/lmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/txtt/b/n --> EU1/lmtt/bx/n on input line 28.
+(Font)                  OT1/txtt/b/n --> EU1/lmtt/bx/n on input line 27.
 \c__siunitx_mathsf_int=\count173
-LaTeX Font Info:    Try loading font information for U+txsya on input line 28.
+LaTeX Font Info:    Try loading font information for U+txsya on input line 27.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 28.
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 27.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 28.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 27.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txmia on input line 28.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 27.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 28.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 27.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 \c__siunitx_mathtt_int=\count174
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 28.
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 27.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/Kap_16.toc)
@@ -1308,24 +1269,199 @@ File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
  (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
-) [2
+) [1
+
+] [2]
+\openout2 = `Kap_16_1.aux'.
+
+ (./Kap_16_1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Overfull \hbox (165.17143pt too wide) in paragraph at lines 13--14
+[][] 
+ []
+
+File: skizzen/16/16_0B01.png Graphic file (type QTm)
+<use  "skizzen/16/16_0B01.png" >
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 26.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 26.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 26.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+[3
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
- (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/Kap_16.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 43.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 43.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
+File: skizzen/16/16_1B01.png Graphic file (type QTm)
+ <use  "skizzen/16/16_1B01.png" >
+Overfull \hbox (41.38727pt too wide) in paragraph at lines 29--30
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+File: skizzen/16/16_1B02.png Graphic file (type QTm)
+<use  "skizzen/16/16_1B02.png" >
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+[6])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
+ (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/Kap_16.aux (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/Kap_16_1.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 44.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 44.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 44.
  ) 
 Here is how much of TeX's memory you used:
- 25008 strings out of 493706
- 488424 string characters out of 6145770
- 487813 words of memory out of 5000000
- 28126 multiletter control sequences out of 15000+600000
- 21253 words of font info for 90 fonts, out of 8000000 for 9000
+ 25034 strings out of 493706
+ 489049 string characters out of 6145770
+ 490823 words of memory out of 5000000
+ 28133 multiletter control sequences out of 15000+600000
+ 21261 words of font info for 91 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 46i,7n,45p,10373b,721s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,12n,47p,10373b,722s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/Kap_16.pdf (3 pages).
+Output written on /Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/Kap_16.pdf (6 pages).

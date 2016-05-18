@@ -1,0 +1,1107 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.7)  18 MAY 2016 21:29
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex
+(/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:1: Undefined control sequence.
+l.1 \paragraph
+              {Experimente:}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:2: Undefined control sequence.
+l.2 \begin
+          {itemize}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Runaway argument?
+ \item Kraftwirkung $\propto \frac {1}{r^2}$ (1750; Coulomb) \item √§\ETC.
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:10: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.10 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:11: Undefined control sequence.
+l.11 \paragraph
+               {Feldlinien sichtbarmachen durch Eisenfeilspitzen:}\leavevmod...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:12: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.12 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:13: Undefined control sequence.
+l.13 \boxed
+           {Magnetische Feldlinien sind stets geschlossen; es gibt keine iso...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:15: Undefined control sequence.
+l.15 \paragraph
+               {Erinnerung: Satz von Gau√ü:}\leavevmode \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ü in font cmr10!
+Runaway argument?
+ \includegraphics {skizzen/16/16_0B01} 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:17: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.17 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+Runaway argument?
+ Gesamtfluss: $\phi _{el}=\oint _A \vec {E}\cdot d\vec {A}=\frac {Q}{\ETC.
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:20: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.20 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:21: Undefined control sequence.
+l.21 \subparagraph
+                  {Magnetische Felder:}\leavevmode \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:22: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.22 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:23: Undefined control sequence.
+<recently read> \boxed 
+                       
+l.23 Gesamtfluss: $\boxed
+                         { \phi_{mag}=\oint_A \underbrace{\vec{B}\cdot d\vec...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:23: Undefined control sequence.
+l.23 ... \underbrace{\vec{B}\cdot d\vec{A}}_{\text
+                                                  {magnetischer Fluss}}=0 \\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:23: Argument of \\ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.23 ...\ \vec{B}: \text{magnetische Flussdichte}}
+                                                  $
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+ \vec {B}: \text {magnetische Flussdichte}
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:23: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.23 ...\ \vec{B}: \text{magnetische Flussdichte}}
+                                                  $
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:23: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.23 ...\ \vec{B}: \text{magnetische Flussdichte}}
+                                                  $
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:23: Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.23 ...\ \vec{B}: \text{magnetische Flussdichte}}
+                                                  $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:23: Too many }'s.
+<recently read> }
+                 
+l.23 ...\ \vec{B}: \text{magnetische Flussdichte}}
+                                                  $
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:24: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.24 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:25: Undefined control sequence.
+l.25   \subsection
+                  { Kr√§fte auf bewegte Ladungen }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:26: Undefined control sequence.
+l.26     \subsubsection
+                       { Lorentzkraft $\vec{F}_L$ }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ (\vec {F}_L \perp \vec {v}; \vec {F}\perp \vec {B} ) $\\ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:28: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.28 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:28: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.28 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:29: Undefined control sequence.
+l.29     \includegraphics
+                         {skizzen/16/16_1B01}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:29: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.29     \includegraphics{skizzen/16/16_
+                                        1B01}\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:29: Extra }, or forgotten $.
+l.29     \includegraphics{skizzen/16/16_1B01}
+                                             \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:30: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.30 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:30: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.30 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Runaway argument?
+ Vorsicht!: Elektrische Ladung ist negativ!\\ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:33: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.33 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:34: Undefined control sequence.
+l.34     $[\vert\vec{B}\vert]=\frac
+                                   {N}{As\cdot\frac{m}{s}}=\frac{Vs}{m^2}=1T...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:34: Undefined control sequence.
+l.34 ...$[\vert\vec{B}\vert]=\frac{N}{As\cdot\frac
+                                                  {m}{s}}=\frac{Vs}{m^2}=1T ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:34: Undefined control sequence.
+l.34 ...}\vert]=\frac{N}{As\cdot\frac{m}{s}}=\frac
+                                                  {Vs}{m^2}=1T (Tesla)$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:38: Undefined control sequence.
+<recently read> \implies 
+                         
+l.38     $\implies
+                   \vec{F}_L$ beeinfluss die Richtung von $\vec{v}$, aber ni...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ $\implies \vec {F}_L$ leistet keine Arbeit 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:40: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.40 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:41: Undefined control sequence.
+l.41       \paragraph
+                     {Konventionen:}\leavevmode \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:42: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.42 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:43: Undefined control sequence.
+l.43       \includegraphics
+                           {skizzen/16/16_1B02}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:43: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.43       \includegraphics{skizzen/16/16_
+                                          1B02}\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:43: Extra }, or forgotten $.
+l.43       \includegraphics{skizzen/16/16_1B02}
+                                               \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:44: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.44 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:44: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.44 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:46: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.46 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:48: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.48 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:50: Undefined control sequence.
+l.50   \subsubsection
+                     {Bewegungsgleichung:}\leavevmode \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:51: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.51 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:53: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.53 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:54: Undefined control sequence.
+<recently read> \frac 
+                      
+l.54   $\frac
+             {d\vec{v}}{dt}=\dot{\vec{v}}=\frac{\dot{\vec{p}}}{m}=\frac{q}{m...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:54: Undefined control sequence.
+l.54   $\frac{d\vec{v}}{dt}=\dot{\vec{v}}=\frac
+                                               {\dot{\vec{p}}}{m}=\frac{q}{m...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:54: Undefined control sequence.
+l.54 ...dot{\vec{v}}=\frac{\dot{\vec{p}}}{m}=\frac
+                                                  {q}{m}\cdot\vec{v}\times\v...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:55: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.55 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:57: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.57 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:58: Undefined control sequence.
+<recently read> \implies 
+                         
+l.58   $\implies
+                $  Kreisbahn: $\vec{F}_L$ ist Zentripetalkraft\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:59: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.59 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:60: Undefined control sequence.
+<recently read> \implies 
+                         
+l.60   $\implies
+                 q\cdot v\cdot B=m\cdot\frac{v^2}{r}; v=\omega\cdot r$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:60: Undefined control sequence.
+l.60   $\implies q\cdot v\cdot B=m\cdot\frac
+                                            {v^2}{r}; v=\omega\cdot r$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:61: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.61 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:62: Undefined control sequence.
+<recently read> \boxed 
+                       
+l.62   $\boxed
+              {\omega=\frac{q}{m}\cdot B}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:62: Undefined control sequence.
+l.62   $\boxed{\omega=\frac
+                           {q}{m}\cdot B}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:63: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.63 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:64: Undefined control sequence.
+<recently read> \boxed 
+                       
+l.64   $\boxed
+              {\nu=\frac{1}{2\pi}\cdot\frac{q}{m}\cdot B}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:64: Undefined control sequence.
+l.64   $\boxed{\nu=\frac
+                        {1}{2\pi}\cdot\frac{q}{m}\cdot B}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:64: Undefined control sequence.
+l.64   $\boxed{\nu=\frac{1}{2\pi}\cdot\frac
+                                           {q}{m}\cdot B}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:65: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.65 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:67: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.67 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:68: Undefined control sequence.
+<recently read> \implies 
+                         
+l.68   $\implies
+                $ unabh√§ngig von Impuls und Energie; nur von $\frac{q}{m}$ ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmr10!
+Missing character: There is no § in font cmr10!
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:68: Undefined control sequence.
+<recently read> \frac 
+                      
+l.68 ...gig von Impuls und Energie; nur von $\frac
+                                                  {q}{m}$ und $\vec{B}$ best...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:69: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.69 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:70: Undefined control sequence.
+l.70   \paragraph
+                 {Radius:}\leavevmode \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:71: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.71 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:72: Undefined control sequence.
+l.72   $r=\frac
+               {m\cdot v}{q\cdot B}=\frac{p}{q\cdot B}= \frac{\sqrt{2mqV}}{q...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:72: Undefined control sequence.
+l.72   $r=\frac{m\cdot v}{q\cdot B}=\frac
+                                         {p}{q\cdot B}= \frac{\sqrt{2mqV}}{q...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:72: Undefined control sequence.
+l.72 ...dot v}{q\cdot B}=\frac{p}{q\cdot B}= \frac
+                                                  {\sqrt{2mqV}}{q\cdot B}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:73: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.73 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:74: Undefined control sequence.
+l.74   $E_{kin}=\frac
+                     {p^2}{2m}=\frac{1}{2}m\cdot v^2=q\cdot V$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:74: Undefined control sequence.
+l.74   $E_{kin}=\frac{p^2}{2m}=\frac
+                                    {1}{2}m\cdot v^2=q\cdot V$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:75: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.75 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:76: Undefined control sequence.
+l.76   \subparagraph
+                    {Experiment:}\leavevmode \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:77: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.77 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:78: Undefined control sequence.
+l.78   $r_1: V_1=200V\implies
+                              2SKT$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:79: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.79 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:80: Undefined control sequence.
+l.80   $r_: V_1=300V\implies
+                             2,5SKT$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:81: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.81 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:82: Undefined control sequence.
+<recently read> \frac 
+                      
+l.82   $\frac
+             {r_1}{r_2}\overset{!}{=} \sqrt{\frac{V_1}{V_2}}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:82: Undefined control sequence.
+l.82   $\frac{r_1}{r_2}\overset
+                               {!}{=} \sqrt{\frac{V_1}{V_2}}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:82: Undefined control sequence.
+l.82   $\frac{r_1}{r_2}\overset{!}{=} \sqrt{\frac
+                                                 {V_1}{V_2}}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:83: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.83 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:84: Undefined control sequence.
+<recently read> \frac 
+                      
+l.84   $\frac
+             {4}{5}\overset{!}{=}\sqrt{\frac{2}{3}}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:84: Undefined control sequence.
+l.84   $\frac{4}{5}\overset
+                           {!}{=}\sqrt{\frac{2}{3}}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:84: Undefined control sequence.
+l.84   $\frac{4}{5}\overset{!}{=}\sqrt{\frac
+                                            {2}{3}}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:85: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.85 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:86: Undefined control sequence.
+<recently read> \frac 
+                      
+l.86   $\frac
+             {16}{25}\overset{!}{=}\frac{2}{3}$ \checkmark im Rahmen der Mes...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:86: Undefined control sequence.
+l.86   $\frac{16}{25}\overset
+                             {!}{=}\frac{2}{3}$ \checkmark im Rahmen der Mes...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:86: Undefined control sequence.
+l.86   $\frac{16}{25}\overset{!}{=}\frac
+                                        {2}{3}$ \checkmark im Rahmen der Mes...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:86: Undefined control sequence.
+l.86 ...}{25}\overset{!}{=}\frac{2}{3}$ \checkmark
+                                                   im Rahmen der Messungenau...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:88: Undefined control sequence.
+l.88   \subsubsection
+                     {Zyklonen:}\leavevmode \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ Ziel: H- oder D-Kerne auf hohe Geschwindigkeit zubeschleunigen.\\ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:90: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.90 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:91: Undefined control sequence.
+l.91   \includegraphics
+                       {skizzen/16/16_1B03}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:91: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.91   \includegraphics{skizzen/16/16_
+                                      1B03}\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:91: Extra }, or forgotten $.
+l.91   \includegraphics{skizzen/16/16_1B03}
+                                           \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+Runaway argument?
+ 
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:92: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.92 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:92: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.92 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:93: Undefined control sequence.
+l.93   \paragraph
+                 {Beispiele:}\leavevmode \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ (i) Protonenbeschleunigung: $r=0,5m; B=1,5T$\\ Zyklonenfrequenz: $\nu \ETC.
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:96: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.96 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:97: Undefined control sequence.
+l.97   $E_{kin}=\frac
+                     {1}{2}\frac{q^2 B}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:97: Undefined control sequence.
+l.97   $E_{kin}=\frac{1}{2}\frac
+                                {q^2 B}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:98: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.98 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/Kap_16_1.tex:100: Undefined control sequence.
+l.100 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+! Emergency stop.
+<*> ...ript/tex_pdf_working_directory/Kap_16_1.tex
+                                                  
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!

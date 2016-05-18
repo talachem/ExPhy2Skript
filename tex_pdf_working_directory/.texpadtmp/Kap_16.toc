@@ -1,1 +1,11 @@
-\contentsline {section}{\numberline {16}Statische magnetische Felder}{3}{section.16}
+\contentsline {section}{\numberline {16}Statische magnetische Felder}{2}{section.16}
+\contentsline {paragraph}{Experimente:}{3}{section*.2}
+\contentsline {paragraph}{Feldlinien sichtbarmachen durch Eisenfeilspitzen:}{3}{section*.3}
+\contentsline {paragraph}{Erinnerung: Satz von Gauß:}{3}{section*.4}
+\contentsline {subparagraph}{Magnetische Felder:}{3}{section*.5}
+\contentsline {subsection}{\numberline {16.1} Kräfte auf bewegte Ladungen }{4}{subsection.16.1}
+\contentsline {subsubsection}{\numberline {16.1.1} Lorentzkraft $\mathaccentV {vec}17E{F}_L$ }{4}{subsubsection.16.1.1}
+\contentsline {paragraph}{Konventionen:}{4}{section*.6}
+\contentsline {subsubsection}{\numberline {16.1.2}Bewegungsgleichung:}{5}{subsubsection.16.1.2}
+\contentsline {paragraph}{Radius:}{6}{section*.7}
+\contentsline {subparagraph}{Experiment:}{6}{section*.8}
