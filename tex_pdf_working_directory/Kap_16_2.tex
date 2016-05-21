@@ -52,3 +52,69 @@ Hier: Ströme als "Quelle" des magnetischen Feldes \\
 "Umhüllung" der Ströme \underline{ohne} die Quelle zu "schneiden" nur mit geschlossenem Umlauf möglich (Quellen \underline{nicht} punktförmig!)\\
 Beachte also: $ \displaystyle \oint\vec{B}d\vec{s} $
 BILD
+Integrieren über $ dl $ ($ 0...2\pi $) statt über die Länge der Kurve \\
+\begin{align*}
+\vec{B} \cdot d\vec{s} &= B \cdot r \cdot dl\\
+&= \frac{\mu_0}{2\pi} \cdot \frac{I}{r} \cdot dl = \frac{\mu_0}{2\pi} \cdot I \cdot dl \\
+\end{align*}
+$$ \boxed{{\displaystyle \oint \vec{B}\cdot d\vec{s} = \frac{\mu_0 \cdot I}{2\pi} \oint dl = \mu_0 \cdot I}} $$
+Da $ \vec{B} $ nur Tangentialkomponente besitzt ist die Orientierung des Integrationswegs bezüglich des Leiters (Verkippung) unbedeutend; alle Komponenten parallel zum Leiter verschwinden!\\
+Richtung des Integrationswegs muss Rechtsschraube mit Strom bilden!\\
+Erweiterung auf mehrere Leiter im Raum bei vorzeichenrichtiger Summe der Einzelströme:
+BILD
+\fbox{\parbox[c][][c]{0.33\textwidth}{\begin{align*} {\displaystyle \oint \vec{B} \cdot \vec{s} } & = \mu_0 \cdot I_{ges}\\ &= \mu_0 \cdot {\displaystyle \sum_{i=1}^{N} I_i } \end{align*}} }
+\subsubsection{Ampere'sches Gesetz}
+Für kontinuierliche Medien: $ I = {\displaystyle \int_A \vec{j}\cdot d\vec{A}} $\\
+$$ \Rightarrow\underline{{\displaystyle\oint_C \vec{B}\cdot d\vec{s} = \mu_0\int_A \vec{j} \cdot d\vec{A}}} $$
+A: von C umradnete Fläche\\
+\break
+Beispiel 1: Stromdurchflossener Leiter:
+BILD
+\begin{itemize}
+	\item $ |\vec{B}| $ hängt nur von Abstand $ r $ ab
+	\item tangentiale Orientierung
+\end{itemize}
+\begin{math}
+\mu_0 \cdot I = {\displaystyle\oint\vec{B}d\vec{s}} = B \cdot 2\pi r\\
+\Rightarrow \underline{\underline{B(r) = \frac{\mu_0 \cdot I }{2\pi r}}}
+\end{math}
+
+\noindent Beispiel 2: Magnetfeld einer langen Spule:
+BILD
+
+\subsubsection{Das Ampere'sches Gesetz in differentieller Form}
+Integralsatz von Stokes: $ {\displaystyle\oint\vec{B} \cdot d\vec{v} = \int_A (\nabla\times\vec{B} \cdot d \vec{A}) = \int_A rot\vec{B} \cdot d\vec{A}} $ \\
+$ \Rightarrow {\displaystyle\oint\vec{B} \cdot d\vec{v} = \int_A (\nabla\times\vec{B}) \cdot\vec{A} = \mu_0 \cdot \int_A \vec{j} \cdot d\vec{A}} $
+$$ \boxed{\Rightarrow \nabla\times\vec{B} = \mu_0 \cdot \vec{j}} $$
+\begin{center}
+	Ampere'sches Gesetz in differentieller Form
+\end{center}
+
+\subsubsection{Das Gesetz von Biot-Savart}
+Suche Formulierung zur Berechnung des Beitrags $ d\vec{B} $ eines Leiterstückers von beliebig geformtem Leiter am Punkt P :
+BILD
+$$ \boxed{d\vec{B} = \frac{\mu_0}{4\pi} \cdot I \cdot \frac{d\vec{s} \times (\vec{r}-\vec{s})}{|\vec{r}-\vec{s}|^3} } $$
+($ \frac{1}{r^2} $ - Abstandsabhängigkeit)\\
+genaue Herleitung komplex ($ \rightarrow $Theoretische Physik)\\
+Gesamter Leiter: $ B(\vec{r}) = \frac{\mu_0 \cdot I}{4\pi} {\displaystyle\int_{Leiter}} \frac{d\vec{s} \times (\vec{r}-\vec{s})}{|\vec{r}-\vec{s}|^3} = \frac{\mu_0 \cdot I}{4\pi} {\displaystyle\int_{Leiter}} \frac{d\vec{s} \times \hat{e}_{\vec{r}-\vec{s}}}{|\vec{r}-\vec{s}|^2} $ \\
+Zur Berechnung des Magnetfeldes beliebiger Stromverteilungen\\
+(Vile Leiter: Addition der einzelnen Beträge)\\ \break
+Beispiel: Magnetfeld eines elektrischen Ringstroms (entlang Symmetrieachse)
+BILD
+\begin{align*}
+	d\vec{B} &= \frac{\mu_0 \cdot I}{4\pi} \cdot \frac{d\vec{s} \times \hat{e}_r}{r^2} ;\hspace{1cm} d\vec{s} \perp \hat{e}_r\\
+	&=\frac{\mu_0 \cdot I}{4\pi} \cdot \frac{ds}{r^2}
+\end{align*}
+Beachte: Beiträge in Ebene $ \perp z$ Kompensieren sich entlang der Symmetrieachse!
+\begin{align*}
+ dB_z &= dB\cdot \sin\beta = dB \cdot \frac{R}{r} = \frac{\mu_0 \cdot I}{4\pi} \cdot \frac{R}{r} \cdot \frac{1}{r^2} ds\\
+ B_z &= \frac{\mu_0 \cdot I}{4\pi} {\displaystyle\oint_{Umfang}} \frac{R}{\underset{\text{konstant entlang Umfang}}{r^3}} ds = \frac{\mu_0 \cdot I}{4\pi} \cdot \frac{R}{r^3} {\displaystyle\oint}ds &&= \frac{\mu_0 \cdot I}{4\pi} \cdot \frac{R}{r^3} \cdot 2\pi R\\
+ & &&=\frac{\mu_0 \cdot I}{2\pi} \cdot R^2\pi\frac{1}{(R^2+z^2)^{3/2}}\\
+ & &&= \frac{\mu_0}{2\pi} \cdot \underbracket{\boxed{IR^2\pi}}_{\mu_{mg}} \cdot \frac{1}{(R^2+z^2)^{3/2}}\\
+  && \Rightarrow B_z &=\underline{\underline{ \frac{\mu_0}{2\pi} \cdot \mu_{mg} \cdot r^{-3}}}
+\end{align*}
+Analogie: Elektrischer Dipol: $ E_r(\vec{r}) \sim \frac{\rho}{r^3} $\\
+Helmholtz-Spulenpaar:
+Mit einer Anordnung aus zwei kreisförmigen Spilen im Abstand von dem halben Durchmesser kann ein sehr homogenes Magnetfeld erzeugt werden. (Abweichung $ <1\% $ für $ z<0.3\cdot R $) BILD
+$$ B_z (0,0,z) = \frac{\mu_0}{2}I\left( \frac{R^2}{(R^2+(z+\frac{R}{2})^2 )^{3/2} }+\frac{R^2}{(R^2+(z+\frac{R}{2})^2 )^{3/2} }\right)  $$
+Entwicklung in eine Potenzreihe liefert näherungsweise $  B_z (0,0,z) = \frac{\mu_0 I}{(5R^2/4)^{3/2}}\left( 1-\frac{144z^4}{125R^4} \right)  $
