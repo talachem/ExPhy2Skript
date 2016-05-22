@@ -115,6 +115,36 @@ Beachte: Beiträge in Ebene $ \perp z$ Kompensieren sich entlang der Symmetrieac
 \end{align*}
 Analogie: Elektrischer Dipol: $ E_r(\vec{r}) \sim \frac{\rho}{r^3} $\\
 Helmholtz-Spulenpaar:
-Mit einer Anordnung aus zwei kreisförmigen Spilen im Abstand von dem halben Durchmesser kann ein sehr homogenes Magnetfeld erzeugt werden. (Abweichung $ <1\% $ für $ z<0.3\cdot R $) BILD
+Mit einer Anordnung aus zwei kreisförmigen Spulen im Abstand von dem halben Durchmesser kann ein sehr homogenes Magnetfeld erzeugt werden. (Abweichung $ <1\% $ für $ z<0.3\cdot R $) BILD
 $$ B_z (0,0,z) = \frac{\mu_0}{2}I\left( \frac{R^2}{(R^2+(z+\frac{R}{2})^2 )^{3/2} }+\frac{R^2}{(R^2+(z+\frac{R}{2})^2 )^{3/2} }\right)  $$
 Entwicklung in eine Potenzreihe liefert näherungsweise $  B_z (0,0,z) = \frac{\mu_0 I}{(5R^2/4)^{3/2}}\left( 1-\frac{144z^4}{125R^4} \right)  $
+\subsubsection{Zusammenhang zwischen elektrischen und magnetischen Feld}
+\underline{Gedankenexperiment}: \\
+2 Ladungen: \hspace{5mm} $ +q $ , $ -q $ ; Masse $ m $ , Geschwindigkeit $ \vec{v} $ \\
+Bewegtes Koordinatensystem ($ \vec{v} $) ; Ladungen ruhen
+BILD
+Coulombkraft:
+\begin{align*}
+	m\ddot{z_1} &= - \frac{1}{4\pi\epsilon_0} \frac{q^2}{(z_1-z_2)^2} \\
+	m\ddot{z_2} &= \frac{1}{4\pi\epsilon_0} \frac{q^2}{(z_2-z_1)^2}
+\end{align*}
+Ruhendes Koordinatensystem:
+BILD
+zusätzlich: $ \vec{B} $-Feld
+\begin{align*}
+	\vec{B}(z_1) &= \frac{\mu_0}{4\pi}q\frac{\vec{r}_{12} \times \vec{v}}{| \vec{r}_{12} |^3} \hspace{5mm} \text{aus Biot-Savart} \\
+	B_y(z_1) = \frac{\mu_0}{4\pi}qv\frac{1}{( z_1-z_2 )^2}
+\end{align*}
+Zusätzliche Lorentzkraft auf obere Ladung: \\
+$$ \vec{F_l} = q \cdot (\vec{v}\times \vec{B}) $$
+$$ |\vec{F_l}| = q \cdot v \cdot B_y = q^2 \cdot \frac{\mu_0}{4\pi} \cdot v^2 \cdot \frac{1}{(z_1-z_2)^2} $$
+Gesamtkraft: $ F=F_L+F_C $
+\begin{align*}
+&-\frac{1}{4\pi\epsilon_0} \frac{q^2}{(z_1-z_2)^2} + \frac{\mu_0}{4\pi} \frac{q^2v^2}{(z_1-z_2)^2}\\
+&-\frac{1}{4\pi\epsilon_0} \frac{q^2}{(z_1-z_2)^2} \underbrace{(1-\epsilon_0\mu_0v^2)}_{\text{kleinere Beschleunigung im ruhendem System!}}
+\end{align*}
+
+$ \epsilon_0 \cdot \mu_0 = c^{-2}$ ; $  \underbrace{c \approx \SI{2,998e8}{\meter\per\second}}_{\text{Lichtgeschwindigkeit im Vakuum}} = (\epsilon_0\mu_0)^{-1/2} $ \\
+$ \Rightarrow $ Beschleunigung ist um $ \underbrace{( 1-\frac{v^2}{c^2} )}_{\text{aus \underline{Relativistischer Mechanik!}}} $ kleiner!\\
+$ \Rightarrow $ In relativistischer Beschreibung laufen die beiden Experimente in beiden Bezugssystemen gleich ab! \\
+$ \Rightarrow $ Transformation der physikalischen Größen beinhalten Umwandlung von elektrische in magnetische Kraft!
