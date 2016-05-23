@@ -54,16 +54,22 @@ $ \vec{F}_{21} $: anziehend bei parallelen Strömen!
 Das Ampere ist die Stärke eines konstanten elektrischen Stromes, der, durch zwei parallele, gradlinige, unendlich lange und im Vakuum im Abstand von einem Meter voneinander angeordnete Leiter von vernachlässigbar kleinem, kreisförmigem Querschnitt fließend, zwischen diesen Leitern je einem Meter Leiterlänge die Kraft $ \SI{2e-7}{\newton} $ hervorrufen würde.\hfill \break
 
 Ströme parallel:\\
-BILD
+\begin{center}
+	\includegraphics[width=0.4\linewidth]{skizzen/16/16_2B05}
+\end{center}
 $ I_1 \uparrow\downarrow I_2 $ \\
-BILD
+\begin{center}
+	\includegraphics[width=0.4\linewidth]{skizzen/16/16_2B06}
+\end{center}
 
 Elektrostatik: Gaußscher Satz: Zusammenhang zwischen Quellen-Verteilung und Feldstärke! \\
 \indent $ \Rightarrow $ Normalkomponente des $ \vec{E} $-Feldes wichtig\\
 Hier: Ströme als "Quelle" des magnetischen Feldes \\
 "Umhüllung" der Ströme \underline{ohne} die Quelle zu "schneiden" nur mit geschlossenem Umlauf möglich (Quellen \underline{nicht} punktförmig!)\\
 Beachte also: $ \displaystyle \oint\vec{B}d\vec{s} $
-BILD
+\begin{center}
+	\includegraphics[width=0.4\linewidth]{skizzen/16/16_2B08}
+\end{center}
 Integrieren über $ dl $ ($ 0...2\pi $) statt über die Länge der Kurve \\
 \begin{align*}
 \vec{B} \cdot d\vec{s} &= B \cdot r \cdot dl\\
@@ -73,7 +79,9 @@ $$ \boxed{{\displaystyle \oint \vec{B}\cdot d\vec{s} = \frac{\mu_0 \cdot I}{2\pi
 Da $ \vec{B} $ nur Tangentialkomponente besitzt ist die Orientierung des Integrationswegs bezüglich des Leiters (Verkippung) unbedeutend; alle Komponenten parallel zum Leiter verschwinden!\\
 Richtung des Integrationswegs muss Rechtsschraube mit Strom bilden!\\
 Erweiterung auf mehrere Leiter im Raum bei vorzeichenrichtiger Summe der Einzelströme:
-BILD
+\begin{center}
+	\includegraphics[width=0.4\linewidth]{skizzen/16/16_2B07}
+\end{center}
 \fbox{\parbox[c][][c]{0.33\textwidth}{\begin{align*} {\displaystyle \oint \vec{B} \cdot \vec{s} } & = \mu_0 \cdot I_{ges}\\ &= \mu_0 \cdot {\displaystyle \sum_{i=1}^{N} I_i } \end{align*}} }
 \subsubsection{Ampere'sches Gesetz}
 Für kontinuierliche Medien: $ I = {\displaystyle \int_A \vec{j}\cdot d\vec{A}} $\\
@@ -81,7 +89,9 @@ $$ \Rightarrow\underline{{\displaystyle\oint_C \vec{B}\cdot d\vec{s} = \mu_0\int
 A: von C umradnete Fläche\\
 \break
 Beispiel 1: Stromdurchflossener Leiter:
-BILD
+\begin{center}
+	\includegraphics[width=0.4\linewidth]{skizzen/16/16_2B09}
+\end{center}
 \begin{itemize}
 	\item $ |\vec{B}| $ hängt nur von Abstand $ r $ ab
 	\item tangentiale Orientierung
@@ -92,7 +102,9 @@ BILD
 \end{math}
 
 \noindent Beispiel 2: Magnetfeld einer langen Spule:
-BILD
+\begin{center}
+	\includegraphics[width=0.6\linewidth]{skizzen/16/16_2B10}
+\end{center}
 
 \subsubsection{Das Ampere'sches Gesetz in differentieller Form}
 Integralsatz von Stokes: $ {\displaystyle\oint\vec{B} \cdot d\vec{v} = \int_A (\nabla\times\vec{B} \cdot d \vec{A}) = \int_A rot\vec{B} \cdot d\vec{A}} $ \\
@@ -104,7 +116,9 @@ $$ \boxed{\Rightarrow \nabla\times\vec{B} = \mu_0 \cdot \vec{j}} $$
 
 \subsubsection{Das Gesetz von Biot-Savart}
 Suche Formulierung zur Berechnung des Beitrags $ d\vec{B} $ eines Leiterstückers von beliebig geformtem Leiter am Punkt P :
-BILD
+\begin{center}
+	\includegraphics[width=0.4\linewidth]{skizzen/16/16_2B11}
+\end{center}
 $$ \boxed{d\vec{B} = \frac{\mu_0}{4\pi} \cdot I \cdot \frac{d\vec{s} \times (\vec{r}-\vec{s})}{|\vec{r}-\vec{s}|^3} } $$
 ($ \frac{1}{r^2} $ - Abstandsabhängigkeit)\\
 genaue Herleitung komplex ($ \rightarrow $Theoretische Physik)\\
@@ -112,7 +126,9 @@ Gesamter Leiter: $ B(\vec{r}) = \frac{\mu_0 \cdot I}{4\pi} {\displaystyle\int_{L
 Zur Berechnung des Magnetfeldes beliebiger Stromverteilungen\\
 (Vile Leiter: Addition der einzelnen Beträge)\\ \break
 Beispiel: Magnetfeld eines elektrischen Ringstroms (entlang Symmetrieachse)
-BILD
+\begin{center}
+	\includegraphics[width=0.6\linewidth]{skizzen/16/16_2B12}
+\end{center}
 \begin{align*}
 	d\vec{B} &= \frac{\mu_0 \cdot I}{4\pi} \cdot \frac{d\vec{s} \times \hat{e}_r}{r^2} ;\hspace{1cm} d\vec{s} \perp \hat{e}_r\\
 	&=\frac{\mu_0 \cdot I}{4\pi} \cdot \frac{ds}{r^2}
@@ -127,21 +143,27 @@ Beachte: Beiträge in Ebene $ \perp z$ Kompensieren sich entlang der Symmetrieac
 \end{align*}
 Analogie: Elektrischer Dipol: $ E_r(\vec{r}) \sim \frac{\rho}{r^3} $\\
 Helmholtz-Spulenpaar:
-Mit einer Anordnung aus zwei kreisförmigen Spulen im Abstand von dem halben Durchmesser kann ein sehr homogenes Magnetfeld erzeugt werden. (Abweichung $ <1\% $ für $ z<0.3\cdot R $) BILD
+Mit einer Anordnung aus zwei kreisförmigen Spulen im Abstand von dem halben Durchmesser kann ein sehr homogenes Magnetfeld erzeugt werden. (Abweichung $ <1\% $ für $ z<0.3\cdot R $) \begin{center}
+	\includegraphics[width=0.5\linewidth]{skizzen/16/16_2B13}
+\end{center}
 $$ B_z (0,0,z) = \frac{\mu_0}{2}I\left( \frac{R^2}{(R^2+(z+\frac{R}{2})^2 )^{3/2} }+\frac{R^2}{(R^2+(z+\frac{R}{2})^2 )^{3/2} }\right)  $$
 Entwicklung in eine Potenzreihe liefert näherungsweise $  B_z (0,0,z) = \frac{\mu_0 I}{(5R^2/4)^{3/2}}\left( 1-\frac{144z^4}{125R^4} \right)  $
 \subsubsection{Zusammenhang zwischen elektrischen und magnetischen Feld}
 \underline{Gedankenexperiment}: \\
 2 Ladungen: \hspace{5mm} $ +q $ , $ -q $ ; Masse $ m $ , Geschwindigkeit $ \vec{v} $ \\
 Bewegtes Koordinatensystem ($ \vec{v} $) ; Ladungen ruhen
-BILD
+\begin{center}
+	\includegraphics[width=0.4\linewidth]{skizzen/16/16_2B14}
+\end{center}
 Coulombkraft:
 \begin{align*}
 	m\ddot{z_1} &= - \frac{1}{4\pi\epsilon_0} \frac{q^2}{(z_1-z_2)^2} \\
 	m\ddot{z_2} &= \frac{1}{4\pi\epsilon_0} \frac{q^2}{(z_2-z_1)^2}
 \end{align*}
 Ruhendes Koordinatensystem:
-BILD
+\begin{center}
+	\includegraphics[width=0.4\linewidth]{skizzen/16/16_2B15}
+\end{center}
 zusätzlich: $ \vec{B} $-Feld
 \begin{align*}
 	\vec{B}(z_1) &= \frac{\mu_0}{4\pi}q\frac{\vec{r}_{12} \times \vec{v}}{| \vec{r}_{12} |^3} \hspace{5mm} \text{aus Biot-Savart} \\
