@@ -1,0 +1,99 @@
+Gedankenexperiment: \\
+	
+	\bild 
+	Bewegung mit $ \vec{v} \Rightarrow $ Kraft $ \vec{F_L} $ auf Ladungen ( \emph{q} seien positiv )
+	\begin{align*}
+	\vec{F_L} = q \cdot \vec{v} \times \vec{B}
+	\end{align*}
+	
+	$ \vec{F_L} $ nur an leiter Stirnseite beobachtbar! \\
+	\hypertarget{target1}{}
+	Wirkung der Kraft wie im elektrischen Feld $  \vec{E} = \frac{\vec{F_L}}{q} = \vec{v} \times \vec{B} $ \\
+	Erinnerung: Elektromotorische Kraft (EMK)\\
+	Elektrostatik
+	\bild
+	$$ \ds{\oint\vec{E}\cdot d\vec{s}=0} $$
+	\bild
+	$$ \ds{\int_{A}^{B}} \vec{E} \cdot d\vec{s} = \phi_A - \phi_B = U_{AB} = I \cdot R $$
+	\bild
+	$$ \ds{\underbrace{\oint \vec{E} \cdot d\vec{s}}_{EMK} = I \cdot R }$$
+	wieter bei \hyperlink{target1}{(\textasteriskcentered)} 
+	\begin{align*}
+	\ds{\int} \vec{E} \cdot d\vec{s} &\underset{\text{Nur Betrag der Stirnseite} }{=} \ds{\int_{1}^{2}} \vec{\nabla} \phi d \vec{s} \hspace{5mm} \leftarrow \vec{E} = -\vec{\nabla}\phi \\
+	& - (\phi_2-\phi_1) = - U\\ 
+	\end{align*} 
+	Erinnerung: magnetischer Fluss $ \Phi = \ds{\int_A} \vec{B} \cdot \underbrace{d\vec{A}}_{\text{hängt nur von Flächenrand ab!}}$ \\
+	
+	Erklärung: Blick von Stirnseite
+	\bild
+	Alle Integrale sind gleich!\\
+	\break
+	Beachte $ \Delta\Phi $ (Änderung des Flusses) durch Bewegung der Leiterschleife):
+	\begin{align*}
+	\Delta\Phi &= -B \cdot l \cdot \Delta s\\
+	&= - B \cdot l \cdot v \cdot \delta t \\
+	&= - \oint(d\vec{s} \times \vec{v}) \cdot \vec{B} \cdot \Delta t\\
+	& \text{Beitrag \emph{l} auf der linken Stirnseite}
+	\end{align*}
+	\begin{align*}
+	\frac{\Delta\Phi}{\Delta t} &= - {\int} \vec{B} \cdot (d\vec{s} \times \vec{v})\\
+	&= {\int} \vec{B} \cdot (\vec{v} \times d\vec{s}) \hspace{5mm} \text{BAC-CAB } \Rightarrow \underline{(\vec{a} \times \vec{b}) \cdot \vec{c} = \vec{a} \cdot (\vec{b}\times\vec{c})}\\
+	&= {\int} (\vec{B} \times \vec{v} \cdot d\vec{s})\\
+	&= - \int (\vec{v} \times \vec{B}) \cdot d\vec{s} = - \int\vec{E} \cdot d\vec{s} = U
+	\end{align*}
+	$$ \Rightarrow \boxed{\underbrace{U}_{\text{Induzierte Spannung}} =  - \frac{d\Phi}{dt} \text{oder allgemein} \ds{\oint} \vec{E} \cdot d\vec{s} = -\frac{d}{dt} \ds{\int} \vec{B} \cdot d\vec{A}} $$
+	\subsection{Faradaysches Induktionsgesetz}:
+	Die induzierte Spannung ist gleich dem negativen Wert der zeitlichen Veränderung des magnetischen Flusses durch die Leiterschleife.\hfill\break
+	Induktionsphänomene: $ U_{ind} = -\frac{d\Phi}{dt} = - \frac{d}{dt} \ds{\int} \vec{B \cdot d \vec{A} } $ \\
+	(1.) $ \vec{B} $ = const. ; $ |d\vec{A}| $ ändern! \\
+	(2.) $ \vec{B} $ = const. ; $ \angle (\vec{B},d\vec{A})$ ändern\\
+	(3.) $ \vec{A} $;$ d\vec{A} $ = const., $ |\vec{V}| ändern $\\
+	
+	\subsection{Faradaysches Gesetz}:
+	\bild
+	$$ \int_C \vec{E} \cdot d\vec{s} = - \frac{d}{dt} \int_A \vec{B} \cdot d \vec{A} \Leftarrow $$
+	Ein sich änderndes Magnetfeld innerhalb eines geschlossenen Begrenzungskurve C erzeugt ein Feld geschlossener elektrischer Feldlinien! \\
+	Es gilt nicht mehr: $ \oint \vec{E} \cdot d\vec{s} = 0 $ !\\
+	Vorzeichen von $ U_{ind} $: Lenz'sche Regel:\\
+	Der bei einem Induktionsvorgang auftretender Strom ist so gerichtet, dass seine WW mit dem \underline{indizierenden} Magnetfeld den Induktionsvorgang hemmt!
+	
+	\subsubsection{Plausibilitätsüberlegung}:\\
+	\begin{itemize}
+		\item Unabhängig von Stromrichtung wird durch induzierten Strom die Leistung $ P = R \cdot I^2 $ in Wärme umgesetzt.
+		\item Ist Induktionsvorgang mit "Bewegung" verbunden, so muss dabei von der Joule'schen Wärme (s.a.) entsprechend Arbeit verrichtet werden
+	\end{itemize}
+	Gedankenexperiment:
+	\bild
+	"Wegbewegung" wird behindert $ \Rightarrow $ "Anziehung"
+	\bild
+	"Annäherung wird behindert" $ \Rightarrow $ "Abstoßung"\\
+	Durch Induktionsstrom wird kinetische Energie in Wärme dissipiert! (und umgekehrt!!!)
+	Exp: "Wirbelstrombremse": Alu.-Ring auf E-Magnet\\
+	Betrachtung zu Beginnen des Kapitels
+	\bild
+	$ I $: Induzierter Strom \\
+	$ \vec{F_i} $: Kräfte auf induzierten Strom \hspace{5mm} $ \vec{F_1} = - \vec{F_2} $\\
+	$ U_{ind} = - \frac{d\Phi}{dt} = -\frac{d}{dt} (B\cdot A) = -B \cdot b \cdot v $ (*) \\
+	Kraft auf Leiter im Magnetfeld: $ \vec{F} = b \cdot (\vec{I}\times\vec{B}) $ (**)\\
+	\subsection{Lenz'sche Regel}: $ \vec{F_r}{\small \textuparrow\textdownarrow }\vec{v} $\\
+	\begin{align*}
+	I = \frac{U_{ind}}{R} \underset{(*)}{=} -\frac{B\cdot b\cdot v}{R} \Rightarrow |\vec{F_B}| &\underset{(**)}{=} b \cdot I \cdot B\\ &= \frac{(b\cdot B)^2 \cdot v}{R}
+	\end{align*}
+	$$ \Rightarrow \boxed{\vec{F_B} = \frac{-(b\cdot B)^2}{\textbf{R}} \cdot\vec{v}} $$
+	$ \vec{F_3} $ ist geschwindigkeitsabhängige Kraft ($ \Rightarrow $ Reibungskraft !!)\\
+	$ |\vec{F_3}| $ ist groß, wenn $ R $ klein ist ($ \Rightarrow $ funktioniert nur in Metallen!!)\\
+	
+	\subsection{Erzeugung von Wechselspannung} (Wechselspannungsgenerator)
+	\bild
+	$ \Phi(t) = \ds{\int}\vec{B}\cdot d\vec{A} $
+	\bild
+	$ \Phi(t) = \int\vec{B}\cdot d\vec{A} = B \cdot A \cdot \cos(\omega t)$ \\
+	\begin{align*}
+	U_{ind} = -\frac{d\Phi}{dt} = - \omega \cdot B \cdot A \cdot (-\sin(\omega t))\\
+	&= \omega \cdot B \cdot A \cdot \sin(\omega t)
+	\end{align*}
+	\bild
+	Umkehrung: Elektromotor
+	\bild
+	Um Drehung in einer Drerichtung aufrecht zu erhalten (mehr als eine halbe Umdrehung) muss die Stromrichtung gewechselt werden\\
+	$ \Rightarrow $ Kommutator!
