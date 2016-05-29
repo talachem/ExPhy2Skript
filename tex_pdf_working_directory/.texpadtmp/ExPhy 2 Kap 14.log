@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.7)  10 MAY 2016 22:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.7)  29 MAY 2016 20:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1380,16 +1380,16 @@ Overfull \hbox (27.61844pt too wide) in paragraph at lines 78--82
 \T1/txr/m/n/10.95 Reibezeug: ent-ge-genge-set-zte Po-lar-ität $ \U/matha/m/n/10.95 ù[]ñ $ \T1/txr/m/n/10.95 Ladungstren-nung, nicht etwa Ladungserzeu-
  []
 
-[3 <./skizzen/14/14_1B0.png>] <skizzen/14/14_1B1.png, id=195, 90.3375pt x 183.68625pt>
+[3 <./skizzen/14/14_1B0.png>] <skizzen/14/14_1B1.png, id=195, 340.27126pt x 132.495pt>
 File: skizzen/14/14_1B1.png Graphic file (type png)
  <use skizzen/14/14_1B1.png>
 Package pdftex.def Info: skizzen/14/14_1B1.png used on input line 86.
-(pdftex.def)             Requested size: 90.33727pt x 183.68578pt.
- <skizzen/14/14_1B2.png, id=196, 306.14375pt x 101.37875pt>
+(pdftex.def)             Requested size: 340.27042pt x 132.49466pt.
+ <skizzen/14/14_1B2.png, id=196, 303.1325pt x 97.36375pt>
 File: skizzen/14/14_1B2.png Graphic file (type png)
  <use skizzen/14/14_1B2.png>
 Package pdftex.def Info: skizzen/14/14_1B2.png used on input line 103.
-(pdftex.def)             Requested size: 306.14299pt x 101.3785pt.
+(pdftex.def)             Requested size: 303.13176pt x 97.3635pt.
  [4 <./skizzen/14/14_1B1.png> <./skizzen/14/14_1B2.png>] <skizzen/14/14_1B5.png, id=205, 359.3425pt x 164.615pt>
 File: skizzen/14/14_1B5.png Graphic file (type png)
  <use skizzen/14/14_1B5.png>
@@ -1420,11 +1420,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
  []
 
-<skizzen/14/14_2B0.png, id=213, 217.81375pt x 129.48375pt>
+<skizzen/14/14_2B0.png, id=213, 204.765pt x 101.37875pt>
 File: skizzen/14/14_2B0.png Graphic file (type png)
  <use skizzen/14/14_2B0.png>
 Package pdftex.def Info: skizzen/14/14_2B0.png used on input line 153.
-(pdftex.def)             Requested size: 217.8132pt x 129.48341pt.
+(pdftex.def)             Requested size: 204.76448pt x 101.3785pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 157--169
 
@@ -1445,21 +1445,21 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 177--182
 [] 
  []
 
-[6 <./skizzen/14/14_2B0.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 183--184
 
  []
 
-
+[6 <./skizzen/14/14_2B0.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 195--196
 
  []
 
-<skizzen/14/14_2B1.png, id=220, 303.1325pt x 196.735pt>
+<skizzen/14/14_2B1.png, id=220, 283.0575pt x 183.68625pt>
 File: skizzen/14/14_2B1.png Graphic file (type png)
  <use skizzen/14/14_2B1.png>
 Package pdftex.def Info: skizzen/14/14_2B1.png used on input line 197.
-(pdftex.def)             Requested size: 303.13176pt x 196.7345pt.
+(pdftex.def)             Requested size: 283.0568pt x 183.68578pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
@@ -1488,47 +1488,27 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.218 ...ij}}\bigg]\cdot \frac{1}{4\pi\epsilon_0}}
-                                                  \\$
+                                                  $
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--221
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
-
- []
-
-<skizzen/14/14_3B0.png, id=230, 367.3725pt x 228.855pt>
+<skizzen/14/14_3B0.png, id=230, 418.56375pt x 224.84pt>
 File: skizzen/14/14_3B0.png Graphic file (type png)
  <use skizzen/14/14_3B0.png>
 Package pdftex.def Info: skizzen/14/14_3B0.png used on input line 226.
-(pdftex.def)             Requested size: 367.37158pt x 228.85443pt.
+(pdftex.def)             Requested size: 418.56271pt x 224.83945pt.
 
-Overfull \hbox (24.37158pt too wide) in paragraph at lines 226--227
+Overfull \hbox (75.56271pt too wide) in paragraph at lines 226--227
 [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
-
- []
-
-[8 <./skizzen/14/14_3B0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
-
- []
-
-<skizzen/14/14_4B0.png, id=237, 472.6458pt x 217.2918pt>
+[8 <./skizzen/14/14_3B0.png>] <skizzen/14/14_4B0.png, id=237, 472.6458pt x 217.2918pt>
 File: skizzen/14/14_4B0.png Graphic file (type png)
  <use skizzen/14/14_4B0.png>
 Package pdftex.def Info: skizzen/14/14_4B0.png used on input line 265.
@@ -1629,11 +1609,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 389.
 
-<skizzen/14/14_6B1.png, id=296, 135.50626pt x 124.465pt>
+<skizzen/14/14_6B1.png, id=296, 148.555pt x 106.3975pt>
 File: skizzen/14/14_6B1.png Graphic file (type png)
  <use skizzen/14/14_6B1.png>
 Package pdftex.def Info: skizzen/14/14_6B1.png used on input line 391.
-(pdftex.def)             Requested size: 135.5059pt x 124.46469pt.
+(pdftex.def)             Requested size: 148.55463pt x 106.39723pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 399--400
 
@@ -1691,193 +1671,205 @@ Underfull \hbox (badness 10000) in paragraph at lines 433--434
 
  []
 
-<skizzen/14/14_6B2.png, id=304, 207.77625pt x 201.75375pt>
+<skizzen/14/14_6B2.png, id=304, 204.765pt x 166.6225pt>
 File: skizzen/14/14_6B2.png Graphic file (type png)
  <use skizzen/14/14_6B2.png>
 Package pdftex.def Info: skizzen/14/14_6B2.png used on input line 435.
-(pdftex.def)             Requested size: 207.77573pt x 201.75325pt.
+(pdftex.def)             Requested size: 204.76448pt x 166.62209pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 435--436
 
  []
 
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 450--451
+[17] [18 <./skizzen/14/14_6B2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 452--453
-
- []
-
-<skizzen/14/14_6B3.png, id=310, 234.8775pt x 181.67876pt>
+<skizzen/14/14_6B3.png, id=315, 361.35pt x 234.8775pt>
 File: skizzen/14/14_6B3.png Graphic file (type png)
  <use skizzen/14/14_6B3.png>
-Package pdftex.def Info: skizzen/14/14_6B3.png used on input line 454.
-(pdftex.def)             Requested size: 234.87692pt x 181.6783pt.
+Package pdftex.def Info: skizzen/14/14_6B3.png used on input line 455.
+(pdftex.def)             Requested size: 361.34912pt x 234.87692pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 454--455
+Overfull \hbox (18.34912pt too wide) in paragraph at lines 455--456
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
 
  []
 
-[18 <./skizzen/14/14_6B2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
 
  []
 
 [19 <./skizzen/14/14_6B3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 459--460
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--466
+Underfull \hbox (badness 10000) in paragraph at lines 462--467
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 473--474
+Underfull \hbox (badness 10000) in paragraph at lines 474--475
 
  []
 
-<skizzen/14/14_6B5.png, id=322, 308.15125pt x 171.64125pt>
+<skizzen/14/14_6B5.png, id=322, 396.48125pt x 221.82875pt>
 File: skizzen/14/14_6B5.png Graphic file (type png)
  <use skizzen/14/14_6B5.png>
-Package pdftex.def Info: skizzen/14/14_6B5.png used on input line 475.
-(pdftex.def)             Requested size: 308.15048pt x 171.64081pt.
+Package pdftex.def Info: skizzen/14/14_6B5.png used on input line 476.
+(pdftex.def)             Requested size: 396.48027pt x 221.82819pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 475--476
-
+Overfull \hbox (53.48027pt too wide) in paragraph at lines 476--477
+[][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 477--478
-
- []
-
-<skizzen/14/14_6B6.png, id=323, 188.705pt x 180.675pt>
-File: skizzen/14/14_6B6.png Graphic file (type png)
- <use skizzen/14/14_6B6.png>
-Package pdftex.def Info: skizzen/14/14_6B6.png used on input line 479.
-(pdftex.def)             Requested size: 188.70453pt x 180.67455pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 479--480
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
 
  []
 
 [20 <./skizzen/14/14_6B5.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 490--491
+Underfull \hbox (badness 10000) in paragraph at lines 480--481
+
+ []
+
+<skizzen/14/14_6B6.png, id=328, 188.705pt x 163.61125pt>
+File: skizzen/14/14_6B6.png Graphic file (type png)
+ <use skizzen/14/14_6B6.png>
+Package pdftex.def Info: skizzen/14/14_6B6.png used on input line 482.
+(pdftex.def)             Requested size: 188.70453pt x 163.61084pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--483
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--495
+LaTeX Warning: Command \ss invalid in math mode on input line 499.
+
+Missing character: There is no ÿ in font txr!
+
+Overfull \hbox (39.27847pt too wide) detected at line 501
+\U/matha/m/n/10.95 ñ \OML/txmi/m/it/10.95 Q[] \U/matha/m/n/10.95 ^^P [][] \OML/txmi/m/it/10.95 %\U/matha/m/n/10.95 p[]q\OML/txmi/m/it/10.95 dV \U/matha/m/n/10.95 ^^P [][] []\OML/txmi/m/it/10.95 dV \U/matha/m/n/10.95 ^^P [] [][] \OML/txmi/m/it/10.95 dV \U/matha/m/n/10.95 ^^P [][]\OML/txmi/m/it/10.95 ^^YR[] \U/matha/m/n/10.95 ^^P \OML/txmi/m/it/10.95 Q
+ []
+
+[21 <./skizzen/14/14_6B6.png>]
+
+LaTeX Warning: Command \ss invalid in math mode on input line 506.
+
+
+LaTeX Warning: Command \ss invalid in math mode on input line 506.
+
+
+LaTeX Warning: Command \ss invalid in math mode on input line 506.
+
+Missing character: There is no ÿ in font txr!
+Missing character: There is no ÿ in font txr!
+Missing character: There is no ÿ in font txr!
+
+Overfull \hbox (7.65198pt too wide) detected at line 506
+\OML/txmi/m/it/10.95 Q[] \U/matha/m/n/10.95 ^^P [][] \OML/txmi/m/it/10.95 %\U/matha/m/n/10.95 p[]q\OML/txmi/m/it/10.95 dV \U/matha/m/n/10.95 ^^P [][] []\OML/txmi/m/it/10.95 dV \U/matha/m/n/10.95 ^^P [] [][] \OML/txmi/m/it/10.95 dV \U/matha/m/n/10.95 ^^P [][]\OML/txmi/m/it/10.95 ^^Yr[] \U/matha/m/n/10.95 ^^P \OML/txmi/m/it/10.95 Q[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
 
  []
 
-<skizzen/14/14_6B7.png, id=329, 311.1625pt x 182.6825pt>
+<skizzen/14/14_6B7.png, id=336, 396.48125pt x 221.82875pt>
 File: skizzen/14/14_6B7.png Graphic file (type png)
  <use skizzen/14/14_6B7.png>
-Package pdftex.def Info: skizzen/14/14_6B7.png used on input line 496.
-(pdftex.def)             Requested size: 311.16174pt x 182.68204pt.
+Package pdftex.def Info: skizzen/14/14_6B7.png used on input line 521.
+(pdftex.def)             Requested size: 396.48027pt x 221.82819pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 496--497
+Overfull \hbox (53.48027pt too wide) in paragraph at lines 521--522
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 498--499
+Underfull \hbox (badness 10000) in paragraph at lines 523--524
 
  []
 
-[21 <./skizzen/14/14_6B6.png> <./skizzen/14/14_6B7.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 500--501
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
 
  []
 
 <skizzen/14/14_6B8.png, id=337, 237.88875pt x 210.7875pt>
 File: skizzen/14/14_6B8.png Graphic file (type png)
  <use skizzen/14/14_6B8.png>
-Package pdftex.def Info: skizzen/14/14_6B8.png used on input line 502.
+Package pdftex.def Info: skizzen/14/14_6B8.png used on input line 527.
 (pdftex.def)             Requested size: 237.88815pt x 210.78699pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--503
+Underfull \hbox (badness 10000) in paragraph at lines 527--528
+
+ []
+
+[22 <./skizzen/14/14_6B7.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--505
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 514--515
+Underfull \hbox (badness 10000) in paragraph at lines 541--542
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 516--517
-
- []
-
-<skizzen/14/14_6B9.png, id=338, 285.065pt x 156.585pt>
+<skizzen/14/14_6B9.png, id=344, 355.3275pt x 221.82875pt>
 File: skizzen/14/14_6B9.png Graphic file (type png)
  <use skizzen/14/14_6B9.png>
-Package pdftex.def Info: skizzen/14/14_6B9.png used on input line 518.
-(pdftex.def)             Requested size: 285.0643pt x 156.58461pt.
+Package pdftex.def Info: skizzen/14/14_6B9.png used on input line 543.
+(pdftex.def)             Requested size: 355.32661pt x 221.82819pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 518--519
+Overfull \hbox (12.32661pt too wide) in paragraph at lines 543--544
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
 
  []
 
-[22 <./skizzen/14/14_6B8.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 520--521
+[23 <./skizzen/14/14_6B8.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
 
  []
 
-<skizzen/14/14_6BA.png, id=344, 310.15875pt x 164.615pt>
+<skizzen/14/14_6BA.png, id=350, 351.3125pt x 244.915pt>
 File: skizzen/14/14_6BA.png Graphic file (type png)
  <use skizzen/14/14_6BA.png>
-Package pdftex.def Info: skizzen/14/14_6BA.png used on input line 522.
-(pdftex.def)             Requested size: 310.15799pt x 164.6146pt.
+Package pdftex.def Info: skizzen/14/14_6BA.png used on input line 547.
+(pdftex.def)             Requested size: 351.31163pt x 244.91438pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--525
-
+Overfull \hbox (8.31163pt too wide) in paragraph at lines 547--548
+[][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 540--543
+Underfull \hbox (badness 10000) in paragraph at lines 549--550
 
  []
 
-[23 <./skizzen/14/14_6B9.png> <./skizzen/14/14_6BA.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 544--547
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 550--553
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 554--556
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 562--564
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 565--566
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 567--568
+[24 <./skizzen/14/14_6B9.png> <./skizzen/14/14_6BA.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 565--568
 
  []
 
@@ -1887,14 +1879,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 569--570
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 571--572
+Underfull \hbox (badness 10000) in paragraph at lines 570--572
 
  []
 
-Missing character: There is no Ü in font txr!
-Missing character: There is no Ü in font txr!
-[24]
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--576
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--578
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--581
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--589
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 590--591
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 592--593
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 594--595
 
  []
 
@@ -1903,33 +1923,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 596--597
 
  []
 
+Missing character: There is no Ü in font txr!
+Missing character: There is no Ü in font txr!
 
-Underfull \hbox (badness 10000) in paragraph at lines 598--599
-
- []
-
-<skizzen/14/14_7B0.png, id=356, 287.0725pt x 141.52875pt>
-File: skizzen/14/14_7B0.png Graphic file (type png)
- <use skizzen/14/14_7B0.png>
-Package pdftex.def Info: skizzen/14/14_7B0.png used on input line 602.
-(pdftex.def)             Requested size: 287.0718pt x 141.5284pt.
- [25 <./skizzen/14/14_7B0.png>] <skizzen/14/14_7B1.png, id=365, 376.40625pt x 279.0425pt>
-File: skizzen/14/14_7B1.png Graphic file (type png)
- <use skizzen/14/14_7B1.png>
-Package pdftex.def Info: skizzen/14/14_7B1.png used on input line 615.
-(pdftex.def)             Requested size: 376.40532pt x 279.04181pt.
-
-Overfull \hbox (16.40532pt too wide) in paragraph at lines 614--618
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 614--618
+Underfull \hbox (badness 10000) in paragraph at lines 615--616
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 619--620
+Underfull \hbox (badness 10000) in paragraph at lines 621--622
 
  []
 
@@ -1938,394 +1940,283 @@ Underfull \hbox (badness 10000) in paragraph at lines 623--624
 
  []
 
+<skizzen/14/14_7B0.png, id=362, 287.0725pt x 141.52875pt>
+File: skizzen/14/14_7B0.png Graphic file (type png)
+ <use skizzen/14/14_7B0.png>
+Package pdftex.def Info: skizzen/14/14_7B0.png used on input line 627.
+(pdftex.def)             Requested size: 287.0718pt x 141.5284pt.
+ [26] <skizzen/14/14_7B1.png, id=370, 376.40625pt x 279.0425pt>
+File: skizzen/14/14_7B1.png Graphic file (type png)
+ <use skizzen/14/14_7B1.png>
+Package pdftex.def Info: skizzen/14/14_7B1.png used on input line 640.
+(pdftex.def)             Requested size: 376.40532pt x 279.04181pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 625--626
-
- []
-
-[26 <./skizzen/14/14_7B1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 632--633
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 634--635
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 636--638
-
+Overfull \hbox (16.40532pt too wide) in paragraph at lines 639--643
+[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 639--640
+Underfull \hbox (badness 10000) in paragraph at lines 639--643
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 641--644
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 646--647
+[27 <./skizzen/14/14_7B0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 644--645
 
  []
 
+[28 <./skizzen/14/14_7B1.png>]
+Overfull \hbox (52.22447pt too wide) detected at line 682
+\OMS/txsy/m/n/10.95 r [][] []\U/matha/m/n/10.95 p[]q ^^D \OML/txmi/m/it/10.95 d[] \U/matha/m/n/10.95 ^^P \OMS/txsy/m/n/10.95 r [][] \OML/txmi/m/it/10.95 E[]dx \U/matha/m/n/10.95 ^^@ \OMS/txsy/m/n/10.95 r [][] \OML/txmi/m/it/10.95 E[]dy \U/matha/m/n/10.95 ^^@ \OMS/txsy/m/n/10.95 r [][] \OML/txmi/m/it/10.95 E[]dz \U/matha/m/n/10.95 ^^P [] ^^@ [] ^^@ [] ^^P [] ^^P []
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 648--649
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 713--714
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
+Underfull \hbox (badness 10000) in paragraph at lines 715--718
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 720--721
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 652--653
+Underfull \hbox (badness 10000) in paragraph at lines 722--723
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 656--658
+Underfull \hbox (badness 10000) in paragraph at lines 724--725
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 659--660
-
- []
-
-[27]
-Underfull \hbox (badness 10000) in paragraph at lines 661--662
+Underfull \hbox (badness 10000) in paragraph at lines 726--727
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 668--669
+Underfull \hbox (badness 10000) in paragraph at lines 730--732
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 672--674
+Underfull \hbox (badness 10000) in paragraph at lines 733--734
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 675--676
+Underfull \hbox (badness 10000) in paragraph at lines 735--736
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 677--678
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
 
  []
 
-<skizzen/14/14_8B0.png, id=377, 214.8025pt x 215.80624pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 746--748
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 749--750
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
+
+ []
+
+<skizzen/14/14_8B0.png, id=390, 214.8025pt x 215.80624pt>
 File: skizzen/14/14_8B0.png Graphic file (type png)
  <use skizzen/14/14_8B0.png>
-Package pdftex.def Info: skizzen/14/14_8B0.png used on input line 681.
+Package pdftex.def Info: skizzen/14/14_8B0.png used on input line 755.
 (pdftex.def)             Requested size: 214.80197pt x 215.80571pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 680--682
+Underfull \hbox (badness 10000) in paragraph at lines 754--756
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 757--758
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 683--684
+Underfull \hbox (badness 10000) in paragraph at lines 759--760
 
  []
 
-[28 <./skizzen/14/14_8B0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 685--686
-
- []
-
-<skizzen/14/14_8B1.png, id=385, 164.615pt x 163.61125pt>
+<skizzen/14/14_8B1.png, id=398, 164.615pt x 163.61125pt>
 File: skizzen/14/14_8B1.png Graphic file (type png)
  <use skizzen/14/14_8B1.png>
-Package pdftex.def Info: skizzen/14/14_8B1.png used on input line 689.
+Package pdftex.def Info: skizzen/14/14_8B1.png used on input line 763.
 (pdftex.def)             Requested size: 164.6146pt x 163.61084pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 688--691
+Underfull \hbox (badness 10000) in paragraph at lines 762--765
+
+ []
+
+[32 <./skizzen/14/14_8B0.png> <./skizzen/14/14_8B1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 766--771
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 692--697
+Underfull \hbox (badness 10000) in paragraph at lines 766--771
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 692--697
+Underfull \hbox (badness 10000) in paragraph at lines 774--775
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 700--701
+Underfull \hbox (badness 10000) in paragraph at lines 776--777
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 702--703
+Underfull \hbox (badness 10000) in paragraph at lines 778--779
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 704--705
+Underfull \hbox (badness 10000) in paragraph at lines 780--781
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 706--707
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 708--709
+Underfull \hbox (badness 10000) in paragraph at lines 784--785
 
  []
 
-[29 <./skizzen/14/14_8B1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 710--711
-
- []
-
-<skizzen/14/14_8B2.png, id=394, 140.525pt x 97.36375pt>
+<skizzen/14/14_8B2.png, id=407, 140.525pt x 97.36375pt>
 File: skizzen/14/14_8B2.png Graphic file (type png)
  <use skizzen/14/14_8B2.png>
-Package pdftex.def Info: skizzen/14/14_8B2.png used on input line 714.
+Package pdftex.def Info: skizzen/14/14_8B2.png used on input line 788.
 (pdftex.def)             Requested size: 140.52464pt x 97.3635pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 712--715
+Underfull \hbox (badness 10000) in paragraph at lines 786--789
 
  []
 
-<skizzen/14/14_8B3.png, id=395, 407.5225pt x 201.75375pt>
+<skizzen/14/14_8B3.png, id=408, 407.5225pt x 201.75375pt>
 File: skizzen/14/14_8B3.png Graphic file (type png)
  <use skizzen/14/14_8B3.png>
-Package pdftex.def Info: skizzen/14/14_8B3.png used on input line 716.
+Package pdftex.def Info: skizzen/14/14_8B3.png used on input line 790.
 (pdftex.def)             Requested size: 407.5215pt x 201.75325pt.
 
-Overfull \hbox (64.5215pt too wide) in paragraph at lines 716--717
+Overfull \hbox (64.5215pt too wide) in paragraph at lines 790--791
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 716--717
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
+
+ []
+
+[33 <./skizzen/14/14_8B2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 792--794
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 718--720
+Underfull \hbox (badness 10000) in paragraph at lines 795--796
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 721--722
+Underfull \hbox (badness 10000) in paragraph at lines 803--805
 
  []
 
-[30 <./skizzen/14/14_8B2.png> <./skizzen/14/14_8B3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 729--731
-
- []
-
-<skizzen/14/14_8B4.png, id=403, 204.765pt x 78.2925pt>
+<skizzen/14/14_8B4.png, id=416, 204.765pt x 78.2925pt>
 File: skizzen/14/14_8B4.png Graphic file (type png)
  <use skizzen/14/14_8B4.png>
-Package pdftex.def Info: skizzen/14/14_8B4.png used on input line 732.
+Package pdftex.def Info: skizzen/14/14_8B4.png used on input line 806.
 (pdftex.def)             Requested size: 204.76448pt x 78.2923pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 732--733
+Underfull \hbox (badness 10000) in paragraph at lines 806--807
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 734--736
+Underfull \hbox (badness 10000) in paragraph at lines 808--810
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 737--738
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 741--742
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 743--745
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 750--751
-
- []
-
-<skizzen/14/14_8B5.png, id=404, 152.57pt x 175.65625pt>
-File: skizzen/14/14_8B5.png Graphic file (type png)
- <use skizzen/14/14_8B5.png>
-Package pdftex.def Info: skizzen/14/14_8B5.png used on input line 757.
-(pdftex.def)             Requested size: 152.56963pt x 175.6558pt.
- [31 <./skizzen/14/14_8B4.png>] <skizzen/14/14_8B6.png, id=412, 255.95625pt x 142.5325pt>
-File: skizzen/14/14_8B6.png Graphic file (type png)
- <use skizzen/14/14_8B6.png>
-Package pdftex.def Info: skizzen/14/14_8B6.png used on input line 759.
-(pdftex.def)             Requested size: 255.95561pt x 142.53214pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 762--764
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 765--766
-
- []
-
-<skizzen/14/14_8B7.png, id=413, 81.30376pt x 92.345pt>
-File: skizzen/14/14_8B7.png Graphic file (type png)
- <use skizzen/14/14_8B7.png>
-Package pdftex.def Info: skizzen/14/14_8B7.png used on input line 770.
-(pdftex.def)             Requested size: 81.30354pt x 92.34476pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 769--772
-
- []
-
-[32 <./skizzen/14/14_8B5.png> <./skizzen/14/14_8B6.png> <./skizzen/14/14_8B7.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 773--774
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 775--778
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 779--780
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 781--782
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 783--784
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 785--786
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 790--792
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 793--794
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 801--803
-
- []
-
-[33]
-Underfull \hbox (badness 10000) in paragraph at lines 807--808
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 809--810
-
- []
-
-
+[34 <./skizzen/14/14_8B3.png> <./skizzen/14/14_8B4.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 811--812
 
  []
 
 
-Overfull \hbox (1.95715pt too wide) in paragraph at lines 813--815
-[]\T1/txr/m/n/10.95 (Dieses Ergeb-nis gilt auch für an-dere Feld-verteilun-gen, nicht nur im Plat-tenkon-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 813--815
+Underfull \hbox (badness 10000) in paragraph at lines 815--816
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 816--817
+Underfull \hbox (badness 10000) in paragraph at lines 817--819
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 817--818
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+
+ []
+
+<skizzen/14/14_8B5.png, id=425, 208.78pt x 73.27374pt>
+File: skizzen/14/14_8B5.png Graphic file (type png)
+ <use skizzen/14/14_8B5.png>
+Package pdftex.def Info: skizzen/14/14_8B5.png used on input line 831.
+(pdftex.def)             Requested size: 208.77946pt x 73.27354pt.
+ <skizzen/14/14_8B6.png, id=426, 240.9pt x 87.32625pt>
+File: skizzen/14/14_8B6.png Graphic file (type png)
+ <use skizzen/14/14_8B6.png>
+Package pdftex.def Info: skizzen/14/14_8B6.png used on input line 833.
+(pdftex.def)             Requested size: 240.8994pt x 87.32603pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--838
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 820--824
+Underfull \hbox (badness 10000) in paragraph at lines 839--840
+
+ []
+
+[35 <./skizzen/14/14_8B5.png> <./skizzen/14/14_8B6.png>] <skizzen/14/14_8B7.png, id=433, 121.45375pt x 83.31125pt>
+File: skizzen/14/14_8B7.png Graphic file (type png)
+ <use skizzen/14/14_8B7.png>
+Package pdftex.def Info: skizzen/14/14_8B7.png used on input line 844.
+(pdftex.def)             Requested size: 121.45343pt x 83.31104pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--846
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 825--826
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 828--831
-
- []
-
-<skizzen/14/14_8B8.png, id=426, 105.39375pt x 90.3375pt>
-File: skizzen/14/14_8B8.png Graphic file (type png)
- <use skizzen/14/14_8B8.png>
-Package pdftex.def Info: skizzen/14/14_8B8.png used on input line 834.
-(pdftex.def)             Requested size: 105.39348pt x 90.33727pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 833--838
-
- []
-
-[34]
-Underfull \hbox (badness 10000) in paragraph at lines 843--844
-
- []
-
-
-./ExPhy 2 Kap 14.tex:848: Package inputenc Error: Unicode char \u8:âŒ€ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.848 U=2000V; d=10mm; âŒ€
-                          =30cm \implies A=0,071m^2\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Command \textellipsis invalid in math mode on input line 850.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 847--852
+Underfull \hbox (badness 10000) in paragraph at lines 849--852
 
  []
 
@@ -2339,75 +2230,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 855--856
 
  []
 
-Runaway argument?
-{itemize 
-./ExPhy 2 Kap 14.tex:867: Paragraph ended before \end was complete.
-<to be read again> 
-                   \par 
-l.867 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
 
-[35 <./skizzen/14/14_8B8.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 870--871
+Underfull \hbox (badness 10000) in paragraph at lines 857--858
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 872--873
+Underfull \hbox (badness 10000) in paragraph at lines 859--860
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 874--875
+Underfull \hbox (badness 10000) in paragraph at lines 864--866
 
  []
 
 
-Overfull \hbox (14.47845pt too wide) in paragraph at lines 880--881
-\T1/txr/m/n/10.95 Reduzierung des elek-trischen Feldes bei Ein-führung eins Dielek-trikums. Grund:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 880--881
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 882--884
+[36 <./skizzen/14/14_8B7.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 875--877
 
  []
 
 
-./ExPhy 2 Kap 14.tex:887: LaTeX Error: There's no line here to end.
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.887 Q
-       _p: Polarisationsladung\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+ []
 
-./ExPhy 2 Kap 14.tex:887: Missing $ inserted.
-<inserted text> 
-                $
-l.887 Q_
-        p: Polarisationsladung\\
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-./ExPhy 2 Kap 14.tex:888: Missing $ inserted.
-<inserted text> 
-                $
-l.888 $F=K\cdot
-                x \implies E=\frac{F}{q}=\frac{K}{q}\cdot x \implies x=\frac...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+Underfull \hbox (badness 10000) in paragraph at lines 883--884
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 885--886
+
+ []
+
+
+Overfull \hbox (1.95715pt too wide) in paragraph at lines 887--889
+[]\T1/txr/m/n/10.95 (Dieses Ergeb-nis gilt auch für an-dere Feld-verteilun-gen, nicht nur im Plat-tenkon-
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 887--889
@@ -2420,1193 +2286,219 @@ Underfull \hbox (badness 10000) in paragraph at lines 890--891
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 892--893
+Underfull \hbox (badness 10000) in paragraph at lines 891--892
 
  []
 
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
 
-
-./ExPhy 2 Kap 14.tex:897: Package amsmath Error: \vec allowed only in math mode.
-
-See the amsmath package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.897 \end{align*}
-                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./ExPhy 2 Kap 14.tex:897: Missing { inserted.
-<inserted text> 
-                {
-l.897 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:897: Extra }, or forgotten $.
-<recently read> }
-                 
-l.897 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:897: Missing $ inserted.
-<inserted text> 
-                $
-l.897 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Missing { inserted.
-<inserted text> 
-                {
-l.897 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:897: Extra }, or forgotten $.
-<recently read> }
-                 
-l.897 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:897: Missing $ inserted.
-<inserted text> 
-                $
-l.897 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Missing { inserted.
-<inserted text> 
-                {
-l.897 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:897: Extra }, or forgotten $.
-<recently read> }
-                 
-l.897 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:897: Missing $ inserted.
-<inserted text> 
-                $
-l.897 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Missing { inserted.
-<inserted text> 
-                {
-l.897 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:897: Extra }, or forgotten $.
-<recently read> }
-                 
-l.897 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:897: Missing $ inserted.
-<inserted text> 
-                $
-l.897 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-./ExPhy 2 Kap 14.tex:897: Package amsmath Error: \vec allowed only in math mode.
-
-See the amsmath package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.897 \end{align*}
-                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./ExPhy 2 Kap 14.tex:897: Missing { inserted.
-<inserted text> 
-                {
-l.897 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:897: Extra }, or forgotten $.
-<recently read> }
-                 
-l.897 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:897: Missing $ inserted.
-<inserted text> 
-                $
-l.897 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Extra }, or forgotten $.
-<recently read> }
-                 
-l.897 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:897: Missing $ inserted.
-<inserted text> 
-                $
-l.897 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:897: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Misplaced \omit.
-\math@cr@@@ ...@ \@ne \add@amps \maxfields@ \omit 
-                                                  \kern -\alignsep@ \iftag@ ...
-l.897 \end{align*}
-                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-./ExPhy 2 Kap 14.tex:897: Missing { inserted.
-<inserted text> 
-                {
-l.897 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Missing { inserted.
-<inserted text> 
-                {
-l.897 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:897: Extra }, or forgotten $.
-<recently read> }
-                 
-l.897 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:897: Missing $ inserted.
-<inserted text> 
-                $
-l.897 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Extra }, or forgotten $.
-<recently read> }
-                 
-l.897 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:897: Missing $ inserted.
-<inserted text> 
-                $
-l.897 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:897: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Missing } inserted.
-<inserted text> 
-                }
-l.897 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:897: Misplaced \omit.
-\math@cr@@@ ...@ \@ne \add@amps \maxfields@ \omit 
-                                                  \kern -\alignsep@ \iftag@ ...
-l.897 \end{align*}
-                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-./ExPhy 2 Kap 14.tex:897: Missing { inserted.
-<inserted text> 
-                {
-l.897 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:899: Missing $ inserted.
-<inserted text> 
-                $
-l.899 \chi
-          _e: elektrische SuszeptibilitÃ¤t: $\underline{\chi_e=\epsilon-1}$\\
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \" invalid in math mode on input line 899.
-
-Missing character: There is no ä in font txr!
-./ExPhy 2 Kap 14.tex:899: Missing $ inserted.
-<inserted text> 
-                $
-l.899 ...ibilitÃ¤t: $\underline{\chi_e=\epsilon-1}
-                                                  $\\
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:899: Extra }, or forgotten $.
-\underline ... {#1}\else $\@@underline {\hbox {#1}
-                                                  }\m@th $\relax \fi 
-l.899 ...ibilitÃ¤t: $\underline{\chi_e=\epsilon-1}
-                                                  $\\
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:899: Extra }, or forgotten $.
-\underline ...{#1}\else $\@@underline {\hbox {#1}}
-                                                  \m@th $\relax \fi 
-l.899 ...ibilitÃ¤t: $\underline{\chi_e=\epsilon-1}
-                                                  $\\
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:900: Missing $ inserted.
-<inserted text> 
-                $
-l.900 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:900: Missing } inserted.
-<inserted text> 
-                }
-l.900 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:901: Missing $ inserted.
-<inserted text> 
-                $
-l.901 \paragraph
-                {Orientierungspolarisation}\\
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:901: Missing } inserted.
-<inserted text> 
-                }
-l.901 \paragraph
-                {Orientierungspolarisation}\\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:901: Missing } inserted.
-<inserted text> 
-                }
-l.901 \paragraph
-                {Orientierungspolarisation}\\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:901: Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.901 \paragraph
-                {Orientierungspolarisation}\\
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-./ExPhy 2 Kap 14.tex:902: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.902 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[36]
-
-./ExPhy 2 Kap 14.tex:909: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.909 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-./ExPhy 2 Kap 14.tex:913: Package amsmath Error: \vec allowed only in math mode.
-
-See the amsmath package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.913 \end{align*}
-                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./ExPhy 2 Kap 14.tex:913: Missing $ inserted.
-<inserted text> 
-                $
-l.913 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:913: Missing { inserted.
-<inserted text> 
-                {
-l.913 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Missing { inserted.
-<inserted text> 
-                {
-l.913 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:913: Extra }, or forgotten $.
-<recently read> }
-                 
-l.913 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:913: Missing $ inserted.
-<inserted text> 
-                $
-l.913 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Missing { inserted.
-<inserted text> 
-                {
-l.913 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:913: Extra }, or forgotten $.
-<recently read> }
-                 
-l.913 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:913: Missing $ inserted.
-<inserted text> 
-                $
-l.913 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Missing { inserted.
-<inserted text> 
-                {
-l.913 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:913: Extra }, or forgotten $.
-<recently read> }
-                 
-l.913 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:913: Missing $ inserted.
-<inserted text> 
-                $
-l.913 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-./ExPhy 2 Kap 14.tex:913: Package amsmath Error: \vec allowed only in math mode.
-
-See the amsmath package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.913 \end{align*}
-                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./ExPhy 2 Kap 14.tex:913: Missing $ inserted.
-<inserted text> 
-                $
-l.913 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:913: Missing { inserted.
-<inserted text> 
-                {
-l.913 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Extra }, or forgotten $.
-<recently read> }
-                 
-l.913 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:913: Missing $ inserted.
-<inserted text> 
-                $
-l.913 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:913: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Misplaced \omit.
-\math@cr@@@ ...@ \@ne \add@amps \maxfields@ \omit 
-                                                  \kern -\alignsep@ \iftag@ ...
-l.913 \end{align*}
-                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-./ExPhy 2 Kap 14.tex:913: Missing { inserted.
-<inserted text> 
-                {
-l.913 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Missing { inserted.
-<inserted text> 
-                {
-l.913 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-./ExPhy 2 Kap 14.tex:913: Extra }, or forgotten $.
-<recently read> }
-                 
-l.913 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:913: Missing $ inserted.
-<inserted text> 
-                $
-l.913 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Extra }, or forgotten $.
-<recently read> }
-                 
-l.913 \end{align*}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-./ExPhy 2 Kap 14.tex:913: Missing $ inserted.
-<inserted text> 
-                $
-l.913 \end{align*}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:913: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Missing } inserted.
-<inserted text> 
-                }
-l.913 \end{align*}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./ExPhy 2 Kap 14.tex:913: Misplaced \omit.
-\math@cr@@@ ...@ \@ne \add@amps \maxfields@ \omit 
-                                                  \kern -\alignsep@ \iftag@ ...
-l.913 \end{align*}
-                  
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-./ExPhy 2 Kap 14.tex:913: Missing { inserted.
-<inserted text> 
-                {
-l.913 \end{align*}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 915--916
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 917--921
-
- []
-
-./ExPhy 2 Kap 14.tex:926: Missing $ inserted.
-<inserted text> 
-                $
-l.926 Verschaltung mehrer KapazitÃ¤ten C_
-                                         i.\\
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \ss invalid in math mode on input line 927.
-
-
-LaTeX Warning: Command \" invalid in math mode on input line 927.
-
-./ExPhy 2 Kap 14.tex:928: Missing $ inserted.
-<inserted text> 
-                $
-l.928 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./ExPhy 2 Kap 14.tex:928: Missing } inserted.
-<inserted text> 
-                }
-l.928 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-Missing character: There is no ÿ in font txr!
-Missing character: There is no ä in font txr!
-./ExPhy 2 Kap 14.tex:928: Extra }, or forgotten \endgroup.
-\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.928 
-      
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-./ExPhy 2 Kap 14.tex:930: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.930 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 931--932
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 939--940
+Underfull \hbox (badness 10000) in paragraph at lines 894--898
 
  []
 
 [37]
-Underfull \hbox (badness 10000) in paragraph at lines 941--942
+Underfull \hbox (badness 10000) in paragraph at lines 899--900
 
  []
 
 
-Overfull \hbox (10.04369pt too wide) in paragraph at lines 943--945
-[]\T1/txr/m/n/10.95 Anschauung: Nur die äuÿeren Plat-ten wer-den durch Verbindung unt Span-nungsquelle
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 943--945
+Underfull \hbox (badness 10000) in paragraph at lines 902--905
 
  []
 
+<skizzen/14/14_8B8.png, id=446, 166.6225pt x 87.32625pt>
+File: skizzen/14/14_8B8.png Graphic file (type png)
+ <use skizzen/14/14_8B8.png>
+Package pdftex.def Info: skizzen/14/14_8B8.png used on input line 908.
+(pdftex.def)             Requested size: 166.62209pt x 87.32603pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 946--948
+Underfull \hbox (badness 10000) in paragraph at lines 907--912
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 917--918
+
+ []
+
+
+./ExPhy 2 Kap 14.tex:922: Package inputenc Error: Unicode char \u8:âŒ€ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.922 U=2000V; d=10mm; âŒ€
+                          =30cm \implies A=0,071m^2\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 924.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--926
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 927--928
+
+ []
+
+[38 <./skizzen/14/14_8B8.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 929--930
+
+ []
+
+<skizzen/14/14_9B0.png, id=453, 459.1554pt x 210.5466pt>
+File: skizzen/14/14_9B0.png Graphic file (type png)
+ <use skizzen/14/14_9B0.png>
+Package pdftex.def Info: skizzen/14/14_9B0.png used on input line 945.
+(pdftex.def)             Requested size: 251.9989pt x 115.55682pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 949--950
 
  []
 
-./ExPhy 2 Kap 14.tex:952: Missing $ inserted.
-<inserted text> 
-                $
-l.952 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-./ExPhy 2 Kap 14.tex:952: Missing } inserted.
-<inserted text> 
-                }
-l.952 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+Underfull \hbox (badness 10000) in paragraph at lines 951--952
 
-./ExPhy 2 Kap 14.tex:952: Extra }, or forgotten \endgroup.
-\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.952 
-      
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+ []
 
 
-./ExPhy 2 Kap 14.tex:959: LaTeX Error: \begin{itemize} on input line 863 ended by \end{document}.
+Underfull \hbox (badness 10000) in paragraph at lines 953--954
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.959 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+ []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 959.
-[38]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 959.
+
+Underfull \hbox (badness 10000) in paragraph at lines 959--960
+
+ []
+
+<skizzen/14/14_9B1.png, id=454, 145.5036pt x 222.5916pt>
+File: skizzen/14/14_9B1.png Graphic file (type png)
+ <use skizzen/14/14_9B1.png>
+Package pdftex.def Info: skizzen/14/14_9B1.png used on input line 961.
+(pdftex.def)             Requested size: 108.0011pt x 165.22127pt.
+ [39 <./skizzen/14/14_9B0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 964--966
+
+ []
+
+<skizzen/14/14_9B2.png, id=462, 213.4374pt x 101.178pt>
+File: skizzen/14/14_9B2.png Graphic file (type png)
+ <use skizzen/14/14_9B2.png>
+Package pdftex.def Info: skizzen/14/14_9B2.png used on input line 971.
+(pdftex.def)             Requested size: 180.0pt x 85.33319pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--977
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 978--979
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 980--981
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 987--988
+
+ []
+
+[40 <./skizzen/14/14_9B1.png> <./skizzen/14/14_9B2.png>] <skizzen/14/14_9B3.png, id=470, 359.4228pt x 81.906pt>
+File: skizzen/14/14_9B3.png Graphic file (type png)
+ <use skizzen/14/14_9B3.png>
+Package pdftex.def Info: skizzen/14/14_9B3.png used on input line 994.
+(pdftex.def)             Requested size: 199.57698pt x 45.4796pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1007--1008
+
+ []
+
+<skizzen/14/14_9B4.png, id=471, 131.0496pt x 182.1204pt>
+File: skizzen/14/14_9B4.png Graphic file (type png)
+ <use skizzen/14/14_9B4.png>
+Package pdftex.def Info: skizzen/14/14_9B4.png used on input line 1010.
+(pdftex.def)             Requested size: 71.9989pt x 100.05814pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1014--1018
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1025
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1029
+
+ []
+
+[41 <./skizzen/14/14_9B3.png> <./skizzen/14/14_9B4.png>] <skizzen/14/14_9B5.png, id=480, 251.9814pt x 140.6856pt>
+File: skizzen/14/14_9B5.png Graphic file (type png)
+ <use skizzen/14/14_9B5.png>
+Package pdftex.def Info: skizzen/14/14_9B5.png used on input line 1031.
+(pdftex.def)             Requested size: 216.0022pt x 120.60298pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1042
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1044
+
+ []
+
+<skizzen/14/14_9B6.png, id=481, 251.9814pt x 124.7862pt>
+File: skizzen/14/14_9B6.png Graphic file (type png)
+ <use skizzen/14/14_9B6.png>
+Package pdftex.def Info: skizzen/14/14_9B6.png used on input line 1046.
+(pdftex.def)             Requested size: 216.0022pt x 106.97319pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1052
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1053--1055
+
+ []
+
+[42 <./skizzen/14/14_9B5.png> <./skizzen/14/14_9B6.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1056--1057
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1060.
+[43]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1060.
  (/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/ExPhy 2 Kap 14.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 959.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 959.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1060.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1060.
 Package rerunfilecheck Info: File `"ExPhy 2 Kap 14".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 959.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 863 (\begingroup)
-### bottom level 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1060.
+ ) 
 Here is how much of TeX's memory you used:
- 16693 strings out of 493089
- 318665 string characters out of 6134843
+ 16735 strings out of 493089
+ 319503 string characters out of 6134843
  337370 words of memory out of 5000000
- 19818 multiletter control sequences out of 15000+600000
+ 19846 multiletter control sequences out of 15000+600000
  57713 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,17n,39p,10383b,877s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,17n,39p,10383b,808s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/matha10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/matha6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/matha8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathabx-type1/mathx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/ExPhy 2 Kap 14.pdf" (38 pages, 592900 bytes).
+Output written on "/Users/johannesbilk/Documents/ExPhy2Skript/tex_pdf_working_directory/.texpadtmp/ExPhy 2 Kap 14.pdf" (43 pages, 621350 bytes).
 PDF statistics:
- 529 PDF objects out of 1000 (max. 8388607)
- 398 compressed objects within 4 object streams
- 110 named destinations out of 1000 (max. 500000)
- 450 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 568 PDF objects out of 1000 (max. 8388607)
+ 417 compressed objects within 5 object streams
+ 117 named destinations out of 1000 (max. 500000)
+ 485 words of extra memory for PDF output out of 10000 (max. 10000000)
 
