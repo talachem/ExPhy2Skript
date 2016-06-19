@@ -1,1 +1,35 @@
 \subsection{Die Wellengleichung}
+
+Erinnerung: Schwingungsgleichung: $ \ddot{\Psi} + \omega^2 \cdot \Psi = 0 $ \\
+Lösung: Harmonische Schwingung: $  \Psi = \Psi_0 \cdot \sin(\omega t) $ \\
+Wellen: Periodisch /bisher: auch harmonisch) in Ort und Zeit \\
+\indent $ \Rightarrow $  Vermutung: Wellengleichung muss 2. Ableitung enthalten\\
+Ansatz für $ \Psi $: $ \Psi(x,t) = \Psi_0 \cdot f(Kx-\omega t) $\\
+$ f $ ist beliebig (aber periodische) Funktion der Phase $ \varphi $\\
+$$ \frac{\partial\varphi}{\partial x} = K \hspace{5mm};\hspace{5mm} \frac{\partial\varphi}{\partial t} = -\omega$$
+2. Ableitung berechnen:\\
+Ort:
+\begin{align*}
+\frac{\partial\Psi}{\partial x} &= \Psi_0 \cdot \frac{\partial f}{\partial \varphi} \cdot \frac{\partial\varphi}{\partial x} && \text{(Kettenregel)} \\
+&= \Psi_0 \cdot K \cdot \frac{\partial f}{\partial \varphi} \\
+\hfill \\
+\frac{\partial^2 \Psi}{\partial x^2} &= \Psi_0 \cdot K \cdot \frac{\partial^2 f}{\partial \varphi^2} \cdot \frac{\partial\varphi}{\partial x} = \Psi_0 \cdot K^2 \cdot \frac{\partial^2 f}{\partial \varphi^2}\\
+&\Leftrightarrow {\color{CadetBlue}\underline{\Psi_0 \cdot \frac{\partial^2 f}{\partial \varphi^2} = K^{-2} \cdot \frac{\partial^2\Psi}{\partial x^2}}}
+\end{align*}
+Zeit:
+\begin{align*}
+\frac{\partial\Psi}{\partial t} &= \Psi_0 \cdot \frac{\partial f}{\partial\varphi} \frac{\partial\varphi}{\partial t} = -\omega \cdot \Psi_0 \frac{\partial f}{\partial\varphi}\\
+\frac{\partial^2\Phi}{\partial t^2} &= \omega^2\cdot\Psi_0\cdot\frac{\partial^2f}{\partial \varphi^2} \Rightarrow {\color{CadetBlue}\underline{\Psi_0\cdot\frac{\partial^2 f}{\partial \varphi^2} = \omega^{-2} \cdot \frac{\partial^2\Psi}{\partial t^2}}}\\
+\hfill \\
+\Rightarrow &K^{-2} \cdot \frac{\partial^2\Psi}{\partial x^2} = \omega^{-2} \cdot \frac{\partial^2\Psi}{\partial t^2}\\
+&\underline{\underline{\frac{\omega^2}{K^2} \cdot \frac{\partial^2\Psi}{\partial x^2} = \frac{\partial^2\Psi}{\partial t^2}}} &&\text{2. Ableitung nach Ort und Zeit verknüpft!!}
+\end{align*}
+
+mit $ v_{Ph} = \frac{\omega}{K} \hspace{5mm} \boxed{v^2_{Ph} \cdot \frac{\partial^2\Psi}{\partial x^2} = \frac{\partial^2\Psi}{\partial t^2}} $ ist die Wellengleichung in 1 Dimension! \\
+
+$ f (x-v_{Ph} \cdot t) $ ist Lösung und beschreibt Ausbreitung in positiver x-Richtung!\\
+Dann ist auch $ g(x+v_{Ph} \cdot t) $ Lösung, Ausbreitung in negativer x-Richtung!\\
+\break
+$ \Rightarrow $ Allgemeine Lösung der Wellengleichung:
+$$ \Psi(x,t) = f(x-v\cdot t) + g(x+v\cdot t) $$
+\bild
