@@ -1,0 +1,46 @@
+\documentclass[11pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{amssymb,amsmath,amsthm,mathtools,mathabx,hyperref,txfonts,siunitx,booktabs,fontspec}
+
+
+\hypersetup
+	{ 
+		colorlinks=true,       % false: boxed links; true: colored links
+		linkcolor=blue,          % color of internal links (change box color with linkbordercolor)
+		citecolor=green,        % color of links to bibliography
+		filecolor=magenta,      % color of file links
+		urlcolor=cyan,           % color of external links
+		linkbordercolor	= {1 0 0},
+		citebordercolor	= {0 1 0},	
+		urlbordercolor	= {0 1 1}
+	}
+
+\newcommand{\definition}{\\ \textbf{Definition:} \hspace{1cm} }
+
+\newcommand*{\QEDA}{\hfill\ensuremath{\blacksquare}}%
+\newcommand*{\QEDB}{\hfill\ensuremath{\square}}%
+\newcommand*{\ds}[1]{{\displaystyle #1}}
+\newcommand*{\bild}{\begin{center} \textbf{BILD fehlt hier noch} \end{center}}
+
+\begin{document}
+	\title{Experimental Physik II Kapitel 19}
+		\author
+			{
+				author\\
+				{\small 	\texttt{email}}
+			}
+		\date{\today}
+	\maketitle
+	\tableofcontents
+	\setcounter{section}{18} %Hier fängt die Nummerierung an.
+	\newpage
+	
+	\section{Wellen}
+	
+	\include{Kap_19_0}
+	\include{Kap_19_1}
+	\include{Kap_19_2}
+\end{document}
