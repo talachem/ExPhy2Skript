@@ -1,0 +1,102 @@
+\subsection{Wellenpakete und Synthese/Analyse nicht harmonischer Wellen} \hfill \\
+Eine streng monochromatische ($ \omega=\omega_0 $, harmonisch) Welle ist zeitlich und räumlich unendlich ausgedehnt! Alle nicht-harmonischen Wellen sind als Überlagerung harmonischer Wellen darstellbar. \\
+Schwingungsanteil: $ \underset{\text{\underline{Fourier-Zerlegung}}}{\boxed{\Psi(t) = a_0 + \sum_{n=1}^{\infty} a_n \cdot \cos(n\cdot\omega_1\cdot t + \varphi_n)}} $ \\
+Auch für Wellenzüge möglich!
+\bild
+\bild
+\bild
+\begin{itemize}
+	\item Darstellung ist immer durch Überlagerung der Grundwelle mit harmonischen Oberwellen möglich.
+	\item Amplituden nehmen mit wachsender Frequenz ab!
+	\item Obertonspektrum ($ a_n $ von $ \omega_n = b\cdot \omega_1 $) ist charakteristisch für den individuellen Klang der Stimme! Es hängt von der Beschaffenheit des "Klangkörpers" ab!
+\end{itemize}
+Überlagerung von Wellen mit ähnlichem $ K,\omega $ bei gleicher Ausbreitungsrichtung und Amplitude.\\
+\rule{5cm}{.2pt}\\
+\bild
+\begin{align*}
+\Psi(x,t) = \Psi_0 &\left[ \underbrace{\sin(Kx-\omega t) }_{\text{1. Welle}}+ \underbrace{\sin\left( (K+\Delta K)x-(\omega+\Delta\omega)t\right) }_{\text{2. Welle}} \right]\\
+\sin\alpha+&\sin\beta = 2\cdot\cos\frac{(\alpha-\beta)}{2} \cdot \sin\frac{(\alpha+\beta)}{2}\\
+\alpha &=(K+\Delta K)x-(\omega+\Delta\omega) \cdot t\\
+\beta &= Kx-\omega t\\
+\text{Näherung:}& \frac{\omega + (\omega + \Delta\omega)}{2} \approx \omega \hspace{3mm} ,\hspace{3mm} K+...\\
+\Psi(x,t) = 2 \Psi_0 & \cdot \underbrace{\cos(\frac{1}{2}(\Delta K \cdot x - \Delta\omega\cdot t) )}_{\text{Modulation der Amplitude}} \cdot \underbrace{\sin(Kx-\omega t)}_{\text{Welle}}
+\end{align*}
+\bild
+\subsubsection{Gruppengeschwindigkeit}
+Wie schnell bewegt sich die cos-Modulation (Einhüllende) im Raum?\\
+Amplitudenfaktor; $ 2 \cdot \Psi_0 \cdot \cos(\frac{1}{2}(\Delta K \cdot x - \Delta\omega \cdot t)) = const.$\\
+(bedenke: feste Phase der Einhüllenden!)\\
+\begin{align*}
+\Delta K \cdot - \Delta\omega\cdot t &= 0\\
+\overset{\Delta\omega\rightarrow 0}{\Rightarrow} x &= \frac{d\omega}{dK} \cdot t\\
+&= v_{Gr} \cdot t
+\end{align*}
+Ausbreitung der Modulation (oder Wellengruppe) mit $ v_{Gr} = \frac{d\omega}{dK} $\\
+$$ \underline{v_{Gr} \text{ Gruppengeschwindigkeit}} $$
+Mit $ v_{Gr} $ breiten sich Informationen (Signale) aus!
+\subsubsection{Phasen- vs Gruppengeschwindigkeit}
+\begin{align*}
+v_{Gr} = \frac{d\omega}{dK} &= \frac{d}{dK} (v_{Ph} \cdot K) &&K=\frac{2\pi}{\lambda} \hspace{3mm};\hspace{3mm}\lambda=\frac{2\pi}{K}\\
+&=v_{Ph} + K \cdot \frac{dv_{Ph}}{dK} &&\frac{d\lambda}{dK} = - \frac{2\pi}{K^2}\\
+\left( \frac{dv_{Ph}}{dK} = \frac{dv{Ph}}{d\lambda} \cdot \frac{d\lambda}{dK}  \right) \\
+v_{Gr} &= v_{Ph} -  \frac{2\pi}{K} \cdot \frac{ dv_{Ph} }{d\lambda} \\
+&\boxed{v_{Gr} = v_{Ph} - \lambda \cdot \frac{ dv_{Ph} }{d\lambda} }
+\end{align*}
+$ v_{Gr}  = v _{Ph} $ wenn $ v_{Ph} $ unabhängig von $ k $ , $ \lambda $\\
+wenn $ v_{Ph} \neq v_{Ph}(\lambda) $ : Alle Fourier-Komponenten breiten sich mit gleicher Geschwindigkeit aus! Dann heißt die Welle "dispersionsfrei"!\\
+Sonst: $ v_{Gr} \neq v_{Ph} $ , dann: Wellenpaket läuft auseinander! \underline{($ \Rightarrow $ Dispersion)}\\
+\hfill \\
+Experiment: Wasserwellen sind dispersionsfrei!
+\bild
+Beispiele\\
+Seilwellen
+\bild
+Seil erfährt Spannung: $ \underset{\text{Seilspannung}}{\tau} = \frac{\overset{\text{Kraft}}{F_0}}{\underset{\varnothing \text{-Fläche}}{A}} $\\
+Auslenkung in \emph{y}-Richtung: Rückstellkraft\\
+Wellen in \emph{x}-Richtung: Transversalwelle\\
+\begin{align*}
+F_2 &= \tau\cdot A \cdot\sin\alpha_2 &&\alpha_1>\alpha_2\\
+F_1 &= \tau\cdot A \cdot\sin\alpha_1
+\end{align*}
+Wenn betrachtetes Element klein ist, dann:
+\begin{align*}
+F_y &= F_1 - F_2 \hspace{5mm} \text{(nach einsetzen!)}\\
+&= \tau \cdot A \cdot (\sin\alpha_1 - \sin\alpha_2)\\
+&\approx\tau \cdot A \cdot ( \alpha_1 - \alpha_2) = \tau \cdot A \cdot \Delta\alpha
+\end{align*}
+$ \Rightarrow \Delta M $ wird beschleunigt: $  \Delta M = \Delta x \cdot A \cdot \underset{Massendichte}{\rho} $  (im GG)\\
+\begin{math}
+F_y = \Delta M \cdot \frac{d^2y}{dt^2} = \rho \cdot \cancel{A} \cdot \Delta x \cdot \frac{d^2y}{dt^2} = \tau \cdot \cancel{A} \cdot \Delta\alpha\\
+\Leftrightarrow \tau\cdot\frac{\Delta\alpha}{\Delta x} = \rho \cdot \frac{d^2y}{dt^2}\\
+\alpha = \frac{dy}{dx} \Rightarrow \frac{d\alpha}{dx} = \frac{d^2y}{dx^2} \hspace{5mm} \text{für } \Delta x \rightarrow 0\\
+\Rightarrow \tau \cdot \frac{d^2y}{dx^2} = \rho \cdot \frac{d^2y}{dt^2}\\
+\text{Wellengleichung } \boxed{\frac{\tau}{\rho} \cdot \frac{d^2y}{dx^2} = \frac{d^2y}{dt^2} }\\
+v^2_{Ph} \cdot \frac{d^2\Psi}{dx^2} = \frac{d^2\Psi}{dt^2}\\
+\Rightarrow v_{Ph} = \underline{\sqrt{\frac{\tau}{\rho}}} = \sqrt{\frac{\tau \cdot A}{\rho \cdot A}} = \sqrt{\frac{F}{\underset{\text{lineare Massendichte}}{\mu}}}\\
+v_{Ph} = \frac{\omega}{K} \Rightarrow \omega = \sqrt{\frac{\tau}{\rho}} \cdot K\\
+\end{math}
+\bild
+\underline{Keine Dispersion!}\\
+\hfill \\
+Beidseitig eingespannte Seite
+\bild
+Lösung der Wellengleichung: Stehende Welle\\
+\begin{align*}
+\Psi = \Psi_0 & \cdot \sin Kx \cdot \cos \omega t\\
+\underset{\text{Knoten}}{\Psi = 0} \text{ :} \hspace{5mm} y=0\hspace{2mm};\hspace{2mm}&\underset{\text{2. RB}}{x=L} \text{ für alle } t\\
+\Rightarrow K \cdot L = &n \cdot \pi\\
+\Rightarrow \underline{\underline{\lambda_n = \frac{2}{n} \cdot L}}
+\end{align*}
+Dies definiert die Schwingungsmoden der Seite\\
+$$ 2\pi\nu_n $$
+Dispersion: $ \omega_n = \sqrt{\frac{\tau}{\rho}} \cdot K_n = = \sqrt{\frac{\tau}{\rho}} \cdot \frac{2\pi}{\lambda_n} $
+$$ \Rightarrow \underline{\underline{\nu_n = \sqrt{\frac{\tau}{\rho}} \cdot \lambda_n^{-1} = \frac{n}{2L} \cdot \sqrt{\frac{\tau}{\rho} } } } $$
+Saiteninstrument:
+\begin{itemize}
+	\item $ \lambda $ durch Geometrie bestimmt
+	\item zugehörige Frequenz durch Spannung eingestellt!
+\end{itemize}
+$ \Rightarrow $ Umwandlung von stehender Welle in Schallwelle\\
+Klang: Obertöne gleichzeitig angeregt; Superposition von Grund- und Oberschwingung
+$$ \Psi(x,t) = \sum_{i=1}^{\infty} \Psi_{0,n} \sin(K_nx) \cdot \cos(\omega_nt) $$
+$$ \Rightarrow \underline{v_S = \frac{d\omega}{dK} = \sqrt{\frac{\tau}{\rho}} = v_{Ph}} $$
