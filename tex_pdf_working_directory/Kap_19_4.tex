@@ -1,102 +1,131 @@
-\subsection{Wellenpakete und Synthese/Analyse nicht harmonischer Wellen} \hfill \\
-Eine streng monochromatische ($ \omega=\omega_0 $, harmonisch) Welle ist zeitlich und räumlich unendlich ausgedehnt! Alle nicht-harmonischen Wellen sind als Überlagerung harmonischer Wellen darstellbar. \\
-Schwingungsanteil: $ \underset{\text{\underline{Fourier-Zerlegung}}}{\boxed{\Psi(t) = a_0 + \sum_{n=1}^{\infty} a_n \cdot \cos(n\cdot\omega_1\cdot t + \varphi_n)}} $ \\
-Auch für Wellenzüge möglich!
-\bild
-\bild
-\bild
+\subsection{Schallwellen} (auch noch ein Beispiel)
+Schallwellen: in Gasen:
 \begin{itemize}
-	\item Darstellung ist immer durch Überlagerung der Grundwelle mit harmonischen Oberwellen möglich.
-	\item Amplituden nehmen mit wachsender Frequenz ab!
-	\item Obertonspektrum ($ a_n $ von $ \omega_n = b\cdot \omega_1 $) ist charakteristisch für den individuellen Klang der Stimme! Es hängt von der Beschaffenheit des "Klangkörpers" ab!
+	\item Druck- und Dichtewellen
+	\item Longitudinalwellen
 \end{itemize}
-Überlagerung von Wellen mit ähnlichem $ K,\omega $ bei gleicher Ausbreitungsrichtung und Amplitude.\\
-\rule{5cm}{.2pt}\\
+In Gasen und idealen Flüssigkeiten $ \nexists $ Scherkräfte, d.h. keine Kräfte $ \perp $ Bewegungsrichtung!\\
+"Momentanaufnahme" einer Druckwelle:
 \bild
-\begin{align*}
-\Psi(x,t) = \Psi_0 &\left[ \underbrace{\sin(Kx-\omega t) }_{\text{1. Welle}}+ \underbrace{\sin\left( (K+\Delta K)x-(\omega+\Delta\omega)t\right) }_{\text{2. Welle}} \right]\\
-\sin\alpha+&\sin\beta = 2\cdot\cos\frac{(\alpha-\beta)}{2} \cdot \sin\frac{(\alpha+\beta)}{2}\\
-\alpha &=(K+\Delta K)x-(\omega+\Delta\omega) \cdot t\\
-\beta &= Kx-\omega t\\
-\text{Näherung:}& \frac{\omega + (\omega + \Delta\omega)}{2} \approx \omega \hspace{3mm} ,\hspace{3mm} K+...\\
-\Psi(x,t) = 2 \Psi_0 & \cdot \underbrace{\cos(\frac{1}{2}(\Delta K \cdot x - \Delta\omega\cdot t) )}_{\text{Modulation der Amplitude}} \cdot \underbrace{\sin(Kx-\omega t)}_{\text{Welle}}
-\end{align*}
+Schwingungsknoten $ \hat{=} $ Druckband\\
+Erinnerung: "Flammrohr", letzte L vor X-Mas 2015\\
+Beispiel für stehende Schallwelle: Schwingungen der Luftsäule (z.B. Orgelpfeifen)
 \bild
-\subsubsection{Gruppengeschwindigkeit}
-Wie schnell bewegt sich die cos-Modulation (Einhüllende) im Raum?\\
-Amplitudenfaktor; $ 2 \cdot \Psi_0 \cdot \cos(\frac{1}{2}(\Delta K \cdot x - \Delta\omega \cdot t)) = const.$\\
-(bedenke: feste Phase der Einhüllenden!)\\
+Was bestimmt $ v_{Ph} $ von Schallwellen?\\
+$ \Rightarrow $ Rücktreibende Kraft bei Druckschwankungen?\\
+Seilwelle: $ \frac{\pi}{\rho} \Rightarrow \frac{d\overset{\text{Druck}}{p}}{d\rho}=v^2_{Ph}$\\
+Bei adiabatischer Druckänderung  (kein Wärmeausgleich, schnell) folgt:\\
+$$ \frac{dp}{d\rho} = \kappa \cdot \frac{K_B \cdot T}{m} \Rightarrow \boxed{v_{Ph} = \sqrt{\kappa\cdot\frac{K_BT}{m}}}$$\\
+$ \Rightarrow $ Schallwellen sind dispersionsfrei (zum Glück)
+$$ \omega = \v_{Ph} \cdot \kappa = \sqrt{\kappa\cdot\frac{K_BT}{m}} \cdot K $$
+$ v_{Ph} = v_{Ph}(\kappa,T,m) $\\
+Erinnerung: $ \kappa = 1 + \frac{2}{f} $ \hspace{5mm} $ f $: $ \# $ Freiheitsgrade des Moleküls\\
+\enter
+$ v_{Ph} $ @ 273K:\\
 \begin{align*}
-\Delta K \cdot - \Delta\omega\cdot t &= 0\\
-\overset{\Delta\omega\rightarrow 0}{\Rightarrow} x &= \frac{d\omega}{dK} \cdot t\\
-&= v_{Gr} \cdot t
+\text{Luft: } &N_2 \hspace{3mm}; m=28u; 2\text{-atomig}; f=5; \kappa = \frac{7}{5} \Rightarrow v_{Ph}=\SI{331}{\meter\per\second}\\
+&H_2 \hspace{3mm}; m=2u; 2\text{-atomig}; f=5; \kappa = \frac{7}{5} \Rightarrow v_{Ph}=\SI{1240}{\meter\per\second} \\
+\text{Helium: } &He \hspace{3mm}; m=4u; 1\text{-atomig}; f=3; \kappa = \frac{5}{3} \Rightarrow v_{Ph}=\SI{1007}{\meter\per\second}\\
+&\omega= v_{Ph} \cdot K \Rightarrow \nu = \frac{v_{Ph}}{\lambda}
 \end{align*}
-Ausbreitung der Modulation (oder Wellengruppe) mit $ v_{Gr} = \frac{d\omega}{dK} $\\
-$$ \underline{v_{Gr} \text{ Gruppengeschwindigkeit}} $$
-Mit $ v_{Gr} $ breiten sich Informationen (Signale) aus!
-\subsubsection{Phasen- vs Gruppengeschwindigkeit}
+Bei gleicher Geometrie (z.B. eines Resonators) ändert sich $ \nu $ bei Austausch des Gases: (Luft $ \rightarrow $ He : $ \nu \rightarrow \approx 3 \cdot \nu$)\\
+\subsubsection{Experiment: Helium-stimme}\enter
+Beachte: $ \nu = \frac{v_{Ph}(\sqrt{T})}{\lambda} $ : Temperatureinfluss auf "Stimmung" von Instrumenten \\
+Vergleiche: $ \v_{Ph} $ und thermische Geschwindigkeit $ v_{th} $\\
 \begin{align*}
-v_{Gr} = \frac{d\omega}{dK} &= \frac{d}{dK} (v_{Ph} \cdot K) &&K=\frac{2\pi}{\lambda} \hspace{3mm};\hspace{3mm}\lambda=\frac{2\pi}{K}\\
-&=v_{Ph} + K \cdot \frac{dv_{Ph}}{dK} &&\frac{d\lambda}{dK} = - \frac{2\pi}{K^2}\\
-\left( \frac{dv_{Ph}}{dK} = \frac{dv{Ph}}{d\lambda} \cdot \frac{d\lambda}{dK}  \right) \\
-v_{Gr} &= v_{Ph} -  \frac{2\pi}{K} \cdot \frac{ dv_{Ph} }{d\lambda} \\
-&\boxed{v_{Gr} = v_{Ph} - \lambda \cdot \frac{ dv_{Ph} }{d\lambda} }
+&v_{Ph} = \sqrt{\kappa\frac{K_BT}{m}} &&; \sqrt{<v_{th}^2>} = \sqrt{3\frac{K}{m}}\\
+\Rightarrow &\frac{v_{th}}{v_{Ph}}=\sqrt{\frac{3}{\kappa}} &&\Rightarrow v_{th} \approx 1,3 \cdot v_{Ph} ... 1,4 \cdot v_{Ph}\\
+ v_{th}&  \text{ ist \underline{nicht }}  >>  v_{Ph} &&\Rightarrow \text{ kein schneller thermischer Ausgleich}\\
+ & &&\Rightarrow \text{ Adiabatische Näherung ok!}
 \end{align*}
-$ v_{Gr}  = v _{Ph} $ wenn $ v_{Ph} $ unabhängig von $ k $ , $ \lambda $\\
-wenn $ v_{Ph} \neq v_{Ph}(\lambda) $ : Alle Fourier-Komponenten breiten sich mit gleicher Geschwindigkeit aus! Dann heißt die Welle "dispersionsfrei"!\\
-Sonst: $ v_{Gr} \neq v_{Ph} $ , dann: Wellenpaket läuft auseinander! \underline{($ \Rightarrow $ Dispersion)}\\
-\hfill \\
-Experiment: Wasserwellen sind dispersionsfrei!
+\begin{center}
+	\rule{5cm}{.2pt}
+\end{center}
+\subsubsection{Longitudinal Schallwellen in Festkörpern}\hfill\\
+Wellengleichung: $ v_{Ph}^2 \cdot \frac{\partial^2\Psi}{\partial x^2} = \frac{\partial^2\Psi}{\partial t^2} $\\
+Seilwelle: $ v_{Ph} = \sqrt{\frac{\tau}{\rho}} $\\
+\subsubsection{Experiment: Schallwelle in Metallstab}
+\enter
 \bild
-Beispiele\\
-Seilwellen
-\bild
-Seil erfährt Spannung: $ \underset{\text{Seilspannung}}{\tau} = \frac{\overset{\text{Kraft}}{F_0}}{\underset{\varnothing \text{-Fläche}}{A}} $\\
-Auslenkung in \emph{y}-Richtung: Rückstellkraft\\
-Wellen in \emph{x}-Richtung: Transversalwelle\\
+Verformung von $ dx $ auf $ dx+x\Psi $\\
+Dehnung: $ \epsilon = \frac{d\Psi}{dx} $\\
+Verallgemeinerung Hook'sches Gesetz: $ \sigma = \frac{F}{A} = \underbracket{E}_{\mathclap{\text{Elasititätsmodul}}} \cdot \epsilon$\\
 \begin{align*}
-F_2 &= \tau\cdot A \cdot\sin\alpha_2 &&\alpha_1>\alpha_2\\
-F_1 &= \tau\cdot A \cdot\sin\alpha_1
+\rightarrow dF &= A \cdot E \cdot \frac{d\Psi}{dx}\\
+\frac{dF}{dx} &= \underline{A \cdot E \cdot \frac{d^2\Psi}{dx^2}} \hspace{2cm} \text{(*)}
 \end{align*}
-Wenn betrachtetes Element klein ist, dann:
 \begin{align*}
-F_y &= F_1 - F_2 \hspace{5mm} \text{(nach einsetzen!)}\\
-&= \tau \cdot A \cdot (\sin\alpha_1 - \sin\alpha_2)\\
-&\approx\tau \cdot A \cdot ( \alpha_1 - \alpha_2) = \tau \cdot A \cdot \Delta\alpha
+\text{Beschleunigung auf Massenelement: }  dm = \rho\cdot dV = \rho\cdot A \cdot dx \\
+dF = dm \cdot \frac{\partial^2\Psi}{\partial t^2} = \rho \cdot A \cdot dx \cdot \frac{\partial^2\Psi}{\partial t^2}\\
+\frac{dF}{dx} = \rho \cdot A \cdot \frac{\partial^2\Psi}{\partial t^2} \hspace{2cm} \text{(**)}
+\enter
 \end{align*}
-$ \Rightarrow \Delta M $ wird beschleunigt: $  \Delta M = \Delta x \cdot A \cdot \underset{Massendichte}{\rho} $  (im GG)\\
-\begin{math}
-F_y = \Delta M \cdot \frac{d^2y}{dt^2} = \rho \cdot \cancel{A} \cdot \Delta x \cdot \frac{d^2y}{dt^2} = \tau \cdot \cancel{A} \cdot \Delta\alpha\\
-\Leftrightarrow \tau\cdot\frac{\Delta\alpha}{\Delta x} = \rho \cdot \frac{d^2y}{dt^2}\\
-\alpha = \frac{dy}{dx} \Rightarrow \frac{d\alpha}{dx} = \frac{d^2y}{dx^2} \hspace{5mm} \text{für } \Delta x \rightarrow 0\\
-\Rightarrow \tau \cdot \frac{d^2y}{dx^2} = \rho \cdot \frac{d^2y}{dt^2}\\
-\text{Wellengleichung } \boxed{\frac{\tau}{\rho} \cdot \frac{d^2y}{dx^2} = \frac{d^2y}{dt^2} }\\
-v^2_{Ph} \cdot \frac{d^2\Psi}{dx^2} = \frac{d^2\Psi}{dt^2}\\
-\Rightarrow v_{Ph} = \underline{\sqrt{\frac{\tau}{\rho}}} = \sqrt{\frac{\tau \cdot A}{\rho \cdot A}} = \sqrt{\frac{F}{\underset{\text{lineare Massendichte}}{\mu}}}\\
-v_{Ph} = \frac{\omega}{K} \Rightarrow \omega = \sqrt{\frac{\tau}{\rho}} \cdot K\\
-\end{math}
-\bild
-\underline{Keine Dispersion!}\\
-\hfill \\
-Beidseitig eingespannte Seite
-\bild
-Lösung der Wellengleichung: Stehende Welle\\
+$$ \text{(*) (**) : } \boxed{\frac{E}{\rho} \cdot \frac{\partial^2\Psi}{\partial x^2} =  \frac{\partial^2 \Psi}{\partial t^2}} $$
+\begin{center}
+	Wellengleichung mit $ \underline{\underline{v_{Phi} = \sqrt{\frac{E}{\rho}}}} $ ; dispersionsfrei
+\end{center}
+$$ \underline{\underline{\omega = \sqrt{\frac{E}{\rho}} \cdot K}} $$
 \begin{align*}
-\Psi = \Psi_0 & \cdot \sin Kx \cdot \cos \omega t\\
-\underset{\text{Knoten}}{\Psi = 0} \text{ :} \hspace{5mm} y=0\hspace{2mm};\hspace{2mm}&\underset{\text{2. RB}}{x=L} \text{ für alle } t\\
-\Rightarrow K \cdot L = &n \cdot \pi\\
-\Rightarrow \underline{\underline{\lambda_n = \frac{2}{n} \cdot L}}
+\text{Typische Werte (Stahl): } &E \approx \SI{2E11}{\newton\per\meter^2} \hspace{2cm} (200\si{\giga\pascal}) \\
+&\rho = \SI{8E3}{\kilogram\per\meter^3}\\
+\Rightarrow v_{Ph} = \sqrt{\frac{E}{\rho}} \approx \SI{5E3}{\meter\per\second} >> v_{Ph} \text{ (Luft)}
 \end{align*}
-Dies definiert die Schwingungsmoden der Seite\\
-$$ 2\pi\nu_n $$
-Dispersion: $ \omega_n = \sqrt{\frac{\tau}{\rho}} \cdot K_n = = \sqrt{\frac{\tau}{\rho}} \cdot \frac{2\pi}{\lambda_n} $
-$$ \Rightarrow \underline{\underline{\nu_n = \sqrt{\frac{\tau}{\rho}} \cdot \lambda_n^{-1} = \frac{n}{2L} \cdot \sqrt{\frac{\tau}{\rho} } } } $$
-Saiteninstrument:
-\begin{itemize}
-	\item $ \lambda $ durch Geometrie bestimmt
-	\item zugehörige Frequenz durch Spannung eingestellt!
-\end{itemize}
-$ \Rightarrow $ Umwandlung von stehender Welle in Schallwelle\\
-Klang: Obertöne gleichzeitig angeregt; Superposition von Grund- und Oberschwingung
-$$ \Psi(x,t) = \sum_{i=1}^{\infty} \Psi_{0,n} \sin(K_nx) \cdot \cos(\omega_nt) $$
-$$ \Rightarrow \underline{v_S = \frac{d\omega}{dK} = \sqrt{\frac{\tau}{\rho}} = v_{Ph}} $$
+
+In Festkörpern sind wegen Schwerkraft auch transversal Wellen Möglich: \hspace{2cm} $ G $ : Schermodul
+
+$$ \underline{\underline{\Rightarrow v_{Ph} = \sqrt{\frac{G}{\rho}}}} $$
+
+\subsubsection{Wasserwellen}
+\enter
+($ \Rightarrow $ Entstehung: Handout)
+\kommentar{Handout muss hier noch nachgetragen werden.}
+\bild
+Geschwindigkeit auf Wellenberg: $ v_{Berg} = v_W - v_K$\\
+Geschwindigkeit im Wellental: $ v_{Tal} = v_{W} + v_{K} $\\
+\begin{tcolorbox}[width=\textwidth*3/5,colback={White}]
+Im Mittel kein Materialtransport
+\end{tcolorbox}
+Zunahme an kinetischer Energie vom Berg zum Tal:
+$$ \Delta E^{kin} = E_{Tal}^{kin} - E_{Berg}^{kin} = \frac{1}{2} \cdot m (v_{Tal}^2 - v_{Berg}^2) 2 \cdot m \cdot v_{W} \cdot v_{K}$$
+($ m $ : Masse der Wellenfront)\\
+"Verlust" an potenzieller Energie:
+$$ \Delta E ^{pot} = 2mgR $$
+\begin{align*}
+\Delta E^{pot}  = \Delta E ^{kin} \Leftarrow\\
+\Rightarrow v_W = \sqrt{\frac{g\cdot\lambda_W}{2\pi}}
+\end{align*}
+\kommentar{"zu Hause zeigen", muss noch gemacht werden}
+Schwere-wellen zeigen ausgeprägte Dispersion:
+\begin{align*}
+\lambda_w = \SI{10}{\meter} &\Rightarrow v_W = \SI{4}{\meter\per\second}\\
+\lambda_w = \SI{1000}{\meter} &\Rightarrow v_W = \SI{40}{\meter\per\second}
+\end{align*}
+Für kleinere $ \lambda $ : Oberflächenspannung $ \sigma $ berücksichtigen\\
+zusätzlich: Einfluss endlicher Wassertiefe berücksichtigen
+\bild
+Es gilt allgemein (Komplexe Rechnung).\\
+$$ v_{Ph} = \sqrt{\frac{g\cdot\lambda_W}{2\pi}+\frac{2\pi\sigma}{\underbrace{\rho\cdot\lambda_W}_{\text{Oberfläche}}}} \cdot \overset{(A)^{1/2}}{\underset{h: \text{ Wassertiefe}}{\sqrt{\frac{1-\exp(-2\cdot K \cdot h)}{1+\exp(-2 \cdot K \cdot h)}}}}$$
+
+\paragraph{Seichtwasserwellen:}
+ab $  n \leq \frac{\lambda_W}{4} $ muss endliche Tiefe berücksichtigt werden!\\
+$$\text{(A): } \frac{1-\exp(-2Kh)}{1+\exp(-2Kh)} \overset{n<<\frac{2\pi}{K}}{\longrightarrow} \frac{1-(1-2Kh)}{1+(1-2Kh)} = \frac{2Kh}{2-2Kh} \approx Kh$$
+Beschränkung auf Nicht-Oberflächenwelle:\\
+$$ \rightarrow v_{Ph} = \sqrt{\frac{g\cdot\lambda_W}{2\pi}} \sqrt{\frac{2\pi}{\lambda_W}\cdot h} = \sqrt{g \cdot h} $$
+Keine Dispersion für Flachwasserwelle; \underline{$ v_{Ph}  $ hängt nur von $ h $ ab!!}\\
+$ \Rightarrow $ Das ist der Grund für Entstehung von Brandung und Tsünamos!\\
+Experiment: Tiefwasser $ \rightarrow $ Flachwasserwelle\\
+\bild
+$$ v_{Ph}  = \sqrt{g\cdot h}; \lambda_1 = \frac{v_{Ph}}{\nu} = \frac{\SI{0,41}{\meter\per\second}}{\nu}; \lambda_2 = \frac{\SI{0,17}{\meter\per\second}}{\nu} $$
+$ \nu  = const.$ (Erregerfrequenz)
+\bild
+Entstehung von Tsünamos:\\
+$ \lambda=\SI{100}{\kilo\meter} - \SI{500}{\kilo\meter} $ (z.B. durch Seebeben)\\
+$ \Rightarrow $ Tsünamos sind überall Flachwasserwellen (Wellenhöhe: $ <\SI{1}{\meter} $)\\
+$ v_{Ph} = \sqrt{g\cdot h} $ in Ozeanen ($ h \approx \SI{5000}{\meter} $) : $ \vDash_{Ph} =\SI{780}{\kilo\meter\per\hour} $\\
+Periodendauer: $ T=\SI{7,5}{\minute} ... \SI{38}{\minute} $\\
+In flachem Wasser ($ h=\SI{5}{-meter} $) reduziert sich $ v_{Ph}  $ auf ca $ 1/30 $
+$$ v_{Ph}  \approx \SI{26}{\kilo\meter\per\hour}$$
+$ \lambda $ reduziert sich ebenfalls auf $ 1/30 $
+\begin{tcolorbox} [colback = {White}, outer arc=0mm, sharp corners]
+	Da $ E_{km} $ erhalten bleibt, nimmt die Amplitude drastisch zu!!
+\end{tcolorbox}
