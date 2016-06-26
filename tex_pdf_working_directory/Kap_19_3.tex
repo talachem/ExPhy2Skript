@@ -5,9 +5,13 @@ $$ \Psi(\vec{r},t) = \sum_{i=1}^{N} \Psi_1(\vec{r},t)$$
 Experiment: Reflexion der Welle einer Pendelkette
 \begin{itemize}
 	\item Festes Ende: Phasensprung von $ \pi $ bei Reflexion
-	\bild
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{skizzen/19/19B12}
+	\end{center}
 	\item Freies Ende: Kein Phasensprung
-	\bild
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{skizzen/19/19B13}
+	\end{center}
 \end{itemize}
 Überlegung von links- und rechts-laufender Welle\\
 Gleiche Amplitude, gleiche Frequenz, Phasenverschiebung $ \varphi $
@@ -25,37 +29,42 @@ Resonanz-Situation: $  \underset{K=\frac{2\pi}{2}}{K} \cdot x = \frac{(2\mathbb{
 \underline{$ \Rightarrow \lambda = \frac{2}{\mathbb{N}}\cdot L $}\\
 \underline{$ \mathbb{N}\cdot\frac{\lambda}{2} = L $}\\
 \end{center}
- \bild
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{skizzen/19/19B14}
+\end{center}
  Loses Ende: $ \varphi = 0 $!
  \begin{align*}
  \Rightarrow &\text{ Resonanz: } \frac{2\mathbb{N}+1}{2} \cdot \lambda = L\\
  &\lambda = \frac{4 \cdot L}{(2\mathbb{N}-1)}
  \end{align*}
- \bild
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{skizzen/19/19B15}
+\end{center}
  Mikrowelle:
  \begin{align*}
  d_{Knoten} &= \frac{\lambda}{2} \approx \SI{10}{\centi\meter}\\
  \nu & = \frac{c}{\lambda} = \frac{\SI{3e8}{\meter\per\second}}{\SI{0,2}{\meter}} = \SI{1,5e9}{\per\second}\\
  &=\underline{\SI{1,5}{\giga\hertz}}
  \end{align*}
- \bild
- \bild
  
  \subsubsection{Wellenpakete und Synthese/Analyse nicht harmonischer Wellen} \hfill \\
  Eine streng monochromatische ($ \omega=\omega_0 $, harmonisch) Welle ist zeitlich und räumlich unendlich ausgedehnt! Alle nicht-harmonischen Wellen sind als Überlagerung harmonischer Wellen darstellbar. \\
  Schwingungsanteil: $ \underset{\text{\underline{Fourier-Zerlegung}}}{\boxed{\Psi(t) = a_0 + \sum_{n=1}^{\infty} a_n \cdot \cos(n\cdot\omega_1\cdot t + \varphi_n)}} $ \\
- Auch für Wellenzüge möglich!
- \bild
- \bild
- \bild
+ Auch für Wellenzüge möglich!\enter
+ \href{https://upload.wikimedia.org/wikipedia/commons/5/50/Fourier_transform_time_and_frequency_domains.gif}{Krasse Fourier-Transformation Animation}
+\begin{center}
+	\includegraphics[width=0.7\linewidth]{skizzen/19/19B16}
+\end{center}
  \begin{itemize}
  	\item Darstellung ist immer durch Überlagerung der Grundwelle mit harmonischen Oberwellen möglich.
  	\item Amplituden nehmen mit wachsender Frequenz ab!
  	\item Obertonspektrum ($ a_n $ von $ \omega_n = b\cdot \omega_1 $) ist charakteristisch für den individuellen Klang der Stimme! Es hängt von der Beschaffenheit des "Klangkörpers" ab!
  \end{itemize}
  Überlagerung von Wellen mit ähnlichem $ K,\omega $ bei gleicher Ausbreitungsrichtung und Amplitude.\\
- \rule{5cm}{.2pt}\\
- \bild
+\HL
+ \begin{center}
+ 	\includegraphics[width=0.5\linewidth]{skizzen/19/19B17}
+ \end{center}
  \begin{align*}
  	\Psi(x,t) = \Psi_0 &\left[ \underbrace{\sin(Kx-\omega t) }_{\text{1. Welle}}+ \underbrace{\sin\left( (K+\Delta K)x-(\omega+\Delta\omega)t\right) }_{\text{2. Welle}} \right]\\
  	\sin\alpha+&\sin\beta = 2\cdot\cos\frac{(\alpha-\beta)}{2} \cdot \sin\frac{(\alpha+\beta)}{2}\\
@@ -64,7 +73,9 @@ Resonanz-Situation: $  \underset{K=\frac{2\pi}{2}}{K} \cdot x = \frac{(2\mathbb{
  	\text{Näherung:}& \frac{\omega + (\omega + \Delta\omega)}{2} \approx \omega \hspace{3mm} ,\hspace{3mm} K+...\\
  	\Psi(x,t) = 2 \Psi_0 & \cdot \underbrace{\cos(\frac{1}{2}(\Delta K \cdot x - \Delta\omega\cdot t) )}_{\text{Modulation der Amplitude}} \cdot \underbrace{\sin(Kx-\omega t)}_{\text{Welle}}
  \end{align*}
- \bild
+\begin{center}
+	\includegraphics[width=0.5\linewidth]{skizzen/19/19B18}
+\end{center}
  \subsubsection{Gruppengeschwindigkeit}
  Wie schnell bewegt sich die cos-Modulation (Einhüllende) im Raum?\\
  Amplitudenfaktor; $ 2 \cdot \Psi_0 \cdot \cos(\frac{1}{2}(\Delta K \cdot x - \Delta\omega \cdot t)) = const.$\\
