@@ -28,68 +28,44 @@ Beides bewegt sich: \bild
 \nu'=\frac{v_{Ph}-v_E}{v_{Ph}-v_Q} \cdot \nu \\
 v_Q,v_E << v_{Ph}\\
 \nu'=\frac{1-\frac{v_E}{v_{Ph}}}{1-\frac{v_Q}{v_{Ph}}} \cdot \nu &= \left[ (1-\frac{v_E}{v_{Ph}}) (1+\frac{v_Q}{v_{Ph}})  \right] \cdot \nu \\
-&= \left[ (1  \right] \cdot \nu
+&= [ 1-\frac{(v_E-v_R)}{v_{Ph}} - \frac{v_E \cdot v_Q}{\underbrace{v^2_{Ph}}_{\mathclap{\approx 0 \text{ (2.0rdnung)}}}}  ] \cdot \nu\\
+\enter
+v_E-v_Q&=v_{rel}\\
+\nu'=&(1-\frac{v_{rel}}{v_{Ph}}) \cdot \nu
+\end{align*}
+$$ \underline{v_{rell} < 0: \hspace{5mm} Q\rightarrow\leftarrow E \Rightarrow \nu' > \nu} $$
+\bild
+Beispiel: Polizeisirene: $ v_{Ph} = \SI{300}{\meter\per\second} $ ; $ v_Q=\SI{30}{\meter\per\second} = \SI{110}{\kilo\meter\per\hour}$
+$$ \Rightarrow \nu'=(1+10^{-1}) \cdot \nu \longrightarrow \nu' (1-10^{-1}) \cdot \nu $$
+\kommentar{Ich denke hier ist irgendwas falsch im Skript, die zweite obige Gleichung ist gar keine Gleichung}
+\HL
+Unterschied zu elektromagnetischer Wellen: Lichtgeschwindigkeit ist konstant.\\
+Grenzfall des Doppler-Effektes:
+\begin{align*}
+v_Q=v_{Ph}\\
+\Rightarrow \lambda'=(v_{Ph} - v_Q) \cdot T_v = 0?\\
+v_Q > v_{Ph}
 \end{align*}
 \bild
-Beispiel: Polizeisirene: $ v_{Ph} = \SI{300}{\meter\per\second} $ ; $ v_................................ $ 
-\rule{5cm}{.2pt}\\
-Unterschied zu elektromagnetischer Wellen: Lichtgeschwindigkeit ist konstant.\\
-Grenzfall des Doppler-Effektes: $ .... $\\
-....
-\bild
-......
+$$ v_Q=v_{Ph} $$
 \bild
 Im Zeitraum $ t $:\\
-Quelle bewegt sich um A nach B \hspace{1cm} .........\\
-.....\\
+Quelle bewegt sich um $ A $ nach $ B $ \hspace{1cm} $\overline{AB} = v_Q \cdot t$\\
+Welle von $ A $ nach $ A' $ \hspace{1cm} $ \overline{AA'} = v_{Ph} \cdot t $
+\enter
+\underline{$ \alpha $: Öffnungswinkel} $ \sin\alpha = \frac{\overline{AA'}}{\overline{AB}} = \frac{v_{Ph}}{v_Q}$
+\enter
 2. Kreiswellen, emittiert zur Zeit $ t_2 $ : $ 0<t_2<t $
-
-$$ ....... $$\\
-...............\\
-..........\\
+\begin{align*}
+\sin\alpha = \frac{v_{Ph} (t-t_2)}{v_Q(t-t_2)} = \frac{v_{Ph}}{v_Q}
+\end{align*}
+für $ v_Q>v_{Ph} $: Die Einhüllende der Wellenfronten ist ein Kegel mit Öffnungswinkel $ \underbracket{\alpha}_{\mathclap{\sin\alpha=\frac{v_{Ph}}{v_Q}}} $ (Mach-Kegel)\\
+$ \Rightarrow $ Dort akkumuliert sich eine Große Gesamtamplitude \\
+$ \Rightarrow $ Diese Einhüllende folgt der Quelle mit Zeitversatz\\
+\enter
 $ \Rightarrow $ Schall:
 \bild
 Zusätzlich "Wolkenscheibeneffekt"
-Adiabatische Expansion nach starker Kompression $ \Rightarrow $ Reduzierung der Temperatur............
+Adiabatische Expansion nach starker Kompression $ \Rightarrow $ Reduzierung der Temperatur\\
+Bei hoher Luftfeuchtigkeit: Taubildung an Mach-Kegel-Spitze!
 \bild
-\rule{5cm}{.2pt}
-
-\section{20 Wellenausbreitung in 2 und 3 Dimensionen} \hfill\\
-Definition: Wellenfront: Punkte gleicher Phase, die zur gleichen Zeit durch Welle angeregt werden. \\
-.............\\
-$ \Rightarrow $ Jeder Punkt einer Wellenfront ist Erreger einer Kugelförmigen Elementarwelle. Die Einhüllende aller dieser Elementarwellen bildet die Wellenfront zu einem späteren Zeitpunkt als Superposition alle Elementarwellen unter Berücksichtigung ihrer Phase.
-\bild
-\bild
-Resultat: "Beugung" von Wellen \\
-Bewegung ist typischer Wellenphänomen, das die Ausbreitung in Bereiche beschreibt, die bei gradlinieger Ausbreitung nicht erreicht werden Können ("geometrischer Schattenbereich")
-\bild
-Wenn $ \lambda << d $ (d: typ. geometrische Dimension der Hindernisse......\\
-...........\\
-.......\\
-Ist $ \lambda \approx d$ , so müssen dominant typische Wellenphänomene berücksichtigt werden.\\
-Reflexion von Wellen
-\bild
-\kommentar{Wellenfront erreicht Hindernis; Aussenden neuer Elementarwellen; Durch Einhüllende ist die neue Wellenfront}
-Geometrie: Einfallswinkel $ \alpha $ $ = $ Ausfallwinkel $ \alpha' $\\
-(Aussage nur über Richtung, nicht über Amplitude (Intensität))\\
-Brechung: Wellenfront von Medium 1 und $ v_{Ph} = c_1 $ in Medium 2 mit $ v_{Ph} = c_2 $
-\bild
-In der Zeit $ \tau $ : \begin{align*}
-\lambda &= c_1 \cdot \tau \hspace{5mm} \text{Medium 1}\\
-\lambda' &= c_2 \cdot \tau \hspace{5mm} \text{Medium 2}\\
-\hfill\\
-\frac{\lambda}{d} = \sin\alpha& \text{ ; } \frac{\lambda'}{d} = \sin\beta\\
-\frac{\lambda}{\sin\alpha} =& \frac{\lambda'}{\sin\beta}\\
-\Rightarrow \frac{c_1 \cdot \tau}{\sin\alpha} &= \frac{c_2 \cdot \tau}{\sin\beta} \Leftrightarrow \boxed{..........}
-\end{align*}
-...........\\
-...........\\
-\begin{math}
-\underline{\frac{\sin\alpha_1}{\sin\alpha_2} = \frac{\lambda_1}{\lambda_2} = \frac{c_1}{c_2}} \hspace{2cm} \underbrace{c_1}_{\text{dünneres Medium}} > \underbrace{c_2}_{\text{dickeres Medium}}
-\end{math}
-\\
-\begin{center}
-	\rule{5cm}{.2pt}
-\end{center}
-\bdt{Interferenz (Experiment: Interferenz Kohärenter Wasserwellen) \\
-	Kohärenz: Zwei Wellensysteme sind dann kohärent, wenn sich ihre Phasenbeziehung als Funktion der Zeit nicht ändert, d.h. die Phasendifferenz $ \Delta\varphi $ ist an jedem Raumpunkt zeitlich Konstant und ergibt sich direkt aus dem Laufzeitunterschied.}
