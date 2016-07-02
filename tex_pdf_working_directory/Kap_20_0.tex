@@ -1,17 +1,17 @@
 \subsection{Wellenausbreitung in 2 und 3 Dimensionen} \hfill\\
-Definition: Wellenfront: Punkte gleicher Phase, die zur gleichen Zeit durch Welle angeregt werden. \\
-.............\\
+\subsubsection{Definition Wellenfront}: Punkte gleicher Phase, die zur gleichen Zeit durch Welle angeregt werden. \\
+\subsubsection{Huygen'sches Prinzip}\enter
 $ \Rightarrow $ Jeder Punkt einer Wellenfront ist Erreger einer Kugelförmigen Elementarwelle. Die Einhüllende aller dieser Elementarwellen bildet die Wellenfront zu einem späteren Zeitpunkt als Superposition alle Elementarwellen unter Berücksichtigung ihrer Phase.
 \bild
 \bild
 Resultat: "Beugung" von Wellen \\
-Bewegung ist typischer Wellenphänomen, das die Ausbreitung in Bereiche beschreibt, die bei gradlinieger Ausbreitung nicht erreicht werden Können ("geometrischer Schattenbereich")
+Bewegung ist typisches Wellenphänomen, das die Ausbreitung in Bereiche beschreibt, die bei gradliniger Ausbreitung nicht erreicht werden Können ("geometrischer Schattenbereich")
 \bild
-Wenn $ \lambda << d $ (d: typ. geometrische Dimension der Hindernisse......\\
-...........\\
-.......\\
+Wenn $ \lambda << d $ (d: typ. geometrische Dimension der Hindernisse), dann ist Beugung vernachlässigbar und Ausbreitung durch "Strahlen" zu beschreiben
+\subsubsection{Definition Strahl}: Normale auf der Wellenfront, immer in Ausbreitungsrichtung zeigend.\\
+In dem Fall Komplette Beschreibung durch: "Geometrische Optik"\\
 Ist $ \lambda \approx d$ , so müssen dominant typische Wellenphänomene berücksichtigt werden.\\
-Reflexion von Wellen
+\subsubsection{Reflexion von Wellen}
 \bild
 \kommentar{Wellenfront erreicht Hindernis; Aussenden neuer Elementarwellen; Durch Einhüllende ist die neue Wellenfront}
 Geometrie: Einfallswinkel $ \alpha $ $ = $ Ausfallwinkel $ \alpha' $\\
@@ -21,19 +21,27 @@ Brechung: Wellenfront von Medium 1 und $ v_{Ph} = c_1 $ in Medium 2 mit $ v_{Ph}
 In der Zeit $ \tau $ : \begin{align*}
 \lambda &= c_1 \cdot \tau \hspace{5mm} \text{Medium 1}\\
 \lambda' &= c_2 \cdot \tau \hspace{5mm} \text{Medium 2}\\
-\hfill\\
+\enter
 \frac{\lambda}{d} = \sin\alpha& \text{ ; } \frac{\lambda'}{d} = \sin\beta\\
 \frac{\lambda}{\sin\alpha} =& \frac{\lambda'}{\sin\beta}\\
-\Rightarrow \frac{c_1 \cdot \tau}{\sin\alpha} &= \frac{c_2 \cdot \tau}{\sin\beta} \Leftrightarrow \boxed{..........}
+\Rightarrow \frac{c_1 \cdot \tau}{\sin\alpha} &= \frac{c_2 \cdot \tau}{\sin\beta} \Leftrightarrow \underset{\underline{\text{Brechungsgesetz}}}{\boxed{\frac{\sin\alpha}{\sin\beta} = \frac{c_1}{c_2}}}
 \end{align*}
-...........\\
-...........\\
+$ \Rightarrow $ In "dichten" Medium nimmt $ \lambda $ ab, Brechung im "dichteren" Medium zum Lot hin.\\
+$ \Rightarrow $ Frequenz ändert sich beim Übergang nicht!\enter\enter
 \begin{math}
-\underline{\frac{\sin\alpha_1}{\sin\alpha_2} = \frac{\lambda_1}{\lambda_2} = \frac{c_1}{c_2}} \hspace{2cm} \underbrace{c_1}_{\text{dünneres Medium}} > \underbrace{c_2}_{\text{dickeres Medium}}
+\ds{\underline{\frac{\sin\alpha_1}{\sin\alpha_2} = \frac{\lambda_1}{\lambda_2} = \frac{c_1}{c_2}}} \hspace{2cm} \underbrace{c_1}_{\text{dünneres Medium}} > \underbrace{c_2}_{\text{dichteres Medium}}
 \end{math}
-\\
-\begin{center}
-	\rule{5cm}{.2pt}
-\end{center}
-\bdt{Interferenz (Experiment: Interferenz Kohärenter Wasserwellen) \\
+\enter
+\HL
+\subsubsection{Interferenz} (Experiment: Interferenz Kohärenter Wasserwellen)
+\bdt{
 	Kohärenz: Zwei Wellensysteme sind dann kohärent, wenn sich ihre Phasenbeziehung als Funktion der Zeit nicht ändert, d.h. die Phasendifferenz $ \Delta\varphi $ ist an jedem Raumpunkt zeitlich Konstant und ergibt sich direkt aus dem Laufzeitunterschied.}
+Ergebnis des Experiments: Quasi-stationäre Intensitätsverteilung durch Überlagerung!\enter\enter
+Kohärenz: \begin{enumerate}
+	\item Beispiel: Starre Kopplung
+	\bild
+	$$ \Delta\varphi=\frac{2\pi}{\lambda}(S_2-S_1) $$
+	\item Beispiel: Teilung einer Welle
+	\bild
+	$$ S_1 = S_{11}+S_{12} \hspace{1cm} \Delta\varphi=\frac{2\pi}{\lambda}(S_{2}-S_{1}) $$
+\end{enumerate}
